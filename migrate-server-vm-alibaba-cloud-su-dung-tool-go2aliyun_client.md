@@ -7,7 +7,7 @@ categories:
 
 Bài viết này sẽ hướng dẫn bạn cách **Migrate Server, VM Trên Alibaba Cloud Sử Dụng Sử Dụng Tool go2aliyun\_client.** Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
-![](https://kb.vinahost.vn/wp-content/uploads/2023/02/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh-0-1.webp)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh-0-1.png)
 
 ## 1\. Yêu cầu chung
 
@@ -19,11 +19,11 @@ Thao tác này chỉ cần thao tác một lần trong lần đầu sử dụng 
 
 Khi lần đầu sử dụng sẽ nhận được thông báo như hình, bấm vào **Authorize** sau đó làm theo hướng dẫn để kích hoạt.
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-1.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-1.png)
 
 **(2) Đã Active Snapshot Service**
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-2.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-2.png)
 
 Tương tự như trên bạn cần clicks vào **Active Now** một lần trong lần đầu sử dụng và làm theo hướng dẫn.
 
@@ -44,7 +44,7 @@ Link có thể lấy như hình ảnh hoặc sử dụng link sau:
 
 [https://p2v-tools.oss-cn-hangzhou.aliyuncs.com/smc/Alibaba\_Cloud\_Migration\_Tool.zip](https://p2v-tools.oss-cn-hangzhou.aliyuncs.com/smc/Alibaba_Cloud_Migration_Tool.zip)
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-3.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-3.png)
 
 ### **Bước 2: SSH vào server/VM cần chuyển dùng wget để tải File về**
 
@@ -58,7 +58,7 @@ Sử dụng link sau:
 
 **Unzip** các file vừa tải về ra
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-5.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-5.png)
 
 Sau khi **unzip file Alibaba\_Cloud\_Migration\_Tool.zip,** bạn chọn tool đúng với hệ điều hành mà **Server/VM** đang dùng để unzip.
 
@@ -68,19 +68,19 @@ Sau khi **unzip file Alibaba\_Cloud\_Migration\_Tool.zip,** bạn chọn tool đ
 
 Vào  [Alibaba Cloud Management Console](https://home-intl.console.aliyun.com/) \=> chọn phần **AccessKey Management**.
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-6.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-6.png)
 
 Chọn **Use Curent Access Key**
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-7.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-7.png)
 
 Tại đây có thể tạo key mới hoặc sử dụng key cũ
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-8.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-8.png)
 
 Chọn **view secret** để lấy **secret id**
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-9.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-9.png)
 
 Có thể tham khảo cách lấy tại links sau: [https://www.alibabacloud.com/help/en/basics-for-beginners/latest/obtain-an-accesskey-pair](https://www.alibabacloud.com/help/en/basics-for-beginners/latest/obtain-an-accesskey-pair)
 
@@ -88,11 +88,11 @@ Có thể tham khảo cách lấy tại links sau: [https://www.alibabacloud.com
 
 - Cách 1: Chỉnh sửa trực tiếp tại **file user\_config.json**
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-10.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-10.png)
 
 Điền **access key id** và **secret key id** tại đây
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-11.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-11.png)
 
 - Cách 2: chạy trực tiếp trên **script.**
 
@@ -102,11 +102,11 @@ Có thể tham khảo cách lấy tại links sau: [https://www.alibabacloud.com
 
 Tiến hành chạy **script go2aliyun\_client**
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-12.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-12.png)
 
 Khi có thông báo **Suscessfully** và **Go to SMC console to Create New Job**, thì truy cập trang web: [https://smc.console.aliyun.com/sourceServers](https://smc.console.aliyun.com/sourceServers) để tạo Migrate Jobs.
 
-![](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-13.png)
+![Alibaba Cloud Sử Dụng Tool go2aliyun_client](images/migrate-server-vm-tren-alibaba-cloud-su-dung-tool-go2aliyun_client-13.png)
 
 Khi tạo **Migrate Jobs** thì trên **server** sẽ thể hiện như sau:
 
