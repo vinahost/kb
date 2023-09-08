@@ -18,7 +18,7 @@ Ví dụ khi người dùng đang ở 1 website nào đó (someone.site) và tro
 
 Tham khảo thêm về cách tấn công sử dụng Http Referer: http://mixedbit.org/referer.html
 
-![Http Referer](https://kb.vinahost.vn/wp-content/uploads/2023/02/chan-cac-traffic-theo-http-refer-tren-nginx-1.webp)
+![Http Referer](image/../images/chan-cac-traffic-theo-http-refer-tren-nginx-1.jpeg)
 
 ## 2\. Một số lệnh trong Nginx
 
