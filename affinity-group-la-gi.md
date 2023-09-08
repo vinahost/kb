@@ -14,17 +14,17 @@ Bài viết này sẽ giới thiệu về **Affinity Group Và Cách Sử Dụng
 
 ## **2\. Affinity Group Policy**
 
-![](images/NQ4xeRKDaREYqtUg9n8xGc-removebg-preview.png)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](images/NQ4xeRKDaREYqtUg9n8xGc-removebg-preview.png)
 
 vCloud cung cấp 2 affinity group policy nhằm quản lý tốt hơn các VM instance:
 
 - **Anti-affinity group (soft):** Chỉ định VM instance trong affinity group tới các host khác càng nhiều càng tốt. Nếu không còn host nào có thể chứa nữa, VM sẽ được chỉ định vị trí ngẫu nhiên. Thường được dùng để tăng hiệu suất hệ thống tổng thể
 
-![](https://kb.vinahost.vn/wp-content/uploads/2023/02/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh-0-2.webp)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](image/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh-0-2.png)
 
 - **Anti-affinity group (hard)**: Phân bổ chặt chẽ VM trong affinity group tới các host khác. Nếu không còn host nào khác nữa, hoạt động phân bổ đó sẽ thất bại. Bạn có thể muốn triển khai hai VM instance chạy database đang hoạt động và database dự phòng trên các máy chủ khác nhau để đảm bảo tính sẵn sàng cao (giảm downtime khi gặp sự cố).
 
-![](images/affinity-group-la-gi-1.png)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](images/affinity-group-la-gi-1.png)
 
 ## **3\. VM Scheduling Policy**
 
@@ -36,15 +36,15 @@ Trong hệ thống cloud của VinaHost, **Affinity Group** sẽ được đổi
 
 Để tạo một group mới ta chọn Create VM Scheduling Policy
 
-![](images/affinity-group-la-gi-2.png)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](images/affinity-group-la-gi-2.png)
 
 Tiếp theo, ta cung cấp các thông tin cần thiết. Quan trọng ở phần chọn policy cho group phù hợp với mục đích sửa dụng của mình
 
-![](images/affinity-group-la-gi-3.png)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](images/affinity-group-la-gi-3.png)
 
 Cuối cùng là chọn các VM instance muốn add vào group đang tạo và chọn OK để hoàn thành quá trình
 
-![](images/affinity-group-la-gi-4.png)
+![Giới Thiệu Về Affinity Group Và Cách Sử Dụng](images/affinity-group-la-gi-4.png)
 
 ![Affinity Group](images/affinity-group-la-gi-5.png)
 
