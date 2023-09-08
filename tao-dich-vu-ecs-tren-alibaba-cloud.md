@@ -18,11 +18,11 @@ Chọn **Create ECS instance**
 
 **Phương thức thanh toán:**
 
-\- Subcription: trả phí trước theo tháng
+\- **Subcription**: trả phí trước theo tháng
 
-\- Pay-as-you-go: trả phí theo giờ sử dụng
+\- **Pay-as-you-go**: trả phí theo giờ sử dụng
 
-**Region và Zone:** ở ví dụ chọn Singapore
+**Region và Zone:** ở ví dụ chọn **Singapore**
 
 Chọn thông số **CPU** là **RAM** sẽ xuất hiện các **option** khác nhau bên dưới
 
@@ -36,15 +36,15 @@ Tiếp theo chọn dung lượng **Disk** và **Next**:
 
 **Ở phần Networking:**
 
-\- Private: bạn có thể cấu hình IP theo ý mình tùy theo từng Zone
+\- **Private**: bạn có thể cấu hình IP theo ý mình tùy theo từng Zone
 
-\- Public IP: chọn cung cấp Public IP theo Instance này hoặc có thể bỏ tick và sử dụng EIP sau đó
+\- **Public IP**: chọn cung cấp Public IP theo Instance này hoặc có thể bỏ tick và sử dụng EIP sau đó
 
 **Bandwitdth:**
 
-\- Pay-by-Traffic: trả phí theo dung lượng sử dụng
+\- **Pay-by-Traffic**: trả phí theo dung lượng sử dụng
 
-\- Pay-by-Bandwidth: trả phí theo BW
+\- **Pay-by-Bandwidth**: trả phí theo BW
 
 **Next**
 
@@ -52,8 +52,8 @@ Tiếp theo chọn dung lượng **Disk** và **Next**:
 
 **Logon Credentials**: có 3 options
 
-- Key Pair: sử dụng key để đăng nhập
-- Password: root (ecs-user) password
+- **Key Pair**: sử dụng key để đăng nhập
+- **Password**: root (ecs-user) password
 - Cài đặt sau
 
 Tiếp theo đặt tên cho **Instance**, **Host** và **Next**
