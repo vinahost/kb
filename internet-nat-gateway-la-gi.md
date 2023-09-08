@@ -15,7 +15,7 @@ Bài viết này sẽ giới thiệu về **Internet NAT Gateway.** Nếu bạn
 
 **Internet NAT Gateway** hỗ trợ high performance, tự động **scale, flexible billing**… Dịch vụ **Internet NAT Gateway** cho phép user quản lý việc truyền tải dữ liệu qua Internet một cách linh hoạt và hiệu quả hơn.
 
-![](https://kb.vinahost.vn/wp-content/uploads/2023/02/internet-nat-gateway-la-gi-2.webp)
+![Internet NAT Gateway Là Gì?](images/internet-nat-gateway-la-gi-2.png)
 
 ## 2\. Mô hình network của Internet NAT Gateway
 
@@ -34,7 +34,7 @@ _Mô hình hoạt động của Internet NAT Gateway_
 - **Hiệu suất cao (High Performance):** Giúp bạn kiểm soát các lưu lượng tăng vượt ngưỡng. Phù hợp với các bài toán yêu cầu đồng bộ cao. Có thể upgrade tài nguyên bằng cách submit ticket tới trung tâm hỗ trợ.
 - **Tính sẵn sàng cao (High Availability):** hỗ trợ **cross-zone disater recovery** - khắc phục thảm họa giữa các zone. Nếu một **zone** bị down, dịch vụ của bạn sẽ không bị gián đoạn.
 
- ![Internet NAT Gateway](https://kb.vinahost.vn/wp-content/uploads/2023/02/internet-nat-gateway-la-gi-4.webp)
+ ![Internet NAT Gateway](images/internet-nat-gateway-la-gi-4.png)
 
 - **Fine-grained O&M**: Internet NAT Gatewa có thể tự detect được ECS, qua đó giúp giám sát được lưu lượng traffic đỉnh và cung cấp các công cụ giám sát **metrics và data transfer**.
 - **Tính linh hoạt cao (High elasticity)**: áp dụng các giải pháp cao cấp và khả năng scale linh hoạt để đáp ứng các tính huống khác nhau trong quá trình vận hành.
