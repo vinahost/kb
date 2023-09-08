@@ -1,8 +1,3 @@
----
-title: "Block Front Page"
-date: "2022-07-22"
----
-
 # **Quy Định Sử Dụng Dịch Vụ**
 
 VinaHost đề ra quy định sử dụng dịch vụ nhằm khẳng định vai trò của mình cũng như trách nhiệm của khách hàng trong việc đảm bảo chất lượng dịch vụ.
