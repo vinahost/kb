@@ -41,7 +41,7 @@ B4: **Add user** vừa tạo vào **databases** ta cần **access**
 
 B5: **Access remote MySQL** với lệnh : mysql -u <user> -h <host> -p’<password>’
 
-- mysql -u minhquang\_1 -h 30.140.205 -p’quangquang192’
+- mysql -u minhquang\_1 -h 123.30.140.205 -p’quangquang192’
 
 ![Allow Remote MySQL Databases](images/allow-remote-mysql-databases-bang-cpanel-7.png)
 
