@@ -12,7 +12,7 @@ Thông thường, chúng ta thực hiện việc **test** thông qua lệnh `dd`
 
 Tuy vậy, cách kiểm tra này thực sự chưa hiệu quả và có nhiều vấn đề:
 
-- Câu lệnh thực hiện hoạt động đơn nhiệm và việc ghi tuần tự. Nếu bạn vận hành web và database server trên VPS thì con số này là vô nghĩa bởi phần lớn các ứng dụng không thực hiện việc ghi tuần tự mà đọc ghi ngẫu nhiên liên tục.
+- Câu lệnh thực hiện hoạt động đơn nhiệm và việc ghi tuần tự. Nếu bạn vận hành web và database server trên VPS hoặc **dedicated server** thì con số này là vô nghĩa bởi phần lớn các ứng dụng không thực hiện việc ghi tuần tự mà đọc ghi ngẫu nhiên liên tục.
 
 - Việc ghi dữ liệu xuống hệ thống có thể bị ảnh hưởng bởi việc lưu cache trên server. Một số nhà cung cấp còn tối ưu được kết quả trả về.
 
@@ -20,7 +20,7 @@ Tuy vậy, cách kiểm tra này thực sự chưa hiệu quả và có nhiều 
 
 - Câu lệnh này chỉ kiểm tra tốc độ ghi của ổ cứng, chưa kiểm tra tốc độ đọc trong khi phần lớn các website số lượng đọc (truy cập, đọc tin tức) sẽ nhiều hơn ghi (viết, chỉnh sửa tin tức).
 
-Như vậy, để kiểm tra hiệu suất ổ cứng của **VPS** lệnh `dd` không phải là câu lệnh tốt nhất và bao quát được tất cả các thông tin.
+Như vậy, để kiểm tra hiệu suất ổ cứng của **server** lệnh `dd` không phải là câu lệnh tốt nhất và bao quát được tất cả các thông tin.
 
 Do vậy, trong bài viết này, mình sẽ giới thiệu phương pháp kiểm tra hiệu suất ổ cứng chính xác hơn qua thông số **IOPS** và **Latency** bằng công cụ `Fio` và `IOPing`.
 
@@ -34,7 +34,7 @@ Do vậy, trong bài viết này, mình sẽ giới thiệu phương pháp kiể
 
     # yum install -y epel-release && yum install -y fio || ( apt-get update && apt-get install -y fio )
 
-Quá trình test **IOPS** trên **VPS** sẽ kiểm tra với các thông số cụ thể sau:
+Quá trình test **IOPS** trên **server** sẽ kiểm tra với các thông số cụ thể sau:
 
 - Tác vụ ngẫu nhiên: Random write, random read và kết hợp cả hai. Ví dụ, đối với database, khi truy cập hệ thống sẽ đọc dữ liệu từ mọi nơi thuộc ổ cứng, được hiểu là truy cập ngẫu nhiên(random read).
 
@@ -72,9 +72,9 @@ Tạo 1 file 4GB, thực hiện việc đọc/ghi đồng thời với blocksize
     Disk stats (read/write):
     vda: ios=780554/260043, merge=0/3, ticks=1065572/252824, in_queue=1317905, util=99.50%
 
-Có thể thấy, VPS test có thể thực hiện đồng thời 31,057 tác vụ đọc và 10,341 tác vụ ghi mỗi giây.
+Có thể thấy, **server test** có thể thực hiện đồng thời 31,057 tác vụ đọc và 10,341 tác vụ ghi mỗi giây.
 
-Thông thường, trong tình trạng tải nhẹ, VPS sử dụng ổ cứng SSD có thể đạt 40,000 đọc và 10,000 ghi còn sử dụng non-SSD đạt 500 đọc và 200 ghi.
+Thông thường, trong tình trạng tải nhẹ, **server** sử dụng ổ cứng SSD có thể đạt 40,000 đọc và 10,000 ghi còn sử dụng non-SSD đạt 500 đọc và 200 ghi.
 
 ### Kiểm tra random read
 
@@ -100,11 +100,11 @@ Thông thường, trong tình trạng tải nhẹ, VPS sử dụng ổ cứng SS
     Disk stats (read/write):
     vda: ios=1045872/17, merge=0/1, ticks=1223667/31, in_queue=1223244, util=99.54%
 
-Có thể thấy, VPS test có thể thực hiện 46,135 lần đọc trong 1 giây. Thông thường, ổ cứng SSD có thể thực hiện 50,000 lần đọc trong 1 giây trong khi ổ cứng non-SSD là xấp xỉ 2000.
+Có thể thấy, **server test** có thể thực hiện 46,135 lần đọc trong 1 giây. Thông thường, ổ cứng SSD có thể thực hiện 50,000 lần đọc trong 1 giây trong khi ổ cứng non-SSD là xấp xỉ 2000.
 
 ### Kiểm tra random write
 
-    fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=hocvps --filename=hocvps --bs=4k --iodepth=64 --size=4G --readwrite=randwrite
+    fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=vinahost --filename=vinahostwrite
 
 Đây là kết quả sau khi hệ thống chạy hoàn tất:
 
@@ -126,7 +126,7 @@ Có thể thấy, VPS test có thể thực hiện 46,135 lần đọc trong 1 g
     Disk stats (read/write):
     vda: ios=0/1037912, merge=0/1, ticks=0/1422525, in_queue=1422105, util=99.45%
 
-Có thể thấy, VPS test có thể thực hiện 40,107 lần ghi trong 1 giây. Thông thường, ổ cứng SSD có thể thực hiện 50,000 lần ghi trong 1 giây trong khi ổ cứng non-SSD là xấp xỉ 2000.
+Có thể thấy, **server test** có thể thực hiện 40,107 lần ghi trong 1 giây. Thông thường, ổ cứng SSD có thể thực hiện 50,000 lần ghi trong 1 giây trong khi ổ cứng non-SSD là xấp xỉ 2000.
 
 ## Đo lường độ trễ Latency với IOPing
 
@@ -156,9 +156,9 @@ Kết quả:
     generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
     min/avg/max/mdev = 415.5 us / 501.6 us/ 622.4 us / 59.4 us
 
-Có thể thấy, VPS test có độ trễ trung bình 501.6 us = 0.5016 ms. Đối với các hệ thống hoạt động ổn định, thông số dao động dưới 1.0 ms là được.
+Có thể thấy, **server test** có độ trễ trung bình 501.6 us = 0.5016 ms. Đối với các hệ thống hoạt động ổn định, thông số dao động dưới 1.0 ms là được.
 
-Như vậy, với bài hướng dẫn này, hy vọng giúp các bạn có thêm công cụ để kiểm tra và đo lường hiệu suất ổ cứng VPS của mình. Nếu bạn có công cụ nào hay, hãy chia sẻ thêm bằng cách để lại phản hồi bên dưới nhé.
+Như vậy, với bài hướng dẫn này, hy vọng giúp các bạn có thêm công cụ để kiểm tra và đo lường hiệu suất ổ cứng **server** của mình. Nếu bạn có công cụ nào hay, hãy chia sẻ thêm bằng cách để lại phản hồi bên dưới nhé.
 
 Chúc quý khách thực hiện thành công!
 
