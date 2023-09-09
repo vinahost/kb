@@ -27,15 +27,15 @@ Tổng quan giao diện sẽ trông như sau:
 
 ### Prefix (Tiền tố)
 
-- Định nghĩa: Trong ngữ cảnh của URL, Prefix là một chuỗi ký tự hoặc một phần của URL path xuất hiện trước các thành phần khác của đường dẫn.
+- **Định nghĩa**: Trong ngữ cảnh của URL, Prefix là một chuỗi ký tự hoặc một phần của URL path xuất hiện trước các thành phần khác của đường dẫn.
 
-- Sử dụng: Prefix thường được sử dụng để xác định nhóm các URL có chung tiền tố và thực hiện xử lý hoặc định tuyến tương ứng với nhóm đó. Nó giúp phân loại và xử lý các yêu cầu dựa trên các nhóm URL tương tự.
+- **Sử dụng**: Prefix thường được sử dụng để xác định nhóm các URL có chung tiền tố và thực hiện xử lý hoặc định tuyến tương ứng với nhóm đó. Nó giúp phân loại và xử lý các yêu cầu dựa trên các nhóm URL tương tự.
 
-### Regex (Regular Expression):
+### Regex (Regular Expression)
 
-- Định nghĩa: Regex là một chuỗi các ký tự đặc biệt định nghĩa một mẫu tìm kiếm trong văn bản.
+- **Định nghĩa**: Regex là một chuỗi các ký tự đặc biệt định nghĩa một mẫu tìm kiếm trong văn bản.
 
-- Sử dụng: Trong ngữ cảnh của URL, Regex thường được sử dụng để tìm kiếm, so khớp và trích xuất các phần của URL dựa trên các mẫu cụ thể. Regex cho phép bạn thực hiện các hoạt động như kiểm tra tính hợp lệ của URL, tìm kiếm và trích xuất thông tin từ URL path, thay thế các phần của URL, và nhiều tác vụ xử lý khác liên quan đến URL.
+- **Sử dụng**: Trong ngữ cảnh của URL, Regex thường được sử dụng để tìm kiếm, so khớp và trích xuất các phần của URL dựa trên các mẫu cụ thể. Regex cho phép bạn thực hiện các hoạt động như kiểm tra tính hợp lệ của URL, tìm kiếm và trích xuất thông tin từ URL path, thay thế các phần của URL, và nhiều tác vụ xử lý khác liên quan đến URL.
 
 ## Ví dụ
 
@@ -45,15 +45,15 @@ URL: https://www.vina-host.com/products/hosting/Linux
 
 Prefix: "/products"
 
-Các URL có prefix "/products" có thể là:
+Các URL có **prefix** "/products" có thể là:
 
 https://www.vina-host.com/products/hosting/windown
 
-<https://www.vina-host.com/products/vps/cheap>
+https://www.vina-host.com/products/vps/cheap
 
 ### Ví dụ về **Regex**
 
-Ví dụ, chúng ta muốn tìm kiếm và trích xuất **subcategory** và ID từ URL trên bằng regex.
+Ví dụ, chúng ta muốn tìm kiếm và trích xuất **subcategory** và ID từ URL trên bằng `regex`.
 
 Regex pattern: /products/([a-zA-Z]+)/(\d+)
 
