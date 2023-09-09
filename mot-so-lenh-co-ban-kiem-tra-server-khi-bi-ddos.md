@@ -25,31 +25,31 @@ _Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS_
 
 Dưới đây là một vài câu lệnh cơ bản để kiểm tra Server khi thấy Server có dấu hiệu bị tấn công DDos
 
-- Đếm lượng connection vào Port 80:
+Đếm lượng connection vào Port 80:
 
     netstat -n | grep :80 |wc –l
 
-- Kiểm tra số lượng connection đang ở trạng thái SYN\_RECV:
+Kiểm tra số lượng connection đang ở trạng thái SYN\_RECV:
 
     netstat -n | grep :80 | grep SYN\_RECV|wc –l
 
-- Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
+Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
 
     netstat -an|grep :80 |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
 
-- Nếu muốn kiểm tra IP nào mở nhiều SYN thì thêm vào:
+Nếu muốn kiểm tra IP nào mở nhiều SYN thì thêm vào:
 
     netstat -an|grep :80|grep SYN |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
 
-- Đối với server có nhiều IP, để kiểm tra IP nào đang bị tấn công:
+Đối với server có nhiều IP, để kiểm tra IP nào đang bị tấn công:
 
     netstat -plan | grep :80 | awk '{print $4}'| cut -d: -f1 |sort |uniq –c
 
-- Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
+Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
 
     netstat -an | grep ':80' | awk '{print $5}' | sed s/'::ffff:'// | cut -d":" -f1 | sort | uniq –c
 
-- Hiển thị số lượng kết nối mỗi loại
+Hiển thị số lượng kết nối mỗi loại
 
     netstat -an | grep :80 | awk '{print $6}' | sort | uniq -c 61 ESTABLISHED
 
@@ -63,7 +63,7 @@ Dưới đây là một vài câu lệnh cơ bản để kiểm tra Server khi t
 
     298 TIME\_WAIT
 
-- Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP
+Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP
 
     watch "netstat -an | grep ':80' | awk '{print \\$5}' | sed s/'::ffff:'// | cut -d\\":\\" -f1 | sort
 
