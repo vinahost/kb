@@ -56,11 +56,11 @@ Tại bước này, chúng ta sẽ sử dụng công cụ **parted** có sẵn t
 
     $ parted -a opt /dev/sdb mkpart primary ext4 0% 100%
 
-_\-_ Tạo **label** cho phân vùng **sdb1** trong trường hợp thêm / rút bớt ổ cứng có thể làm thay đổi tên của ổ.
+_\-_ Tạo **label** cho phân vùng **sdb1** trong trường hợp thêm **/** rút bớt ổ cứng có thể làm thay đổi tên của ổ.
 
     $ mkfs.ext4 -L storageprox /dev/sdb1
 
-_\-_ Kiểm tra lại bằng lệnh `lsblk -fs` để check **filesystem** type và label
+_\-_ Kiểm tra lại bằng lệnh `lsblk -fs` để kiểm tra **filesystem type** và **label**
 
     $ lsblk -fs
 
@@ -68,13 +68,13 @@ _\-_ Tạo thư mục để `mount` phân vùng **sdb1** vào
 
     $ mkdir -p /mnt/storage
 
-\- Thêm entry vào file `/etc/fstab`, mỗi lần **reboot** thì phân vùng **sdb1** sẽ tự **mount** vào /**mnt/storage**
+\- Thêm entry vào file `/etc/fstab`, mỗi lần **reboot** thì phân vùng **sdb1** sẽ tự **mount** vào **/mnt/storage**
 
     $ vim /etc/fstab
 
 Add thêm dòng bên dưới vào file **fstab**
 
-_LABEL=storageprox /mnt/data ext4 defaults 0 2_
+    _LABEL=storageprox /mnt/data ext4 defaults 0 2_
 
 \- **Mount** thủ công **sdb1** vào **/mnt/storage**
 
