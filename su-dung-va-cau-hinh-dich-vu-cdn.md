@@ -6,7 +6,7 @@ categories:
 coverImage: "CDN.jpg"
 ---
 
-Bài viết này sẽ hướng dẫn bạn cách S**ử Dụng Và Cấu Hình Dịch Vụ CDN**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
+Bài viết này sẽ hướng dẫn bạn cách **Sử Dụng Và Cấu Hình Dịch Vụ CDN**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
 ## 1\. Giới thiệu về Dịch Vụ CDN
 
@@ -20,114 +20,117 @@ Bài viết này sẽ hướng dẫn bạn cách S**ử Dụng Và Cấu Hình D
 ## **2\. Lợi ích của việc sử dụng CDN là gì?**
 
 - **Cải thiện thời gian tải trang web** - Bằng cách phân phối nội dung gần hơn với khách truy cập trang web bằng cách sử dụng máy chủ CDN gần đó (trong số các tối ưu hóa khác), khách truy cập trải nghiệm thời gian tải trang nhanh hơn. Vì khách truy cập có xu hướng nhấp vào một trang web tải chậm, CDN có thể giảm tốc độ thoát và tăng thời gian mà mọi người dành cho trang web. Nói cách khác, một trang web nhanh hơn có nghĩa là nhiều khách truy cập sẽ ở lại và gắn bó lâu hơn.
+
 - **Giảm chi phí băng thông** - Chi phí tiêu thụ băng thông để lưu trữ trang web là chi phí chính cho các trang web. Thông qua bộ nhớ đệm và các tối ưu hóa khác, CDN có thể giảm lượng dữ liệu mà máy chủ gốc phải cung cấp, do đó giảm chi phí lưu trữ cho chủ sở hữu trang web.
+
 - **Tăng tính khả dụng và dự phòng của nội dung** - Một lượng lớn lưu lượng truy cập hoặc lỗi phần cứng có thể làm gián đoạn chức năng bình thường của trang web. Nhờ bản chất phân tán của chúng, CDN có thể xử lý nhiều lưu lượng hơn và chịu được lỗi phần cứng tốt hơn nhiều máy chủ gốc.
+
 - **Cải thiện bảo mật trang web** - CDN có thể cải thiện bảo mật bằng cách giảm thiểu DDoS, cải tiến chứng chỉ bảo mật và các tối ưu hóa khác.
 
 ## 3\. Hướng dẫn cấu hình CDN
 
-Để có thể cấu hình dịch vụ CDN thì đầu tiên bạn có thể tham khảo dịch vụ này của VinaHost: [https://vinahost.vn/dich-vu-cdn-chuyen-nghiep/](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep/)
+Để có thể cấu hình dịch vụ **CDN** thì đầu tiên bạn có thể tham khảo dịch vụ này của VinaHost: [https://vinahost.vn/dich-vu-cdn-chuyen-nghiep/](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep/)
 
-Sau khi mua dịch vụ người quản trị sẽ kích hoạt và gửi một thử Invite về mail đăng ký dịch vụ của bạn:
+Sau khi mua dịch vụ người quản trị sẽ kích hoạt và gửi một thử **Invite** về mail đăng ký dịch vụ của bạn:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-1.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-1.png)
 
-Bạn sẽ phải chọn mục click here để thay đổi password. Username sẽ là mail đăng ký dịch vụ của bạn nhé. Sau khi có thông tin dịch vụ CDN ta cần login vào giao diện chính của nó.
+Bạn sẽ phải chọn mục **click here** để thay đổi **password**. **Username** sẽ là **mail** đăng ký dịch vụ của bạn nhé. Sau khi có thông tin dịch vụ **CDN** ta cần **login** vào giao diện chính của nó.
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-2.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-2.png)
 
-Được rồi chúng ta bắt tay vào việc cấu hình CDN nhé.
+Được rồi chúng ta bắt tay vào việc cấu hình **CDN** nhé.
 
-Bước 1: Ta chọn vào mục Products > Click chọn Content Delivery Network (CDN)
+**Bước 1**: Ta chọn vào mục **Products > Click** chọn **Content Delivery Network (CDN)**
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-3.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-3.png)
 
-Bước 2: Chúng ta sẽ thấy bên trái có các thanh công cụ như sau:
+**Bước 2**: Chúng ta sẽ thấy bên trái có các thanh công cụ như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-4.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-4.png)
 
-Ta click chọn vào mục domain
+Ta **click** chọn vào mục **domain**
 
-Bước 3: Sau khi click chọn Domain. Ta sẽ chọn vào mục Add a Domain/ File Domain.
+**Bước 3**: Sau khi click chọn Domain. Ta sẽ chọn vào mục Add a Domain/ File Domain.
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-5.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-5.png)
 
-Bước 4: Ta sẽ điền thông tin như sau:
+**Bước 4**: Ta sẽ điền thông tin như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-6.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-6.png)
 
-- Domain Name: Sẽ là domain chính của bạn. Ví dụ như: abc.com, [abc.com](http://www.abc.com)
-- Origin URL: Sẽ là địa chỉ IP của server website của bạn. Bạn sẽ điền theo cấu trúc như sau: [http://ip](http://ip)
-- Sau khi hoàn thành việc điền các thông tin sau ta nhấn “Save” để lưu cấu hình.
+- **Domain Name**: Sẽ là domain chính của bạn. Ví dụ như: abc.com, [abc.com](http://www.abc.com)
+- **Origin UR**L: Sẽ là địa chỉ IP của server website của bạn. Bạn sẽ điền theo cấu trúc như sau: [http://ip](http://ip)
+- Sau khi hoàn thành việc điền các thông tin sau ta nhấn **“Save”** để lưu cấu hình.
 
-Bước 5: Sau khi lưu file cấu hình và được trả về giao diện Domain. Bạn sẽ thấy phía trước tên miền của mình có dấu “!” bạn trỏ chuột vào đó sẽ nhận được thông tin như sau:
+**Bước 5**: Sau khi lưu file cấu hình và được trả về giao diện Domain. Bạn sẽ thấy phía trước tên miền của mình có dấu “!” bạn trỏ chuột vào đó sẽ nhận được thông tin như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-7.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-7.png)
 
-Sau đó ta đi đến trang quản trị tên miền của mình và tạo một Record CNAME như sau:
+Sau đó ta đi đến trang quản trị tên miền của mình và tạo một **Record CNAME** như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-8.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-8.png)
 
-Và thêm cả một Record A có cấu trúc như sau:
+Và thêm cả một **Record A** có cấu trúc như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-9.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-9.png)
 
-Bước tiếp theo chúng ta quay trở lại trang quản trị của CDN
+Bước tiếp theo chúng ta quay trở lại trang quản trị của **CDN**
 
-Bước 6: Ở mục domain bạn sẽ thấy ở phần “Domain/ File Download Name” domain của bạn sẽ cho bạn click chuột vào đó. Sau đó bạn thao tác click chuột và domain name của mình. Và sẽ thấy giao diện như sau:
+**Bước 6**: Ở mục domain bạn sẽ thấy ở phần “Domain/ File Download Name” domain của bạn sẽ cho bạn click chuột vào đó. Sau đó bạn thao tác click chuột và domain name của mình. Và sẽ thấy giao diện như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-10.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-10.png)
 
-Bước 7: Ta chọn vào mục Origins Control > chọn Edit
+**Bước 7**: Ta chọn vào mục **Origins Control** > chọn **Edit**
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-11.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-11.png)
 
-- Origin URL: Ta sẽ điền thông tin IP host của bạn. [http://ip](http://ip)
-- SNI: Ta sẽ điền thông tin domain: Ví dụ: abc.com.vn
-- Origin Headers: Ta điền nội dung có cấu trúc như sau. {“Host”: “domain.com.vn”}
+- **Origin URL**: Ta sẽ điền thông tin IP host của bạn. [http://ip](http://ip)
+- **SNI**: Ta sẽ điền thông tin domain: Ví dụ: abc.com.vn
+- **Origin Headers**: Ta điền nội dung có cấu trúc như sau. {“Host”: “domain.com.vn”}
 
-Sau đó ta nhấn “Save” để lưu cấu hình.
+Sau đó ta nhấn **“Save”** để lưu cấu hình.
 
-Bước 8: Trước khi cấu hình SSL ta cần Import SSL lên CDN. Và CDN chỉ dùng SSL Pro (có nghĩa là bạn phải bỏ tiền mua SSL) vì CDN không tự gen SSL được.
+**Bước 8**: Trước khi cấu hình SSL ta cần Import SSL lên CDN. Và CDN chỉ dùng SSL Pro (có nghĩa là bạn phải bỏ tiền mua SSL) vì CDN không tự gen SSL được.
 
-Ta chọn vào mục Certifacate Management ở góc trái màn hình:
+Ta chọn vào mục **Certifacate Management** ở góc trái màn hình:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-12.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-12.png)
 
-Sau đó chọn mục Import Certificate.
+Sau đó chọn mục **Import Certificate**.
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-13.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-13.png)
 
-- Name: Là domain của bạn. abc.com.vn
-- Certificate Type: Giữ nguyên mặc định
-- Certificate body (PEM-encoded)\*: Ở đây chúng ta sẽ copy và dán file certificate.crt
-- Certificate Private Key (PEM-encoded)\*: Ở đây chúng ta sẽ copy và dán private key khi gen key để cấu hình SSL nó có cấu trúc như sau:
+- **Name**: Là domain của bạn. abc.com.vn
+- **Certificate Type**: Giữ nguyên mặc định
+- **Certificate body (PEM-encoded)**: Ở đây chúng ta sẽ copy và dán file certificate.crt
+- **Certificate Private Key (PEM-encoded)**: Ở đây chúng ta sẽ copy và dán private key khi gen key để cấu hình SSL nó có cấu trúc như sau:
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-14.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-14.png)
 
-- Certificate chain (PEM-encoded): Ở đây chúng ta sẽ copy và dán nội dung file certificate.ca
+- **Certificate chain (PEM-encoded)**: Ở đây chúng ta sẽ copy và dán nội dung file certificate.ca
 
-Sau đó nhấn “Save” để lưu cấu hình.
+Sau đó nhấn **“Save”** để lưu cấu hình.
 
-Tiếp theo đó ta quay lại giao diện như ở bước 7 và chọn mục SSL Certificate
+Tiếp theo đó ta quay lại giao diện như ở bước 7 và chọn mục **SSL Certificate**
 
-Ở mục Choose Certificate chúng ta clock vào mũi tên đi xuống và chọn domain mình đã cấu hình SSL và tick chọn vào mục VAS-SSL….
+Ở mục **Choose Certificate** chúng ta clock vào mũi tên đi xuống và chọn **domain** mình đã cấu hình **SSL** và **stick** chọn vào mục **VAS-SSL**….
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-15.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-15.png)
 
-Khi đó Attach sẽ hiển thị màu đỏ bạn chỉ cần nhấn vào đó thì hệ thống sẽ nhận SSL của bạn.
+Khi đó **Attach** sẽ hiển thị màu đỏ bạn chỉ cần nhấn vào đó thì hệ thống sẽ nhận **SSL** của bạn.
 
-Bước 9: Chọn mục CORS Headers > chọn Edit > Và điền nội dung “\*” vào mục Header Value nhấn “Save” để lưu file cấu hình.
+**Bước 9**: Chọn mục CORS Headers > chọn Edit > Và điền nội dung “\*” vào mục Header Value nhấn “Save” để lưu file cấu hình.
 
-![](images/su-dung-va-cau-hinh-dich-vu-cdn-16.png)
+![Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-16.png)
 
-Sau đó bạn chỉ cần truy cập vào site của mình là được rồi. Để kiểm tra hoạt động của website ta chọn mục “Analytics” nhé.
+Sau đó bạn chỉ cần truy cập vào site của mình là được rồi. Để kiểm tra hoạt động của website ta chọn mục **“Analytics”** nhé.
 
 ![Dịch Vụ CDN](images/su-dung-va-cau-hinh-dich-vu-cdn-17.png)
 
 Chúc quý khách thực hiện thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 
