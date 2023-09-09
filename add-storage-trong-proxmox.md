@@ -20,65 +20,65 @@ Qua bài viết này, người dùng có thể tự thao tác
 
 **Bước 1: Xác định ổ cứng HDD**
 
-Kiểm tra layout của toàn bộ ổ cứng đang gắn vào server.
+Kiểm tra **layout** của toàn bộ ổ cứng đang gắn vào server.
 
-root@node052:~# _lsblk_
+  root@node052:~# _lsblk_
 
-NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+  NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 
-sda      8:0    0 447.1G  0 disk
-|-sda1   8:1    0  1007K  0 part
-|-sda2   8:2    0 447.1G  0 part
-\`-sda9   8:9    0     8M  0 part
-**sdb      8:16   0   477G  0 disk** 
+  sda      8:0    0 447.1G  0 disk
+  |-sda1   8:1    0  1007K  0 part
+  |-sda2   8:2    0 447.1G  0 part
+  \`-sda9   8:9    0     8M  0 part
+  **sdb      8:16   0   477G  0 disk** 
 
-Trong ví dụ trên: ta có 2 ổ sda và sdb. Ổ sda đang được sử dụng bởi OS. Vì vậy chúng ta sẽ tiến hành định dạng ổ sdb mới thành 1 phân vùng thứ 2 để host VMs.
+Trong ví dụ trên: ta có 2 ổ **sda** và **sdb**. Ổ **sda** đang được sử dụng bởi **OS**. Vì vậy chúng ta sẽ tiến hành định dạng ổ **sdb** mới thành 1 phân vùng thứ 2 để host **VMs**.
 
 **Bước 2: Format ổ cứng HDD**
 
-Tại bước này, chúng ta sẽ sử dụng công cụ parted có sẵn trên hệ điều hành.
+Tại bước này, chúng ta sẽ sử dụng công cụ **parted** có sẵn trên hệ điều hành.
 
-\- Nếu chưa có chúng ta cần tiến hành install thêm package:
+\- Nếu chưa có chúng ta cần tiến hành **install** thêm **package**:
 
-_$ apt install parted_
+  $ apt install parted
 
-\- Tiến hành format sạch ổ cứng
+\- Tiến hành **format** sạch ổ cứng
 
-_$ wipefs /dev/sdb_
+  $ wipefs /dev/sdb
 
-\- Tạo mới phân vùng GPT trên ổ sdb
+\- Tạo mới phân vùng **GPT** trên ổ **sdb**
 
 ![Add Storage Trong Proxmox](images/huong-dan-add-storage-trong-proxmox-1.png)
 
-_$ parted /dev/sdb mklabel gpt_
+  $ parted /dev/sdb mklabel gpt
 
-\- Tạo phân vùng primary với định dạng filesystem là ext4 và sử dụng 100% dung lượng disk
+\- Tạo phân vùng **primary** với định dạng **filesystem** là **ext4** và sử dụng **100%** dung lượng **disk**
 
-_$ parted -a opt /dev/sdb mkpart primary ext4 0% 100%_
+  $ parted -a opt /dev/sdb mkpart primary ext4 0% 100%
 
-_\-_ Tạo label cho phân vùng sdb1 trong trường hợp thêm/ rút bớt ổ cứng có thể làm thay đổi tên của ổ.
+_\-_ Tạo **label** cho phân vùng **sdb1** trong trường hợp thêm / rút bớt ổ cứng có thể làm thay đổi tên của ổ.
 
-_$ mkfs.ext4 -L storageprox /dev/sdb1_
+  $ mkfs.ext4 -L storageprox /dev/sdb1
 
-_\-_ Kiểm tra lại bằng lệnh lsblk -fs để check filesystem type và label
+_\-_ Kiểm tra lại bằng lệnh `lsblk -fs` để check **filesystem** type và label
 
-_$ lsblk -fs_
+  $ lsblk -fs
 
-_\-_ Tạo thư mục để mount phân vùng sdb1 vào
+_\-_ Tạo thư mục để `mount` phân vùng **sdb1** vào
 
-_$ mkdir -p /mnt/storage_
+  $ mkdir -p /mnt/storage
 
-\- Thêm entry vào file /etc/fstab, mỗi lần reboot thì phân vùng sdb1 sẽ tự mount vào /mnt/storage
+\- Thêm entry vào file `/etc/fstab`, mỗi lần **reboot** thì phân vùng **sdb1** sẽ tự **mount** vào /**mnt/storage**
 
-_$ vim /etc/fstab_
+  $ vim /etc/fstab
 
-Add thêm dòng bên dưới vào file fstab
+Add thêm dòng bên dưới vào file **fstab**
 
 _LABEL=storageprox /mnt/data ext4 defaults 0 2_
 
-\- Mount thủ công sdb1 vào /mnt/storage
+\- **Mount** thủ công **sdb1** vào **/mnt/storage**
 
-_$ mount -t ext4 /dev/sdb1 /mnt/storage_
+  $ mount -t ext4 /dev/sdb1 /mnt/storage
 
 **Bước 3: Truy cập vào Proxmox GUI và thêm phân vùng mới nhầm mục đích sử dụng để host VMs**
 
@@ -90,7 +90,7 @@ Chọn **Add** và cấu hình như ảnh bên dưới, chọn **OK** là hoàn 
 
 Chúc bạn thực hiện **Add Storage Trong Proxmox** thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 
