@@ -10,7 +10,7 @@ Bài viết này sẽ giải thích khái niệm **CNAME là gì** cũng như h�
 
 ## 1\. CNAME là gì?
 
-- CNAME là Bản ghi tên quy chuẩn – Canonical Name Record, hay là Bản ghi bí danh của một **_Tên miền_**nhất định.
+- CNAME là Bản ghi tên quy chuẩn – Canonical Name Record, hay là Bản ghi bí danh của một **_Tên miền_** nhất định.
 - CNAME còn được giải thích là Bảng ghi tài nguyên trong DNS (Hệ thống tên miền) – là bí danh của một tên miền chuẩn khác.
 
 ## 2\. Một vài cách sử dụng bản ghi CNAME phổ biến
@@ -26,13 +26,13 @@ Bài viết này sẽ giải thích khái niệm **CNAME là gì** cũng như h�
 
 NAME TYPE VALUE
 
-![](images/cname-la-gi-1.png)
+![CNAME Là Gì? ](images/cname-la-gi-1.png)
 
 **CNAME từ miền phụ sang miền gốc khác**
 
 NAME TYPE VALUE
 
-![](images/cname-la-gi-2.png)
+![CNAME Là Gì? ](images/cname-la-gi-2.png)
 
 ## 4\. Quy trình phân giải DNSvcho bản ghi CNAME
 
@@ -101,19 +101,19 @@ Việc nên sử dụng CNAME hay Redirect phụ thuộc vào mục đích cụ 
 
 Bước 1: Đăng nhập vào **quản lý domain của vinahost.**
 
-![](images/cname-la-gi-3.png)
+![CNAME Là Gì? ](images/cname-la-gi-3.png)
 
 Bước 2: Nhấp vào “**Manage DNS**“ tại domains cần thêm Cname.
 
-![](images/cname-la-gi-4.png)
+![CNAME Là Gì? ](images/cname-la-gi-4.png)
 
 Bước 3: Trong “**Add Record**“ và chọn “**CNAME**“.
 
-![](images/cname-la-gi-5.png)
+![CNAME Là Gì? ](images/cname-la-gi-5.png)
 
 Sau đó chọn CNAME
 
-![](images/cname-la-gi-6.png)
+![CNAME Là Gì? ](images/cname-la-gi-6.png)
 
 Bước 4: Nhập các thông tin sau:
 
@@ -121,7 +121,7 @@ Bước 4: Nhập các thông tin sau:
 - Tên miền mà bạn muốn tạo Bản ghi – không phải là địa chỉ IP.
 - Tùy chọn nhập TTL hoặc để trống ở chế độ mặc định.
 
-![](images/cname-la-gi-7.png)
+![CNAME Là Gì? ](images/cname-la-gi-7.png)
 
 Nhấn vào Add Record để lưu lại thông tin record CNAME.
 
@@ -131,15 +131,15 @@ Có rất nhiều tool có thể giúp kiểm tra CNAME, tại đây Vinahost s�
 
 - MXToolbox - [https://mxtoolbox.com/CnameLookup.aspx](https://mxtoolbox.com/CnameLookup.aspx)
 
-![](images/cname-la-gi-8.png)
+![CNAME Là Gì? ](images/cname-la-gi-8.png)
 
 - DNS Checker - [https://dnschecker.org/cname-lookup.php](https://dnschecker.org/cname-lookup.php)
 
-![](images/cname-la-gi-9.png)
+![CNAME Là Gì? ](images/cname-la-gi-9.png)
 
-- io - [https://www.nslookup.io](https://www.nslookup.io)
+- Nslookup - [https://www.nslookup.io](https://www.nslookup.io)
 
-![](images/cname-la-gi-10.png)
+![CNAME Là Gì? ](images/cname-la-gi-10.png)
 
 ## 10\. Hướng dẫn tạo bản ghi để xác thực các dịch vụ trực tuyến
 
@@ -151,7 +151,7 @@ Thông thường sau khi kích hoạt sẽ có một mail hướng dẫn trỏ C
 
 Bạn có thể vào phần quản lý Domains và trỏ record như hướng dẫn ở trên như sau:
 
-![](images/cname-la-gi-12.png)
+![CNAME Là Gì? ](images/cname-la-gi-12.png)
 
 Sau đó khi bạn kiểm tra trên các tool truy vấn nếu đã phân giải thành công thì có thể đợi khoản 30-60 phút để có thể tải bộ Cert về và cài đặt lên WebServer.
 
