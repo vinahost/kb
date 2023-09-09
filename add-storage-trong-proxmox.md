@@ -22,15 +22,15 @@ Qua bài viết này, người dùng có thể tự thao tác
 
 Kiểm tra **layout** của toàn bộ ổ cứng đang gắn vào **server**.
 
-    root@node052:~# _lsblk_
+    root@node052:~# lsblk
 
     NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 
     sda      8:0    0 447.1G  0 disk
     |-sda1   8:1    0  1007K  0 part
     |-sda2   8:2    0 447.1G  0 part
-    \`-sda9   8:9    0     8M  0 part
-    **sdb      8:16   0   477G  0 disk** 
+    |-sda9   8:9    0     8M  0 part
+    sdb      8:16   0   477G  0 disk
 
 Trong ví dụ trên: ta có 2 ổ **sda** và **sdb**. Ổ **sda** đang được sử dụng bởi **OS**. Vì vậy chúng ta sẽ tiến hành định dạng ổ **sdb** mới thành 1 phân vùng thứ 2 để host **VMs**.
 
