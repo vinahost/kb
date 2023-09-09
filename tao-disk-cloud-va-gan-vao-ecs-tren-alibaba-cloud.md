@@ -9,9 +9,9 @@ Bài viết này sẽ hướng dẫn bạn cách **Tạo Disk Cloud Và Gán Và
 
 Truy cập **Elastic Compute Service** từ thanh menu
 
-![](images/tao-disk-cloud-va-gan-vao-ecs-1.png)
+![Hướng Dẫn Tạo Disk Cloud Và Gán Vào ECS Trên Alibaba Cloud](images/tao-disk-cloud-va-gan-vao-ecs-1.png)
 
-Truy cập Disk ở Storage & Snapshot
+Truy cập **Disk** ở **Storage & Snapshot**
 
 ![Tạo Disk Cloud](images/tao-disk-cloud-va-gan-vao-ecs-2.png)
 
@@ -24,17 +24,17 @@ Truy cập Disk ở Storage & Snapshot
 
 Sau khi Pay hoàn tất. Chọn **More > Attach** để gán **Disk** vào **Instance**
 
-![](images/tao-disk-cloud-va-gan-vao-ecs-4.png)
+![Hướng Dẫn Tạo Disk Cloud Và Gán Vào ECS Trên Alibaba Cloud](images/tao-disk-cloud-va-gan-vao-ecs-4.png)
 
-Chọn Instance cần gán Disk và Next
+Chọn **Instance** cần gán **Disk** và **Next**
 
-![](images/tao-disk-cloud-va-gan-vao-ecs-5.png)
+![Hướng Dẫn Tạo Disk Cloud Và Gán Vào ECS Trên Alibaba Cloud](images/tao-disk-cloud-va-gan-vao-ecs-5.png)
 
-Việc gán Disk Cloud cần Instance phải đang hoạt động. Start Instance và OK
+Việc gán **Disk Cloud** cần **Instance** phải đang hoạt động. **Start Instance** và **OK**
 
-![](images/tao-disk-cloud-va-gan-vao-ecs-6.png)
+![Hướng Dẫn Tạo Disk Cloud Và Gán Vào ECS Trên Alibaba Cloud](images/tao-disk-cloud-va-gan-vao-ecs-6.png)
 
-Gán Disk Cloud cho Instance thành công
+Gán **Disk Cloud** cho **Instance** thành công
 
 ![Tạo Disk Cloud](images/tao-disk-cloud-va-gan-vao-ecs-7.png)
 
