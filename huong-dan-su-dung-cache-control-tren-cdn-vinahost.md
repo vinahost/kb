@@ -1,12 +1,16 @@
 ﻿# Hướng dẫn sử dụng Cache Control trên CDN Vinahost
 
-## Đăng nhập vào portal của bạn.
+## Đăng nhập
+
+Đăng nhập vào **portal** của bạn.
 
 Vào **products** chọn **CDN** và **click** vào **domains** muốn cài đặt **Cache Control** 
 
 ![Cache Control trên CDN](images/Aspose.Words.61559600-2ad4-431b-a0d7-51e6531be11b.001.png)
 
-## Vào mục “Cache Control” để set cache cho CDN
+## Cấu hình Cache
+
+Vào mục “**Cache Control**” để `set cache` cho **CDN**
 
 **Cache** là những nội dung sẽ được lưu lại trên **CDN** hình ảnh, video, gif,… để giúp khách hàng xem, tải xuống nhanh hơn. Tuỳ thuộc vào website và mục tiêu cần cài đặt **cache** thì sẽ có những cách **cache** khác nhau, vấn đề này đòi hỏi phải hiểu rõ hệ thống website trước khi cấu hình **cache**. Dưới đây là một ví dụ để **cache** các hình ảnh tĩnh trên một site **wordpress**, quý khách có thể tham khảo để cấu hình chuẩn cho **website** mình.
 
@@ -20,13 +24,14 @@ Tổng quan giao diện sẽ trông như sau:
 
 - **Policy Name:** Tên của Rule Cache control
 - **Match Type:** sẽ chọn Prefix hoặc Regex tuỳ vào mục đích sử dụng mà sẽ cài đặt Prefix hay Regex. Ở đây mình sẽ chọn prefix.
-- Prefix (Tiền tố):
+
+### Prefix (Tiền tố):
 
 Định nghĩa: Trong ngữ cảnh của URL, Prefix là một chuỗi ký tự hoặc một phần của URL path xuất hiện trước các thành phần khác của đường dẫn.
 
 Sử dụng: Prefix thường được sử dụng để xác định nhóm các URL có chung tiền tố và thực hiện xử lý hoặc định tuyến tương ứng với nhóm đó. Nó giúp phân loại và xử lý các yêu cầu dựa trên các nhóm URL tương tự.
 
-- Regex (Regular Expression):
+### Regex (Regular Expression):
 
 Định nghĩa: Regex là một chuỗi các ký tự đặc biệt định nghĩa một mẫu tìm kiếm trong văn bản.
 
@@ -79,11 +84,11 @@ Regex pattern: /products/([a-zA-Z]+)/(\d+)
 - **Ignore Query String:** Tính năng này sẽ bỏ qua bất kì chuỗi truy vấn URL nào khi lưu một object vào cache.
 - **Response Header**: Chọn các hoạt động cho các header được phản hồi từ máy origin.
 
-Có thể thêm vào header một giá trị nào đó hoặc thay thế ghi đè lên header.
+Có thể thêm vào **header** một giá trị nào đó hoặc thay thế ghi đè lên **header**.
 
-Cũng có thể xoá hoàn toàn header reponse và phải hồi theo value name.
+Cũng có thể xoá hoàn toàn **header reponse** và phải hồi theo **value name**.
 
-Sau khi đã tickchọn tất cả thì có thể  chọn save để set rule cache control.
+Sau khi đã chọn tất cả thì có thể chọn **save** để **set rule cache control**.
 
 ![Cache Control trên CDN](images/Aspose.Words.61559600-2ad4-431b-a0d7-51e6531be11b.004.png)
 
