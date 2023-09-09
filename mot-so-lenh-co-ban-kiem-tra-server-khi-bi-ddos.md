@@ -10,15 +10,12 @@ Bài viết này sẽ giới thiệu bạn **Một Số Lệnh Cơ Bản Kiểm
 
 ## 1\. Giới thiệu chung về DDoS
 
-Tấn công từ chối dịch vụ phân tán (DDoS – Distributed Denial Of Service) là kiểu tấn công làm cho hệ thống máy tính hay hệ thống mạng quá tải, không thể cung
+Tấn công từ chối dịch vụ phân tán (**DDoS – Distributed Denial Of Service**) là kiểu tấn công làm cho hệ thống máy tính hay hệ thống mạng quá tải, không thể cung cấp dịch vụ hoặc phải dừng hoạt động. Trong các cuộc tấn công **DDoS**, máy chủ dịch vụ sẽ bị **“ngập”** bởi hàng loạt các lệnh truy cập từ lượng kết nối khổng lồ.
 
-cấp dịch vụ hoặc phải dừng hoạt động. Trong các cuộc tấn công DDoS, máy chủ dịch vụ sẽ bị “ngập” bởi hàng loạt các lệnh truy cập từ lượng kết nối khổng lồ.
+Khi số lệnh truy cập quá lớn, máy chủ sẽ quá tải và không còn khả năng xử lý các yêu cầu. Hậu quả là người dùng không thể truy cập vào các dịch vụ trên các trang web bị tấn công **DDoS**.
 
-Khi số lệnh truy cập quá lớn, máy chủ sẽ quá tải và không còn khả năng xử lý các yêu cầu. Hậu quả là người dùng không thể truy cập vào các dịch vụ trên các trang web bị tấn công DDoS.
+Để kiểm tra tình trạng máy chủ, bạn có thể sử dụng các **Lệnh Cơ Bản Kiểm Tra Server** Khi Bị **DDoS** như hướng dẫn dưới đây.
 
-Để kiểm tra tình trạng máy chủ, bạn có thể sử dụng các Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS như hướng dẫn dưới đây.
-
- 
 
 ## 2\. Các câu lệnh cơ bản kiểm tra Server khi bị DDoS
 
@@ -30,53 +27,53 @@ Dưới đây là một vài câu lệnh cơ bản để kiểm tra Server khi t
 
 - Đếm lượng connection vào Port 80:
 
-netstat -n | grep :80 |wc –l
+    netstat -n | grep :80 |wc –l
 
 - Kiểm tra số lượng connection đang ở trạng thái SYN\_RECV:
 
-netstat -n | grep :80 | grep SYN\_RECV|wc –l
+    netstat -n | grep :80 | grep SYN\_RECV|wc –l
 
 - Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
 
-netstat -an|grep :80 |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
+    netstat -an|grep :80 |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
 
 - Nếu muốn kiểm tra IP nào mở nhiều SYN thì thêm vào:
 
-netstat -an|grep :80|grep SYN |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
+    netstat -an|grep :80|grep SYN |awk '{print $5}'|cut -d":" -f1|sort|uniq -c|sort –rn
 
 - Đối với server có nhiều IP, để kiểm tra IP nào đang bị tấn công:
 
-netstat -plan | grep :80 | awk '{print $4}'| cut -d: -f1 |sort |uniq –c
+    netstat -plan | grep :80 | awk '{print $4}'| cut -d: -f1 |sort |uniq –c
 
 - Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP:
 
-netstat -an | grep ':80' | awk '{print $5}' | sed s/'::ffff:'// | cut -d":" -f1 | sort | uniq –c
+    netstat -an | grep ':80' | awk '{print $5}' | sed s/'::ffff:'// | cut -d":" -f1 | sort | uniq –c
 
 - Hiển thị số lượng kết nối mỗi loại
 
-netstat -an | grep :80 | awk '{print $6}' | sort | uniq -c 61 ESTABLISHED
+    netstat -an | grep :80 | awk '{print $6}' | sort | uniq -c 61 ESTABLISHED
 
-13 FIN\_WAIT1
+    13 FIN\_WAIT1
 
-17 FIN\_WAIT2
+    17 FIN\_WAIT2
 
-1 LISTEN
+    1 LISTEN
 
-25 SYN\_RECV
+    25 SYN\_RECV
 
-298 TIME\_WAIT
+    298 TIME\_WAIT
 
 - Hiển thị tất cả các IP đang kết nối và số lượng kết nối từ mỗi IP
 
-watch "netstat -an | grep ':80' | awk '{print \\$5}' | sed s/'::ffff:'// | cut -d\\":\\" -f1 | sort
+    watch "netstat -an | grep ':80' | awk '{print \\$5}' | sed s/'::ffff:'// | cut -d\\":\\" -f1 | sort
 
-| uniq -c”
+    uniq -c”
 
-watch "netstat -an | grep :80 | awk '{print \\$6}' | sort | uniq -c"
+    watch "netstat -an | grep :80 | awk '{print \\$6}' | sort | uniq -c"
 
-Chúc bạn thực hiện các câu lệnh cơ bản kiểm tra Server khi bị DDoS thành công!
+Chúc bạn thực hiện các câu lệnh cơ bản kiểm tra Server khi bị **DDoS** thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 
