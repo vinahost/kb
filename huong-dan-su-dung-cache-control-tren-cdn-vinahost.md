@@ -59,6 +59,8 @@ Regex pattern: /products/([a-zA-Z]+)/(\d+)
 
 ## Giải thích
 
+![Cache Control trên CDN](images/Aspose.Words.61559600-2ad4-431b-a0d7-51e6531be11b.003.png)
+
 /products/: Tiền tố cố định trong URL path.
 
 ([a-zA-Z]+): Một nhóm con bắt buộc chứa các ký tự chữ cái (viết thường hoặc viết hoa). Đại diện cho một phần subcategory trong URL.
@@ -67,11 +69,7 @@ Regex pattern: /products/([a-zA-Z]+)/(\d+)
 
 (\d+): Một nhóm con bắt buộc chứa một chuỗi số. Đại diện cho một phần ID trong URL.
 
-- ## **URL Path (\*)**
-
-`  `Đây sẽ là URL mà CDN sẽ lấy cache. Trong ví dụ trên có thể sử dụng /products để có thể cache tất cả trong /products hoặc /products/\*.png để cache các file png theo đúng URL. Ở đây do ví dụ là site Word Press nên sẽ cache trong thư mục content/uploads nơi chứa nhiều ảnh.
-
-![Cache Control trên CDN](images/Aspose.Words.61559600-2ad4-431b-a0d7-51e6531be11b.003.png)
+- **URL Path** (\*): `  `Đây sẽ là URL mà CDN sẽ lấy cache. Trong ví dụ trên có thể sử dụng /products để có thể cache tất cả trong /products hoặc /products/\*.png để cache các file png theo đúng URL. Ở đây do ví dụ là site Word Press nên sẽ cache trong thư mục content/uploads nơi chứa nhiều ảnh.
 
 - **TTL:**  thời gian tính bằng giây để lưu trử cache. Mặc định sẽ là TTL cache của server origin
 
