@@ -11,9 +11,9 @@ Bài viết này sẽ hướng dẫn bạn **Cấu Hình Lọc IP Truy Cập iDR
 
 ## Hướng Dẫn Cấu Hình Lọc IP Truy Cập iDRAC
 
-Truy cập IDrac.
+Truy cập **IDrac**.
 
-![](images/cau-hinh-loc-ip-truy-cap-idrac-1.png)
+![iDRAC](images/cau-hinh-loc-ip-truy-cap-idrac-1.png)
 
 Nhập thông tin đăng nhập.
 
@@ -26,7 +26,7 @@ Sau khi đăng nhập thành công, menu quản trị sẽ được hiển thị
 
 Truy cập **iDRAC Settings** và chọn tùy chọn **Network**.
 
-![](images/cau-hinh-loc-ip-truy-cap-idrac-2.png)
+![iDRAC](images/cau-hinh-loc-ip-truy-cap-idrac-2.png)
 
 Ở phía trên màn hình, truy cập tab **Network** và chọn tùy chọn **Advanced Settings**.
 
@@ -34,11 +34,11 @@ Truy cập **iDRAC Settings** và chọn tùy chọn **Network**.
 
 Nhập địa chỉ **IP** kèm **Subnet Mask** hoặc **Range IP** cho phép truy cập -**\> Apply.**
 
-![](images/cau-hinh-loc-ip-truy-cap-idrac-4.png)
+![iDRAC](images/cau-hinh-loc-ip-truy-cap-idrac-4.png)
 
 Chúc bạn thực hiện thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 
