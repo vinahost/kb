@@ -12,7 +12,7 @@ Vào **products** chọn **CDN** và **click** vào **domains** muốn cài đ�
 
 Vào mục “**Cache Control**” để `set cache` cho **CDN**
 
-**Cache** là những nội dung sẽ được lưu lại trên **CDN** hình ảnh, video, gif,… để giúp khách hàng xem, tải xuống nhanh hơn. Tuỳ thuộc vào website và mục tiêu cần cài đặt **cache** thì sẽ có những cách **cache** khác nhau, vấn đề này đòi hỏi phải hiểu rõ hệ thống website trước khi cấu hình **cache**. Dưới đây là một ví dụ để **cache** các hình ảnh tĩnh trên một site **wordpress**, quý khách có thể tham khảo để cấu hình chuẩn cho **website** mình.
+**Cache** là những nội dung sẽ được lưu lại trên **CDN** hình ảnh, video, gif,… để giúp khách hàng xem, tải xuống nhanh hơn. Tuỳ thuộc vào website và mục tiêu cần cài đặt **cache** thì sẽ có những cách **cache** khác nhau, vấn đề này đòi hỏi phải hiểu rõ hệ thống **website** trước khi cấu hình **cache**. Dưới đây là một ví dụ để **cache** các hình ảnh tĩnh trên một site **wordpress**, quý khách có thể tham khảo để cấu hình chuẩn cho **website** mình.
 
 **Lưu ý: Áp dụng cho các dịch vụ File Download và Tăng tốc website.**
 
@@ -39,7 +39,7 @@ Tổng quan giao diện sẽ trông như sau:
 
 ## Ví dụ
 
-### Ví dụ về **Prefix**:
+### Ví dụ về **Prefix**
 
 URL: https://www.vina-host.com/products/hosting/Linux
 
@@ -66,7 +66,9 @@ Regex pattern: /products/([a-zA-Z]+)/(\d+)
 /: Dấu gạch chéo cố định.
 
 (\d+): Một nhóm con bắt buộc chứa một chuỗi số. Đại diện cho một phần ID trong URL.
+
 - ## **URL Path (\*)**
+
 `  `Đây sẽ là URL mà CDN sẽ lấy cache. Trong ví dụ trên có thể sử dụng /products để có thể cache tất cả trong /products hoặc /products/\*.png để cache các file png theo đúng URL. Ở đây do ví dụ là site Word Press nên sẽ cache trong thư mục content/uploads nơi chứa nhiều ảnh.
 
 ![Cache Control trên CDN](images/Aspose.Words.61559600-2ad4-431b-a0d7-51e6531be11b.003.png)
@@ -82,7 +84,6 @@ Regex pattern: /products/([a-zA-Z]+)/(\d+)
 - **Never Cache:** Không cache nội dung này kể cả Origin server có hiển thị ở dạng có thể cache.
 
 - **Disable Auto Gzip:** tắt tính năng auto Gzipping. Mặc định Gzipping sẽ được thêm vào Apect-Endcoding : gzip  cho tất cả các yêu cầu gửi về Origin và cũng sẽ tự động nén/giải nén tất cả nội dung cần thiết cho các loại MIME hợp lý.
-
 
 - **Ignore Origin Server No Cache**: Tuỳ chọn này sẽ bỏ qua các header không có cache được gửi lên từ origin. Các header bị bỏ qua là  : Cache-Control , Authorizaticon , Set-Cookie, Exprires và Pragma
 
