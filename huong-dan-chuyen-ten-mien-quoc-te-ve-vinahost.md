@@ -50,3 +50,17 @@ Sau khi có xác nhận thanh toán về tên miền cần chuyển về Vinahos
 Nếu Quý khách cần hỗ trợ thêm, vui lòng liên hệ Hotline **1900 6046** (Ext 1) Phòng Kinh doanh để được hướng dẫn và trợ giúp. Trên đây là những thông tin hướng dẫn nhằm giúp Quý Khách Hàng thao tác thực hiện việc chuyển tên miền về **VinaHost**.
 
 Chúc quý khách thực hiện thành công!
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
