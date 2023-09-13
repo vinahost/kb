@@ -102,9 +102,7 @@ _**VPS MMO** là dịch vụ VPS chuyên cung cấp số lượng proxy IPv6 th
 - Truy cập Internet thông qua **proxy** dễ dàng, tốc độ cao.
 - Server cấu hình mạnh với **Network lên đến 10Gbps** tại Tier 3 DC – Cam kết uptime 99.99% – Đảm bảo kết nối luôn thông suốt.
 
-Bạn có thể tham khảo thêm link bên dưới:
-
-<iframe class="wp-embedded-content" title="“VPS MMO” — #1 Hosting Giá Rẻ, VPS Giá Rẻ, Email, Cloud Server | VinaHost.VN" src="https://vinahost.vn/vps-mmo/embed/" width="600" height="235" marginwidth="0" marginheight="0" scrolling="no" sandbox="allow-scripts" data-secret="wyvNRk8fK1" data-mce-fragment="1"></iframe>
+Bạn có thể tham khảo thêm dịch vụ [**VPS MMO**](https://vinahost.vn/vps-mmo)
 
 Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
