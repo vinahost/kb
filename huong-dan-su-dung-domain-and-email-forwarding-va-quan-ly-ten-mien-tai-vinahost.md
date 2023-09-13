@@ -61,3 +61,17 @@ Trước tiên muốn sử dụng Domain And Email Forwarding của VinaHost,
 ![](images/huong-dacc83n-succ89-ducca3ng-domain-and-email-forwarding-va-quacc89n-ly-ten-mien-tacca3i-vinahost-281-5.jpg)
 
 ![](images/huong-dacc83n-succ89-ducca3ng-domain-and-email-forwarding-va-quacc89n-ly-ten-mien-tacca3i-vinahost-281-6.jpg)
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
