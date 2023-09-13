@@ -34,7 +34,7 @@ Chúng ta cũng có thể tắt từng **plugin** thay vì tắt toàn bộ, b�
 
 Chúc bạn thực hiện Disable Plugin WordPress Bằng File Manager Trên cPanel thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

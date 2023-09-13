@@ -109,7 +109,7 @@ Lệnh này sẽ ghi lại lưu lượng sử dụng trên interface venet0. Đ�
 
 Chúc bạn thực hiện cài đặt và **Sử Dụng vnStat Để Giám Sát Lưu Lượng Mạng Trong VPS** thành công!
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

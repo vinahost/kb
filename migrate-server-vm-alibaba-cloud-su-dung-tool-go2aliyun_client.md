@@ -124,7 +124,7 @@ Chúc bạn thực hiện **Migrate Server, VM Trên Alibaba Cloud Sử Dụng T
 
 \> Tham khảo [Hướng Dẫn Migrate Server, VM Trên Alibaba Cloud Sử Dụng SSH](https://kb.vinahost.vn/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh/)
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

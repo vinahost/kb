@@ -39,7 +39,7 @@ _Mô hình hoạt động của Internet NAT Gateway_
 - **Fine-grained O&M**: Internet NAT Gatewa có thể tự detect được ECS, qua đó giúp giám sát được lưu lượng traffic đỉnh và cung cấp các công cụ giám sát **metrics và data transfer**.
 - **Tính linh hoạt cao (High elasticity)**: áp dụng các giải pháp cao cấp và khả năng scale linh hoạt để đáp ứng các tính huống khác nhau trong quá trình vận hành.
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

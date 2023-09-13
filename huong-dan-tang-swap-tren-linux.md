@@ -142,7 +142,7 @@ Dưới đây là kết quả sau khi mình khởi động lại máy chủ.
 
 Hy vọng bài viết này sẽ giúp ích được cho các bạn. Chúc các bạn thực hiện **tăng Swap Trên Linux** thành công.
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

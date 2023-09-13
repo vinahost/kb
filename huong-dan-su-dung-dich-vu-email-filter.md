@@ -49,7 +49,7 @@ Các thao tác trên chỉ thao tác được trên 1 tài khoản của khách 
 
 Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline **1900 6046** **ext.3,** email về **support@vinahost.vn** hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php)
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 

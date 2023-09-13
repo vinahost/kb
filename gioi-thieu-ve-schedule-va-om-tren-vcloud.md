@@ -31,7 +31,7 @@ Các khái niệm về scheduled job và scheduler.
 
 Ở các bài viết khác mình sẽ hướng dẫn rõ hơn cách tạo các scheduled job và scheduler và nguyên lí hoạt động trên Vcloud của Vinahost.
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://kb.vinahost.vn/)**
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
 > **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
 > 
