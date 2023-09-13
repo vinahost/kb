@@ -10,7 +10,7 @@ Vì ngoài giờ hành chính nên VinaHost **không tiếp nhận hình thức
 
 Ngoài giờ hành chính, Quý khách hàng có thể xem xét việc thanh toán qua hình thức sau: **Paypal, Internet Banking, QR Payment, Momo hoặc qua ATM**.
 
-**Lưu ý:** Quý khách hàng có thể tham khảo cách thức [**thanh toán**](vinahost.vn/thanh-toan.html)
+**Lưu ý:** Quý khách hàng có thể tham khảo cách thức [**thanh toán**](https://vinahost.vn/thanh-toan.html)
 
 ## Để được add tiền tự động/kích hoạt tự động/gia hạn tự động
 
