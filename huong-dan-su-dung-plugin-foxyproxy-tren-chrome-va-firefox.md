@@ -104,7 +104,7 @@ _**VPS MMO** là dịch vụ VPS chuyên cung cấp số lượng proxy IPv6 th
 
 Bạn có thể tham khảo thêm link bên dưới:
 
-<iframe class="wp-embedded-content" title="“VPS MMO” — #1 Hosting Giá Rẻ, VPS Giá Rẻ, Email, Cloud Server | VinaHost.VN" src="https://vinahost.vn/vps-mmo/embed/#?secret=EKpnMFWtsi#?secret=wyvNRk8fK1" width="600" height="235" marginwidth="0" marginheight="0" scrolling="no" sandbox="allow-scripts" data-secret="wyvNRk8fK1" data-mce-fragment="1"></iframe>
+<iframe class="wp-embedded-content" title="“VPS MMO” — #1 Hosting Giá Rẻ, VPS Giá Rẻ, Email, Cloud Server | VinaHost.VN" src="https://vinahost.vn/vps-mmo/" width="600" height="235" marginwidth="0" marginheight="0" scrolling="no" sandbox="allow-scripts" data-secret="wyvNRk8fK1" data-mce-fragment="1"></iframe>
 
 Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
