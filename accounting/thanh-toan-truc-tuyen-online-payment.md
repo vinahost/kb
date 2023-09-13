@@ -95,7 +95,7 @@ Trường hợp quý khách điền đúng thông tin nhưng không nhận đư�
 
 Quý khách sẽ chờ trong vài giây để nhận kết quả xử lý từ cổng thanh toán. Chúng tôi sẽ gửi email xác nhận đơn hàng và kết quả thanh toán thành công cho quý khách.
 
-Trường hợp quý khách điền đúng thông tin nhưng không nhận được kết quả xác nhận thanh toán trên website, Quý khách vui lòng **không** thực hiện thanh toán lặp lại và liên hệ cho chúng tôi để xác nhận lại kết quả thanh toán: **_email_** [**_billing@vinahost.vn_**](mailto:billing@vinahost.vn) **_hoặc gọi điện thoại tới 1900 6046 ext. 4._**
+Trường hợp quý khách điền đúng thông tin nhưng không nhận được kết quả xác nhận thanh toán trên website, Quý khách vui lòng **không** thực hiện thanh toán lặp lại và liên hệ cho chúng tôi để xác nhận lại kết quả thanh toán: **_email_** [**_billing@vinahost.vn_**](mailto:billing@vinahost.vn) **_hoặc gọi điện thoại tới cho kế toán trong giờ hành chính 1900 6046 ext. 4._**
 
 Cảm ơn quý khách
 
