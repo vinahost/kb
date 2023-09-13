@@ -18,15 +18,15 @@ Ngoài giờ hành chính, Quý khách hàng có thể xem xét việc thanh to�
 
 ### **Thanh toán qua** **Credit Card VNĐ (Visa, Master, American, JCB)** _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại [**Hướng Dẫn Thanh Toán Qua CREDIT CARD (VND)**](accounting/huong-dan-thanh-toan-qua-credit-card-vnd.md)
+Xem hướng dẫn tại [**Hướng Dẫn Thanh Toán Qua CREDIT CARD (VND)**](huong-dan-thanh-toan-qua-credit-card-vnd.md)
 
 ### **Thanh toán qua** **QR Payment (ZaloPay, VNPay, mPay, QR Bank…), Ví điện tử MoMo, và Online Banking (ATM, Bank)**  _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại [**Thanh Toán Trực Tuyến (Online Banking/QR Payment/Momo)**](accounting/thanh-toan-truc-tuyen-online-payment.md)
+Xem hướng dẫn tại [**Thanh Toán Trực Tuyến (Online Banking/QR Payment/Momo)**](thanh-toan-truc-tuyen-online-payment.md)
 
 ### **Thanh toán qua Paypal và CREDIT CARD USD** _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại [**Hướng Dẫn Thanh Toán Qua PAYPAL Và Credit Card USD**](accounting/huong-dan-thanh-toan-qua-paypal.md)
+Xem hướng dẫn tại [**Hướng Dẫn Thanh Toán Qua PAYPAL Và Credit Card USD**](huong-dan-thanh-toan-qua-paypal.md)
 
 ### **Thanh toán qua chuyển khoản ngân hàng (Transfer banking)**
 
