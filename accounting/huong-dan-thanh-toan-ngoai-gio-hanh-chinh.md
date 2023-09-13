@@ -18,19 +18,19 @@ Ngoài giờ hành chính, Quý khách hàng có thể xem xét việc thanh to�
 
 ### **Thanh toán qua** **Credit Card VNĐ (Visa, Master, American, JCB)** _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại đây: [https://blog.vinahost.vn/huong-dan-thanh-toan-qua-credit-card-vnd](https://blog.vinahost.vn/huong-dan-thanh-toan-qua-credit-card-vnd)
+Xem hướng dẫn tại đây: [https://kb.vinahost.vn/huong-dan-thanh-toan-qua-credit-card-vnd](https://kb.vinahost.vn/huong-dan-thanh-toan-qua-credit-card-vnd)
 
 ### **Thanh toán qua** **QR Payment (ZaloPay, VNPay, mPay, QR Bank…), Ví điện tử MoMo, và Online Banking (ATM, Bank)**  _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại đây: [https://blog.vinahost.vn/thanh-toan-truc-tuyen-online-payment](https://blog.vinahost.vn/thanh-toan-truc-tuyen-online-payment)
+Xem hướng dẫn tại đây: [https://kb.vinahost.vn/thanh-toan-truc-tuyen-online-payment](https://kb.vinahost.vn/thanh-toan-truc-tuyen-online-payment)
 
 ### **Thanh toán qua Paypal và CREDIT CARD USD** _(Khuyến khích thực hiện thanh toán)_
 
-Xem hướng dẫn tại đây: [https://blog.vinahost.vn/huong-dan-thanh-toan-qua-paypal](https://blog.vinahost.vn/huong-dan-thanh-toan-qua-paypal)
+Xem hướng dẫn tại đây: [https://kb.vinahost.vn/huong-dan-thanh-toan-qua-paypal](https://kb.vinahost.vn/huong-dan-thanh-toan-qua-paypal)
 
 ### **Thanh toán qua chuyển khoản ngân hàng (Transfer banking)**
 
-Xem hướng dẫn tại đây: [https://blog.vinahost.vn/huong-dan-thanh-toan-truc-tiep](https://blog.vinahost.vn/huong-dan-thanh-toan-truc-tiep)
+Xem hướng dẫn tại đây: [https://kb.vinahost.vn/huong-dan-thanh-toan-truc-tiep](https://kb.vinahost.vn/huong-dan-thanh-toan-truc-tiep)
 
 _Lưu ý: ghi rõ **số hóa đơn điện tử** trong nội dung thanh toán để được add tiền tự động._
 
