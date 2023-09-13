@@ -4,13 +4,13 @@ date: "2021-07-28"
 coverImage: "thanh-toan-ngoai-gio-hanh-chinh-0.png"
 ---
 
-Bài viết này nhằm hướng dẫn Quý Khách hàng phải làm gì để thanh toán ngoài giờ hành chính và sau khi thanh toán ngoài giờ hành chính nên làm gì để được mở lại Dịch vụ hoặc Kích hoạt mới dịch vụ khi Phòng kế toán chưa kịp xác nhận thanh toán.
+Bài viết này nhằm hướng dẫn Quý Khách hàng phải làm gì để **thanh toán ngoài giờ hành chính** và sau khi thanh toán ngoài giờ hành chính nên làm gì để được **mở lại dịch vụ** hoặc **Kích hoạt mới dịch vụ** khi Phòng kế toán chưa kịp xác nhận thanh toán.
 
 Vì ngoài giờ hành chính nên VinaHost **không tiếp nhận hình thức thanh toán trực tiếp tại văn phòng công ty**, rất mong Quý khách hàng thông cảm.
 
 Ngoài giờ hành chính, Quý khách hàng có thể xem xét việc thanh toán qua hình thức sau: **Paypal, Internet Banking, QR Payment, Momo hoặc qua ATM**.
 
-**_\*_****_\*\* Lưu ý:** _Quý khách hàng có thể tham khảo cách thức [**thanh toán**](vinahost.vn/thanh-toan.html)
+**Lưu ý:** Quý khách hàng có thể tham khảo cách thức [**thanh toán**](vinahost.vn/thanh-toan.html)
 
 ## Để được add tiền tự động/kích hoạt tự động/gia hạn tự động
 
