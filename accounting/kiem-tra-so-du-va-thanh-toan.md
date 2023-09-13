@@ -52,7 +52,7 @@ Quý khách vào thanh menu chọn **Transaction History**
 
 Tại đây, Quý khách có thể xem lại lịch sử dùng tiền trong tài khoản để thanh toán từng hóa đơn cùng số tiền tương ứng.
 
-Nếu có thắc mắc thêm, Quý khách hàng vui lòng liên số tổng đài 1900.6046 ext 4 hoặc gởi mail về [billing@vinahost.vn](mailto:billing@vinahost.vn) để được hỗ trợ.
+Nếu có thắc mắc thêm, Quý khách hàng vui lòng liên với phòng kế toán số tổng đài 1900.6046 ext 4 ( trong giờ hành chính ) hoặc gởi mail về [billing@vinahost.vn](mailto:billing@vinahost.vn) để được hỗ trợ.
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
