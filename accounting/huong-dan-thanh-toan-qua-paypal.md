@@ -46,7 +46,7 @@ Quý khách sẽ chờ trong vài giây để nhận kết quả xử lý từ c
 
 **\*\*\* Lưu ý:** Nếu lần đầu quý khách thanh toán qua cổng Paypal, vui lòng gửi email tới [billing@vinahost.vn](mailto:billing@vinahost.vn) và cung cấp thông tin bản chụp CMND hoặc bản chụp thẻ Visa dùng để thanh toán (vui lòng che đi phần số) để Phòng kế toán tiến hành xác nhận thông tin và gửi yêu cầu kích hoạt các gói dịch vụ của Quý khách.
 
-\[embed\]https://www.youtube.com/watch?v=3xF6HIz0BWI\[/embed\]
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/3xF6HIz0BWI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
