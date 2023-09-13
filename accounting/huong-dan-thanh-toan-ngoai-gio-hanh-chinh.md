@@ -10,7 +10,7 @@ Vì ngoài giờ hành chính nên VinaHost **không tiếp nhận hình thức
 
 Ngoài giờ hành chính, Quý khách hàng có thể xem xét việc thanh toán qua hình thức sau: **Paypal, Internet Banking, QR Payment, Momo hoặc qua ATM**.
 
-**_\*_****_\*\* Lưu ý:_** _Quý khách hàng có thể tham khảo cách thức [**Thanh toán**](vinahost.vn/thanh-toan.html)
+**_\*_****_\*\* Lưu ý:** _Quý khách hàng có thể tham khảo cách thức [**thanh toán**](vinahost.vn/thanh-toan.html)
 
 ## Để được add tiền tự động/kích hoạt tự động/gia hạn tự động
 
@@ -57,7 +57,7 @@ Các dịch vụ không được kích hoạt tự động bao gồm kích hoạ
 #### _Trường hợp Quý khách hàng không thể thực hiện thanh toán qua các hình thức trên, tuy nhiên, dịch vụ của Quý khách đã bị khóa hoặc dịch vụ mới cần kích hoạt ngay._
 
 - **Cách 1:** Quý khách hàng vui lòng liên hệ với nhân viên Phòng kinh doanh hoặc Phòng chăm sóc khách hàng để được hỗ trợ bảo lãnh gia hạn, nâng cấp hoặc kích hoạt dịch vụ.
-- **Cách 2:** Nếu trong trường hợp Quý khách hàng không thể liên hệ với nhân viên phòng kinh doanh hoặc Phòng chăm sóc khách hàng vui lòng đăng nhập vào hệ thống tài khoản tại VinaHost, tại hệ thống hỗ trợ khách hàng, chọn gửi yêu cầu hỗ trợ, sau đó chọn hỗ trợ 24/7 và gửi ticket yêu cầu hỗ trợ.
+- **Cách 2:** Nếu trong trường hợp Quý khách hàng không thể liên hệ với nhân viên phòng kinh doanh hoặc Phòng chăm sóc khách hàng vui lòng đăng nhập vào hệ thống tài khoản tại VinaHost, tại hệ thống hỗ trợ khách hàng, chọn gửi yêu cầu hỗ trợ, sau đó chọn [hỗ trợ 24/7](https://vinahost.vn/ho-tro/) và gửi ticket yêu cầu hỗ trợ.
 
 _**\*\*\*Lưu ý:** Trường hợp này không áp dụng đối với gia hạn, đăng ký tên miền hoặc kích hoạt bản quyền. Mong Quý khách thông cảm._ 
 
