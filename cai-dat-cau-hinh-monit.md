@@ -32,7 +32,7 @@ Trên **CentOS 7**, file cấu hình chính của **Monit** nằm ở **/etc/mon
 
 Mặc định, **Monit** giám sát các dịch vụ đang chạy trong mỗi 30 giây và ghi lại lịch sử vào file log “**/var/log/monit.log**”. Để thay đổi các tuỳ chọn này, ta có thể chỉnh sửa các dòng **set daemon** và **set log syslog** ở phần đầu của file cấu hình.
 
-Ví dụ như bạn muốn thiết lập thời gian kiểm tra các tiến trình đang chạy trong mỗi 2 phút thì chỉ cần chỉnh thông số 30 thành 120.
+Ví dụ như bạn muốn thiết lập thời gian kiểm tra các tiến trình đang chạy trong mỗi **2 phút** thì chỉ cần chỉnh thông số **30** thành **120**.
 
         set daemon  120
 
@@ -76,7 +76,7 @@ Ví dụ:
 
 Để thêm một dịch vụ bất kỳ vào qui trình giám sát, các bạn chỉ cần tạo thêm file dịch vụ đó trong thư mục **/etc/monit.d/**
 
-        $ sudo vi /etc/monit.d/ssh\_monitor
+        $ sudo vi /etc/monit.d/ssh\monitor
 
 Thêm dịch vụ ssh vào quy trình giám sát
 
@@ -92,7 +92,7 @@ Thiết lập rule tự động cho **sshd**, nếu dịch vụ **ssh** bị d�
 
         if failed port 22 protocol ssh then restart       
 
-Sau khi thiết lập file dịch vụ, các bạn nhớ reload lại Monit
+Sau khi thiết lập file dịch vụ, các bạn nhớ **reload** lại **Monit**
 
         $ monit reload
 
@@ -100,13 +100,13 @@ Truy cập giao diện web để kiểm tra
 
 ![monit](images/cai-dat-cau-hinh-Monit-2-1024x679.png)
 
-- Giám sát file system
+- Giám sát **file system**
 
         $ sudo vi /etc/monit.d/fsmonitor
 
 Để kiểm tra dung lượng file system các bạn thiết lập như sau
 
-        check filesystem my\_filesystem path /
+        check filesystem my\filesystem path /
 
 Nếu dung lương file system lớn hơn **90% **sẽ gửi email cảnh báo về [vint@vinahost.vn](mailto:vint@vinahost.vn)
 
