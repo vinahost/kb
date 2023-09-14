@@ -6,13 +6,13 @@ categories:
 coverImage: "huong-dan-tang-swap-tren-linux-0.jpg"
 ---
 
-Bài viết này sẽ hướng dẫn bạn cách **Tăng Swap Trên Linux**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext.3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
+Bài viết này sẽ hướng dẫn bạn cách **Tăng Swap Trên Linux**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext.3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với **VinaHost** qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
-Trong quá trình sử dụng dịch vụ VPS tại **VinaHost** chắc hẳn các bạn sẽ gặp qua tình trạng VPS báo full RAM. Nguyên nhân thường là do thông số RAM của VPS thấp, không đáp ứng đủ cho các tác vụ chương trình và dịch vụ chạy trên hệ thống.
+Trong quá trình sử dụng dịch vụ **VPS** tại **VinaHost** chắc hẳn các bạn sẽ gặp qua tình trạng **VPS** báo **full RAM**. Nguyên nhân thường là do thông số **RAM** của **VPS** thấp, không đáp ứng đủ cho các tác vụ chương trình và dịch vụ chạy trên hệ thống.
 
 ![Hướng Dẫn Tăng Swap Trên Linux](images/huong-dan-tang-swap-tren-linux-1.png)
 
-Để tạm khắc phục vấn đề trên, hôm nay mình sẽ hướng dẫn các bạn cách cấu hình RAM ảo trên Linux.
+Để tạm khắc phục vấn đề trên, hôm nay mình sẽ hướng dẫn các bạn cách cấu hình **RAM** ảo trên **Linux**.
 
 ## 1\. Swap là gì?
 
