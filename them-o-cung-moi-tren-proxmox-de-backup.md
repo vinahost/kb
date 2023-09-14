@@ -12,62 +12,62 @@ Bài viết này sẽ hướng dẫn bạn **Thêm Ổ Cứng Mới Trên Proxmo
 
 ## Hướng Dẫn Thêm Ổ Cứng Mới Trên Proxmox Để Backup
 
-**B****ư****ớc** **1:** Thêm ổ cứng SATA/SSD vào Server
+**Bước 1** Thêm ổ cứng SATA/SSD vào Server
 
-**B****ư****ớc** **2:** Format ổ cứng
+**Bước 2** Format ổ cứng
 
-**root@pvetest:~# mkfs.ext4 /dev/sdc**
-mke2fs 1.46.2 (28-Feb-2021)
-Discarding device blocks: done
-Creating filesystem with 52428800 4k blocks and 13107200 inodes
-Filesystem UUID: c48b4097-c394-4c95-ac14-733686496cd5
-Superblock backups stored on blocks:
-        32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208,
-        4096000, 7962624, 11239424, 20480000, 23887872
+    root@pvetest:~# mkfs.ext4 /dev/sdc
+    mke2fs 1.46.2 (28-Feb-2021)
+    Discarding device blocks: done
+    Creating filesystem with 52428800 4k blocks and 13107200 inodes
+    Filesystem UUID: c48b4097-c394-4c95-ac14-733686496cd5
+    Superblock backups stored on blocks:
+           32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208,
+            4096000, 7962624, 11239424, 20480000, 23887872
 
-Allocating group tables: done
-Writing inode tables: done
-Creating journal (262144 blocks): done
-Writing superblocks and filesystem accounting information: done
+    Allocating group tables: done
+    Writing inode tables: done
+    Creating journal (262144 blocks): done
+    Writing superblocks and filesystem accounting information: done
 
-**B****ư****ớc** **3:** Tạo phân vùng backup để mount ổ cứng mới, và thêm cấu hình sau vào _fstab_.
+**Bước 3** Tạo phân vùng backup để mount ổ cứng mới, và thêm cấu hình sau vào *fstab*.
 
-**mkdir /backup**
-**nano /etc/fstab**
-Add: /dev/sd? /backup ext4 defaults 0 0
+    mkdir /backup
+    nano /etc/fstab
+    Add: /dev/sd? /backup ext4 defaults 0 0
 
-![](images/them-o-cung-moi-tren-proxmox-de-backup-1.png)
+![Thêm Ổ Cứng Mới Trên Proxmox Để Backup](images/them-o-cung-moi-tren-proxmox-de-backup-1.png)
 
-**B****ư****ớc** **4:** Chạy lệnh dưới để check cấu hình ổ cứng
+**Bước 4** Chạy lệnh dưới để check cấu hình ổ cứng
 
-**root@pvetest:~# mount -a**
-**root@pvetest:~# lsblk**
-NAME                          MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
-sda                             8:0    0   100G  0 disk
-├─sda1                          8:1    0  1007K  0 part
-├─sda2                          8:2    0   512M  0 part
-└─sda3                          8:3    0  99.5G  0 part
-  ├─pve-swap                  253:0    0     7G  0 lvm  \[SWAP\]
-  ├─pve-root                  253:1    0  24.8G  0 lvm  /
-  ├─pve-data\_tmeta            253:2    0     1G  0 lvm
-  │ └─pve-data                253:4    0  53.4G  0 lvm
-  └─pve-data\_tdata            253:3    0  53.4G  0 lvm
-    └─pve-data                253:4    0  53.4G  0 lvm
-sdb                             8:16   0   200G  0 disk
-└─sdb1                          8:17   0   200G  0 part
-  └─newdrive-vm--100--disk--0 253:5    0    32G  0 lvm
-**sdc                             8:32   0   200G  0 disk /backup**
-sr0                            11:0    1 994.2M  0 rom
+    root@pvetest:~# mount -a
+    root@pvetest:~# lsblk
+    NAME                          MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+    sda                             8:0    0   100G  0 disk
+    ├─sda1                          8:1    0  1007K  0 part
+    ├─sda2                          8:2    0   512M  0 part
+    └─sda3                          8:3    0  99.5G  0 part
+      ├─pve-swap                  253:0    0     7G  0 lvm  \[SWAP\]
+      ├─pve-root                  253:1    0  24.8G  0 lvm  /
+      ├─pve-data\_tmeta            253:2    0     1G  0 lvm
+      │ └─pve-data                253:4    0  53.4G  0 lvm
+      └─pve-data\_tdata            253:3    0  53.4G  0 lvm
+       └─pve-data                253:4    0  53.4G  0 lvm
+    sdb                             8:16   0   200G  0 disk
+    └─sdb1                          8:17   0   200G  0 part
+      └─newdrive-vm--100--disk--0 253:5    0    32G  0 lvm
+    sdc                             8:32   0   200G  0 disk /backup
+    sr0                            11:0    1 994.2M  0 rom
 
-**B****ư****ớc** **5:** Mở Proxmox Web UI và tạo Directory
+**Bước 5** Mở Proxmox Web UI và tạo Directory
 
-![](images/them-o-cung-moi-tren-proxmox-de-backup-2.png)
+![Thêm Ổ Cứng Mới Trên Proxmox Để Backup](images/them-o-cung-moi-tren-proxmox-de-backup-2.png)
 
 **Bước 6:** Điền thông tin ổ đĩa (ID), đường dẫn (Directory) và chức năng (Content) của ổ đĩa này
 
-![](images/them-o-cung-moi-tren-proxmox-de-backup-3.png)
+![Thêm Ổ Cứng Mới Trên Proxmox Để Backup](images/them-o-cung-moi-tren-proxmox-de-backup-3.png)
 
-Ổ cứng “backup” mới đã được active
+Ổ cứng **“backup”** mới đã được active
 
 ![Proxmox](images/them-o-cung-moi-tren-proxmox-de-backup-4.png)
 
