@@ -10,7 +10,7 @@ Bài viết này sẽ hướng dẫn bạn **Kiểm Tra Và Xử Lý VPS Khi B�
 
 ## **1\. Lý do phải Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng**
 
-Việc đầy ổ cứng sẽ dẫn đến việc website trên VPS của bạn bị treo tạm thời. Điều này sẽ gây tổn thất đến việc hoạt động của bạn. Vậy bạn đã biết cách xử lý vấn đề này chưa. Nếu chưa thì chúng ta cùng bắt tay vào tìm hiểu và xử lý nhé.
+Việc đầy ổ cứng sẽ dẫn đến việc **website** trên **VPS** của bạn bị treo tạm thời. Điều này sẽ gây tổn thất đến việc hoạt động của bạn. Vậy bạn đã biết cách xử lý vấn đề này chưa. Nếu chưa thì chúng ta cùng bắt tay vào tìm hiểu và xử lý nhé.
 
 ## **2\. Hướng Dẫn Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng**
 
@@ -18,7 +18,7 @@ Việc đầy ổ cứng sẽ dẫn đến việc website trên VPS của bạn 
 
 **Bước 2:** Chúng ta sử dụng df -h để kiểm tra xem dung lượng ổ cứng của mình đã full chưa nhé.
 
-\# df -h
+    df -h
 
 ![Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng](images/kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung-1.png)
 
@@ -33,29 +33,29 @@ Cụ thể như sau:
 
 Chúng ta có thể sử dụng lệnh sau:
 
-\# find /home -type f -size +500000k -exec ls -lh {} \\; | awk '{ print $9 ": " $5 }
+    find /home -type f -size +500000k -exec ls -lh {} \\; | awk '{ print $9 ": " $5 }
 
-![](images/kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung-2.png)
+![Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng](images/kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung-2.png)
 
-Lưu ý: Lệnh trên sẽ liệt kê các file có dung lượng >= 500000 KB (~500MB) và đường dẫn chưa file đó.
+Lưu ý: Lệnh trên sẽ liệt kê các file có dung lượng `>= 500000 KB (~500MB)` và đường dẫn chưa file đó.
 
 **Bước 4**: Chúng ta cũng có thể sử dụng lệnh sau:
 
-\# du -sh \*
+    du -sh
 
-![](images/kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung-3.png)
+![Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng](images/kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung-3.png)
 
-Lệnh này nhằm liệt kê ra các thư mục đang chiếm dung lượng VPS của bạn.
+Lệnh này nhằm liệt kê ra các thư mục đang chiếm dung lượng **VPS** của bạn.
 
-Ở đây thư mục log đang chúng ta tiếp tục sử dụng lệnh: # du -sh /var/log \* để xem tiếp thư mục nào chiếm dụng dung lượng nhé.
+Ở đây thư mục `log` đang chúng ta tiếp tục sử dụng lệnh: `du -sh /var/log` để xem tiếp thư mục nào chiếm dụng dung lượng nhé.
 
-Lưu ý: Không nên xóa các file log trong thư mục httpd và nginx nhé
+Lưu ý: Không nên xóa các **file log** trong thư mục **httpd** và **nginx** nhé
 
-**Bước 5:** Hãy xác định những file không cần thiết và tiến hành xóa bằng lệnh sau:
+**Bước 5:** Hãy xác định những **file** không cần thiết và tiến hành xóa bằng lệnh sau:
 
-\# rm -rf /đường dẫn/thư mục/file
+    rm -rf /đường dẫn/thư mục/file
 
-Sau khi hoàn thành chúng ta sử dụng lệnh # df -h để kiểm tra xem ổ cứng VPS chúng ta đã trống được bao nhiêu GB. Nếu vẫn còn tình trạng full disk thì chúng ta có thể thực hiện tiếp các bước trên.
+Sau khi hoàn thành chúng ta sử dụng lệnh `df -h` để kiểm tra xem ổ cứng **VPS** chúng ta đã trống được bao nhiêu **GB**. Nếu vẫn còn tình trạng **full disk** thì chúng ta có thể thực hiện tiếp các bước trên.
 
 Hoặc cách xử lý nhanh nhất là chúng ta có thể nâng cấp dung lượng ổ cứng.
 
