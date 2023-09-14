@@ -36,12 +36,13 @@ Sau khi thực hiện tạo bản sao lưu VPS, bạn vui lòng chờ khoảng *
 
 Ở bước trên bạn đã tạo được bản sao lưu cho VPS. Trong trường hợp bạn muốn khôi phục lại VPS từ các bản sao lưu trước đó, bạn thực hiện các bước sau để thực hiện khôi phục VPS.
 
-\- Bước 1: Truy cập vào gói dịch vụ ProSSD đang sử dụng tại VinaHost bằng cách vào link[https://secure.vinahost.vn/ac/clientarea.php](https://secure.vinahost.vn/ac/clientarea.php) >> chọn "Services" và chọn tiếp gói dịch vụ ProSSD mà bạn muốn thực hiện sao lưu VPS.  
-\- Bước 2: Tiến hành khôi phục lại VPS bằng cách chọn chức năng "Backups" trong mục "Additional Tools".
+\- Bước 1: Truy cập vào gói dịch vụ ProSSD đang sử dụng tại VinaHost bằng cách vào link[https://secure.vinahost.vn/ac/clientarea.php](https://secure.vinahost.vn/ac/clientarea.php) >> chọn "**Services**" và chọn tiếp gói dịch vụ ProSSD mà bạn muốn thực hiện sao lưu VPS.  
+
+\- Bước 2: Tiến hành khôi phục lại VPS bằng cách chọn chức năng "**Backups**" trong mục "**Additional Tools**".
 
 ![Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS](images/262174662f-vinahost-huong-dan-tu-sao-luu-va-khoi-phuc-vps-4.png)
 
-Tiếp theo bạn cần chọn bản sao lưu trước đó dùng để khôi phục VPS và chọn chức năng "Restore" như hình bên dưới (biểu tượng hình tròn có mũi tên).
+Tiếp theo bạn cần chọn bản sao lưu trước đó dùng để khôi phục VPS và chọn chức năng "**Restore**" như hình bên dưới (biểu tượng hình tròn có mũi tên).
 
 ![Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS](images/6defbc72da-vinahost-huong-dan-tu-sao-luu-va-khoi-phuc-vps-5.png)
 
