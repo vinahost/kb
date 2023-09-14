@@ -16,9 +16,9 @@ Trong quá trình sử dụng dịch vụ **VPS** tại **VinaHost** chắc h�
 
 ## 1\. Swap là gì?
 
-**Swap** hay còn được gọi là RAM ảo, được sử dụng để hỗ trợ lưu trữ dữ liệu vào bộ nhớ đĩa cứng (Disk) khi RAM đã đầy và không còn đủ để xử lý các tác vụ. Đôi khi Swap cũng được dùng song song để tăng dung lượng bộ nhớ đệm (cache) kể cả khi RAM vẫn chưa sử dụng hết. Swap thường mặc định được dùng trên các hệ điều hành Linux, Ubuntu hoặc CentOS. Swap có thể là một phân vùng (partition) hoặc một file
+**Swap** hay còn được gọi là **RAM** ảo, được sử dụng để hỗ trợ lưu trữ dữ liệu vào bộ nhớ đĩa cứng (**Disk**) khi **RAM** đã đầy và không còn đủ để xử lý các tác vụ. Đôi khi **Swap** cũng được dùng song song để tăng dung lượng bộ nhớ đệm (**cache**) kể cả khi **RAM** vẫn chưa sử dụng hết. **Swap** thường mặc định được dùng trên các hệ điều hành **Linux**, **Ubuntu** hoặc **CentOS**. **Swap** có thể là một phân vùng (**partition**) hoặc một **file**
 
-**Note:** Thực ra thì Swap hay RAM ảo này chỉ là hỗ trợ thêm cho RAM thực khi máy tính dùng hết RAM thực mà thôi, và tốc độ xử lý của RAM ảo cũng không được cao, do đó chúng ta không nên lạm dụng vào RAM ảo. Nếu như VPS của bạn thường xuyên bị tràn bộ nhớ RAM và sử dụng đến Swap, thì các bạn nên cân nhắc nâng cấp gói dịch vụ cho phù hợp với nhu cầu công việc của các bạn.
+**Note:** Thực ra thì **Swap** hay **RAM** ảo này chỉ là hỗ trợ thêm cho **RAM** thực khi máy tính dùng hết **RAM** thực mà thôi, và tốc độ xử lý của **RAM** ảo cũng không được cao, do đó chúng ta không nên lạm dụng vào **RAM** ảo. Nếu như **VPS** của bạn thường xuyên bị tràn bộ nhớ **RAM** và sử dụng **đến** Swap, thì các bạn nên cân nhắc nâng cấp gói dịch vụ cho phù hợp với nhu cầu công việc của các bạn.
 
 ## 2\. Hướng dẫn tạo và kích hoạt, tăng Swap trên Linux
 
