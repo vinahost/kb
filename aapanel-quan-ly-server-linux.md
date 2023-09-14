@@ -357,7 +357,7 @@ Configuration(Please modify by PHP version, e.g. /www/server/php/52/etc/php.ini)
 
         /www/server/php/{52|53|54|55|56|70|71|72|73|74|80|81}/etc/php.ini
 
-#### Redis
+### Redis
 
 redis installation directory
 
