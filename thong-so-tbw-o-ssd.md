@@ -6,31 +6,31 @@ coverImage: "thong-so-tbw-o-ssd.jpg"
 
 Bài viết này sẽ hướng dẫn bạn cách **Phân Biệt Thông Số TBW Và Bảng Thông Số TBW Ổ SSD Của Các Hãng Phần Cứng**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
-Ngày nay, thuật ngữ “SSD” chắc chắn đã không còn quá xa lạ với những người dùng thường xuyên sử dụng máy tính. Đây là thiết bị chuyên dùng để lưu trữ tất cả dữ liệu của toàn bộ máy tính với thiết kế vô cùng nhỏ gọn và góp phần cải thiện mạnh mẽ hiệu suất của thiết bị. Thế như bạn đã hiểu được những thông số quan trọng được ghi trên ổ cứng SSD hay chưa? Thông số TBW SSD có nghĩa là gì? Làm thế nào để lựa chọn được một chiếc ổ cứng SSD phù hợp với nhu cầu sử dụng của bạn.
+Ngày nay, thuật ngữ **“SSD”** chắc chắn đã không còn quá xa lạ với những người dùng thường xuyên sử dụng máy tính. Đây là thiết bị chuyên dùng để lưu trữ tất cả dữ liệu của toàn bộ máy tính với thiết kế vô cùng nhỏ gọn và góp phần cải thiện mạnh mẽ hiệu suất của thiết bị. Thế như bạn đã hiểu được những thông số quan trọng được ghi trên ổ cứng **SSD** hay chưa? **Thông số TBW SSD** có nghĩa là gì? Làm thế nào để lựa chọn được một chiếc ổ cứng **SSD** phù hợp với nhu cầu sử dụng của bạn.
 
 ## **1\. Thông số TBW của ổ cứng SSD là gì?**
 
-TBW (Tera Byte Written) có nghĩa là tổng Tera Byte được ghi trên thiết bị ổ cứng SSD của bạn (Với 1TB = 1000GB). Thông số này dùng để thể hiện độ bền của ổ cứng và thay thế cho số vòng quay trên ổ cứng cơ HDD và được tính bằng số lượng TBW nhất định. Nếu như bạn nhìn thấy một chiếc ổ cứng SSD có chỉ số TBW khá lớn, tức là chứng tỏ nó đã được sử dụng rất lâu rồi.
+**TBW (Tera Byte Written)** có nghĩa là tổng **Tera Byte** được ghi trên thiết bị ổ cứng **SSD** của bạn (**Với 1TB = 1000GB**). Thông số này dùng để thể hiện độ bền của ổ cứng và thay thế cho số vòng quay trên ổ cứng cơ **HDD** và được tính bằng số lượng TBW nhất định. Nếu như bạn nhìn thấy một chiếc ổ cứng **SSD** có chỉ số **TBW** khá lớn, tức là chứng tỏ nó đã được sử dụng rất lâu rồi.
 
 ## **2\. Thông số DWPD là gì?**
 
-DWPD (Drive Write Per Day) là một thông số đánh giá độ bền mà các hãng sản xuất ổ cứng SSD cung cấp cho khách hàng của họ. Không như các thiết bị ổ cứng cơ truyền thống, SSD có giới hạn số lượng đọc ghi dữ liệu trước khi ổ cứng bị hỏng, một quá trình được hiểu như là hao mòn bộ nhớ Flash. Chỉ số DWPD cho khách hàng biết số lần anh ta/cô ta có thể ghi đè dữ liệu lên ổ cứng SSD trước khi nó “gặp vấn đề”.
+**DWPD (Drive Write Per Day)** là một thông số đánh giá độ bền mà các hãng sản xuất ổ cứng **SSD** cung cấp cho khách hàng của họ. Không như các thiết bị ổ cứng cơ truyền thống, **SSD** có giới hạn số lượng đọc ghi dữ liệu trước khi ổ cứng bị hỏng, một quá trình được hiểu như là hao mòn bộ nhớ **Flash**. Chỉ số **DWPD** cho khách hàng biết số lần anh ta/cô ta có thể ghi đè dữ liệu lên ổ cứng **SSD** trước khi nó “**gặp vấn đề**”.
 
 ## **3\. Công thức tính TBW và DWPD**
 
-Để so sánh hai thông số này, bạn cần phải biết dung lượng ổ cứng và thời gian bảo hành. Nếu hãng sản xuất cung cấp cho bạn thông số TBW nhưng bạn vẫn muốn biết thông số DWPD, thì hãy áp dụng công thức sau đây:
+Để so sánh hai thông số này, bạn cần phải biết dung lượng ổ cứng và thời gian bảo hành. Nếu hãng sản xuất cung cấp cho bạn thông số **TBW** nhưng bạn vẫn muốn biết thông số **DWPD**, thì hãy áp dụng công thức sau đây:
 
 ### **TBW = DWPD \* Thời gian bảo hành \* 365 \* Capacity/1,024**
 
-Còn nếu như bạn muốn thực hiện chuyển đổi TBW sang DWPD, thì bạn cũng có thể áp dụng công thức bên dưới:
+Còn nếu như bạn muốn thực hiện chuyển đổi **TBW** sang **DWPD**, thì bạn cũng có thể áp dụng công thức bên dưới:
 
 ### **DWPD = TBW \* 1024/(Capacity \* Thời gian bảo hành \* 365)**
 
-Các hằng số như 1024 và 365 chỉ đơn giản là đổi từ TB ra GB và đổi từ năm ra ngày.
+Các hằng số như **1024** và **365** chỉ đơn giản là đổi từ **TB** ra **GB** và đổi từ năm ra ngày.
 
 ## **4\. Cách kiểm tra thông số TBW của ổ cứng**
 
-Dùng các tool hỗ trợ kiểm tra ổ cứng như: hdsentinel, CrystalDiskInfo …
+Dùng các tool hỗ trợ kiểm tra ổ cứng như: **hdsentinel**, **CrystalDiskInfo** …
 
 Hình minh họa:
 
