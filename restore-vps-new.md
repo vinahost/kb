@@ -34,7 +34,7 @@ Lưu ý: Khi restore thì toàn bộ dữ liệu trên VPS hiện tại của b�
 
 Bạn cần chờ **15 - 30 phút** để hệ thống thực hiện khôi phục dữ liệu. Để theo dõi trạng thái VPS, bạn có thể xem tại mục "**Status**" như video bên dưới.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/ztSFidFQ0us" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/5ThiSO1YL3Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Chúc quý khách thực hiện thành công!
 
