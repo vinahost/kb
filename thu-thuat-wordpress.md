@@ -8,7 +8,7 @@ coverImage: "wrp-e1600051647938.png"
 
 Khi đặt mật khẩu, chỉ những người có mật khẩu mới đọc được bài viết.
 
-### Các bước thực hiện như sau:
+**Các bước thực hiện như sau:**
 
 **Bước 1**: Đăng nhập vào trang quản trị WordPress.  
 **Bước 2**: Ở mục Dashboard chọn Post và chọn Add New.  
@@ -29,7 +29,9 @@ Vậy là bài viết của bạn đã được bảo vệ chỉ những ai có 
 
 ## Hướng dẫn thay đổi mật khẩu WordPress
 
-Thông thường nếu quên mật khẩu, bạn có thể sử dụng chức năng **Reset** mật khẩu thông qua **e-mail** của **WordPress**. Nhưng trong trường hợp **email** bạn đặt không chính xác hoặc **email** không thể sử dụng, bạn có thể thực hiện truy vấn **SQL** trên **database** để thực hiện cập nhật lại mật khẩu. Các bước thực hiện như sau:
+Thông thường nếu quên mật khẩu, bạn có thể sử dụng chức năng **Reset** mật khẩu thông qua **e-mail** của **WordPress**. Nhưng trong trường hợp **email** bạn đặt không chính xác hoặc **email** không thể sử dụng, bạn có thể thực hiện truy vấn **SQL** trên **database** để thực hiện cập nhật lại mật khẩu. 
+
+**Các bước thực hiện như sau:**
 
 **Bước 1**: Đăng nhập vào cPanel.  
 **Bước 2**: Tại mục Database Management bên trái bạn chọn phpMyAdmin.  
