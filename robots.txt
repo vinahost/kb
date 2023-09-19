@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /sitemap.xml
-
-User-agent: *
 Allow: /
 
 Sitemap: https://kb.vinahost.vn/kbsitemap.xml
