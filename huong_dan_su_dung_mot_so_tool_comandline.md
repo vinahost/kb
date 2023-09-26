@@ -42,7 +42,7 @@ Mục đích:
     - Kiểm tra hiệu lực của API key  
 
 Hướng dẫn sử dụng:  
-SendGrid  
+***SendGrid***  
 ```bash
 # Hiển thị tuỳ chọn Help
 sendgrid -h
@@ -56,7 +56,7 @@ OPTIONS:
 sendgrid -s 'Kiem tra API SendGrid' -r ninhpq@vinahost.vn -c 'Day la email kiem tra api cua SendGrid'
 ```
 
-SMTP2GO  
+***SMTP2GO*** 
 ```bash
 # Hiển thị tuỳ chọn Help
 smtp2go -h
@@ -76,6 +76,25 @@ OPTIONS:
   smtp2go -t ninhpq@vinahost.vn -l 1
 
 ```
+
+## Tool Unsusspended Email Account Cpanel
+Phạm vi: Tool này có thể sử dụng trên các Email Hosting : E, E2, EVDC  
+Mục đích:   
+    - Chủ động mở khoá địa chỉ Email Spam đã bị khoá bởi script limit
+Lưu ý: Chỉ mở khoá khi khách hàng đã hành động ngăng chặn việc spam mail. xác nhận với kỹ thuật  
+Không mở khoá tuỳ ý khi khách hàng yêu cầu hời hợt, không có hành động ngăn chặn nào.
+    
+Hướng dẫn sử dụng:  
+```bash
+# Hiển thị tuỳ chọn Help
+ unsuspended -h
+
+# Unsusspend Email Account'
+unsuspend user_name email_address
+# user_name : là User chính của Hosting Cpanel  
+# email_address : là địa chỉ email bị khoá  
+```
+
 
 
  
