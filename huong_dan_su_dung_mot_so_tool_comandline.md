@@ -1,14 +1,14 @@
 # Hướng dẫn sử dụng một số tool comand line trên một số Server Hosting của Vinahost
 
 ## DNS
-Phạm vi: Tool này có thể sử dụng trên các Email Hosting : E, E2, EVDC
-Mục đích:
-  - Setup bộ record cho Email Hosting
-  - Trỏ/cập nhật lại record Email Hosting (DKIM, SPF, MX, A)
-  - Trỏ record bằng lệnh đối với các tên miền có nameserver thuộc ns3,ns4
-  - Liệt kê các record
+Phạm vi: Tool này có thể sử dụng trên các Email Hosting : E, E2, EVDC  
+Mục đích:  
+  - Setup bộ record cho Email Hosting  
+  - Trỏ/cập nhật lại record Email Hosting (DKIM, SPF, MX, A)  
+  - Trỏ record bằng lệnh đối với các tên miền có nameserver thuộc ns3,ns4  
+  - Liệt kê các record  
 
-Hướng dẫn sử dụng:
+Hướng dẫn sử dụng:  
 ```bash
 # Hiển thị tuỳ chọn Help
 vnds -h
@@ -35,14 +35,14 @@ vdns -d example.vn -a example.vn -t MX -p 5 -c mail.example.vn.
 vdns -d example.vn -r nintech.example.vn -t A
 ```
 
-## Tool kiểm tra kết nối đến Sendgrid hoặc SMTP20
-Phạm vi: Tool này có thể sử dụng trên các Email Hosting : E, E2, EVDC
-Mục đích: 
-    - Kiểm tra kết nối từ các Email Hosting đến Sendgrid hoặc SMTP20.
-    - Kiểm tra hiệu lực của API key
+## Tool kiểm tra kết nối đến Sendgrid hoặc SMTP20  
+Phạm vi: Tool này có thể sử dụng trên các Email Hosting : E, E2, EVDC  
+Mục đích:   
+    - Kiểm tra kết nối từ các Email Hosting đến Sendgrid hoặc SMTP20.  
+    - Kiểm tra hiệu lực của API key  
 
-Hướng dẫn sử dụng:
-SendGrid
+Hướng dẫn sử dụng:  
+SendGrid  
 ```bash
 # Hiển thị tuỳ chọn Help
 sendgrid -h
@@ -56,7 +56,7 @@ OPTIONS:
 sendgrid -s 'Kiem tra API SendGrid' -r ninhpq@vinahost.vn -c 'Day la email kiem tra api cua SendGrid'
 ```
 
-SMTP2GO
+SMTP2GO  
 ```bash
 # Hiển thị tuỳ chọn Help
 smtp2go -h
@@ -76,8 +76,6 @@ OPTIONS:
   smtp2go -t ninhpq@vinahost.vn -l 1
 
 ```
-
-## Tool kiểm tra kết nối đến Sendgrid hoặc SMTP20
 
 
  
