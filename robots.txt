@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kb.vinahost.vn/kb.xml
+Sitemap: https://support.vinahost.vn/support.xml
