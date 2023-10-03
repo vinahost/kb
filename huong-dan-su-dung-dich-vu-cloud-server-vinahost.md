@@ -14,8 +14,8 @@ Bài viết này sẽ hướng dẫn bạn cách sử dụng dịch vụ Cloud S
 
 Để đăng nhập vào hệ thống, Quý khách thực hiện các bước sau:
 
-- Bước 1: Mở trình duyệt web như CocCoc, Google Chrome, Firefox… và truy cập vào địa chỉ [https://cs.vinahost.vn](https://cs.vinahost.vn/).
-- Bước 2: Nhập Username (tên tài khoản) và Password (mật khẩu) VinaHost đã cấp trước đó cho Quý khách vào hai ô tương ứng ở trang [https://cs.vinahost.vn](https://cs.vinahost.vn/) và chọn Login.
+- Bước 1: Mở trình duyệt web như CocCoc, Google Chrome, Firefox… và truy cập vào địa chỉ [https://cp.vinahost.vn](https://cp.vinahost.vn/).
+- Bước 2: Nhập Username (tên tài khoản) và Password (mật khẩu) VinaHost đã cấp trước đó cho Quý khách vào hai ô tương ứng ở trang [https://cp.vinahost.vn](https://cp.vinahost.vn/) và chọn Login.
 
 Sau khi đăng nhập thành công thì Quý khách sẽ nhận được thông tin như hình bên dưới.
 
