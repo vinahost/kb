@@ -11,7 +11,7 @@ Các bước thực hiện quá trình download file backup trên Panel Directad
 
 Bước 1: Ta cần login vào giao diện Directadmin.
 
- ![Alt text](/images/Download-backup-directadmin-00.png)
+ ![Alt text](Download-backup-directadmin-00.png)
 
 Bước 2: Chọn mục "**Show All USers**" để chọn user mà bạn muốn tạo backup vào download backup về
 
@@ -34,22 +34,8 @@ Sau khi hoàn thành bước này vui lòng xem trong mục **Message System**
 ![Alt text](images/Download-backup-directadmin-06.png)
 
 Sau đó ta vào đường dẫn: "File Manager ==> backups ==> backup-thang-ngay-nam.tar.gz"
-![Alt text](images/Download-backup-directadmin-07.png)
+![Alt text](Download-backup-directadmin-07.png)
 
 Click vào file backup-thang-ngay-nam.tar.gz để có thể download backup
 
 Chúc các bạn thành công!
-
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
-> 
-> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
-> 
-> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
-> 
-> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
-> 
-> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
-> 
-> **\>> [WEBSITE](http://vinawebsite.vn/)**
-> 
-> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
