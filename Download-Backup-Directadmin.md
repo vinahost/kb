@@ -18,16 +18,23 @@ Bước 2: Chọn mục "**Show All USers**" để chọn user mà bạn muốn 
 ![Alt text](images/Download-backup-directadmin-01.png)
 
 Bước 3: Login vào user mà bạn muốn backup. Sau đó chọn mục "**Create/Restore Backups**"
+
 ![Alt text](images/Download-backup-directadmin-02.png)
 
 Bước 4: Chọn "**Create Backup**"
+
 ![Alt text](images/Download-backup-directadmin-03.png)
+
 ![Alt text](images/Download-backup-directadmin-04.png)
+
 Sau khi hoàn thành bước này vui lòng xem trong mục **Message System**
+
 ![Alt text](images/Download-backup-directadmin-05.png)
+
 ![Alt text](images/Download-backup-directadmin-06.png)
 
 Sau đó ta vào đường dẫn: "File Manager ==> backups ==> backup-thang-ngay-nam.tar.gz"
+
 ![Alt text](images/Download-backup-directadmin-07.png)
 
 Click vào file backup-thang-ngay-nam.tar.gz để có thể download backup
