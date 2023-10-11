@@ -1,7 +1,8 @@
 ---
 title: "Hướng dẫn xử lý lỗi cài SSL trên Directadmin nhưng không nhận"
 date: "2023-09-30"
-
+categories: 
+  - "Directadmin"
 coverImage: "Cài-SSL-Let's-Encrypt-không-nhận-banner.png"
 ---
 
