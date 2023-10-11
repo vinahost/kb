@@ -1,6 +1,8 @@
 ---
 title: "Hướng dẫn download backup Cpanel"
 date: "2023-09-30"
+categories: 
+  - "Linux Hosting"
 coverImage: "Hướng-dẫn-download-backup-cpanel-banner.png"
 ---
 
