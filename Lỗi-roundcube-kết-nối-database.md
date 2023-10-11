@@ -1,9 +1,8 @@
 ---
 title: "Hướng dẫn xử lý Lỗi Roundcube không kết nối được đến database"
-
 date: "2023-09-30"
 
-coverImage: "![Alt text](Lỗi-roundcube-kết-nối-database-banner.png)"
+coverImage: "Lỗi-roundcube-kết-nối-database-banner.png"
 ---
 
 Bài viết này sẽ hướng dẫn mọi người cách  **Hướng dẫn xử lý Lỗi Roundcube không kết nối được đến database**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ [**VinaHost**](https://blog.vinahost.vn/) qua Hotline **1900 6046 ext.3**, email về **support@vinahost.vn** hoặc chat với VinaHost qua livechat **[https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php)**.
