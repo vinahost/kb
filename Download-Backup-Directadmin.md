@@ -1,6 +1,8 @@
 ---
 title: "Hướng Dẫn Download backup trên Directadmin"
 date: "2023-09-30"
+categories: 
+  - "Directadmin"
 coverImage: "Download-backup-directadmin-banner.png"
 ---
 
