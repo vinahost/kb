@@ -1,6 +1,7 @@
+---
 title: "Hướng Dẫn Download backup trên Directadmin"
 date: "2023-09-30"
-coverImage: "![Alt text](images/Download-backup-directadmin-banner.png)"
+coverImage: "Download-backup-directadmin-banner.png"
 ---
 
 Bài viết này sẽ hướng dẫn mọi người cách  **Download backup trên Directadmin**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ [**VinaHost**](https://blog.vinahost.vn/) qua Hotline **1900 6046 ext.3**, email về **support@vinahost.vn** hoặc chat với VinaHost qua livechat **[https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php)**.
