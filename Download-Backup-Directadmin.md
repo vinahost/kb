@@ -12,7 +12,7 @@ Các bước thực hiện quá trình download file backup trên Panel Directad
 
 Bước 1: Ta cần login vào giao diện Directadmin.
 
- ![Alt text](Download-backup-directadmin-00.png)
+ ![Alt text](images/Download-backup-directadmin-00.png)
 
 Bước 2: Chọn mục "**Show All USers**" để chọn user mà bạn muốn tạo backup vào download backup về
 
