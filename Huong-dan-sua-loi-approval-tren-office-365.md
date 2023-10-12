@@ -7,6 +7,8 @@ coverImage: "Huong-dan-sua-loi-approval-tren-office-365-banner.png"
 ---
 Bài viết này sẽ hướng dẫn bạn cách **Hướng dẫn sửa lỗi Apporval trên Office 365**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext.3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
+# Hướng dẫn sửa lỗi Approval trên Office 365
+
 <b>Lỗi: Something went wrong. Wait a bit, then try again.</b>
 
 ![Alt text](/images/Huong-dan-sua-loi-approval-tren-office-365-01.png)
