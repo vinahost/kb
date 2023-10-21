@@ -4,7 +4,7 @@ site_description: Knowledge Base
 site_author: Vinahost Team
 
 repo_url: https://github.com/vinahost/kb
-# edit_uri: blob/master/docs/
+edit_uri: blob/master/docs/
 # docs_dir: /root/kb/docs/kb/
 
 theme:
