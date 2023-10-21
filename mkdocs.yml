@@ -1,0 +1,315 @@
+site_name: Vinahost Knowledge Base
+site_url: https://kb.vinahost.vn
+site_description: Knowledge Base
+site_author: Vinahost Team
+
+repo_url: https://github.com/vinahost/kb
+# edit_uri: blob/master/docs/
+# docs_dir: /root/kb/docs/kb/
+
+theme:
+  name: material
+  locale: en
+  favicon: favicon/favicon.ico
+  logo: favicon/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  highlightjs: true
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - search.suggest
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.footer
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - navigation.top
+  
+  hljs_languages:
+    - yaml
+    - django
+    - python
+    - ruby
+plugins:
+  - search
+#  - open-in-new-tab
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+    #  - optimize:
+    #  cache: true
+
+nav:
+
+- Trang Chủ: README.md
+
+- Thanh Toán:
+    - Hướng Dẫn Thanh Toán Ngoài Giờ Hành Chính: accounting/huong-dan-thanh-toan-ngoai-gio-hanh-chinh.md
+    - Hướng Dẫn Thanh Toán Trực Tiếp và Chuyển Khoản: accounting/huong-dan-thanh-toan-truc-tiep.md
+    - Hướng Dẫn Thanh Toán Qua PAYPAL Và Credit Card USD: accounting/huong-dan-thanh-toan-qua-paypal.md
+    - Hướng Dẫn Thanh Toán Qua CREDIT CARD (VND): accounting/huong-dan-thanh-toan-qua-credit-card-vnd.md
+    - Hướng Dẫn Thanh Toán Trực Tuyến (Online Banking/QR Payment/Momo): accounting/thanh-toan-truc-tuyen-online-payment.md
+    - Hướng Dẫn Kiểm Tra Số Dư Và Thanh Toán Hóa Đơn: accounting/kiem-tra-so-du-va-thanh-toan.md
+    - Chính Sách Hoàn Tiền Tại VinaHost: accounting/chinh-sach-hoan-tien-tai-vinahost.md
+    - Hướng Dẫn Cung Cấp Hoặc Thay Đổi Thông Tin Xuất Hoá Đơn:  accounting/cung-cap-thong-tin-xuat-hoa-don.md
+
+- Alibaba Cloud:
+    - Hướng Dẫn Đăng Kí Tài Khoản Alibaba Cloud Thông Qua Partner VinaHost: dang-ki-tai-khoan-alibaba-cloud.md
+    - Hướng Dẫn Tạo Dịch Vụ ECS Trên Alibaba Cloud: tao-dich-vu-ecs-tren-alibaba-cloud.md
+    - Hướng Dẫn Tạo Disk Cloud Và Gán Vào ECS Trên Alibaba Cloud: tao-disk-cloud-va-gan-vao-ecs-tren-alibaba-cloud.md
+    - Hướng Dẫn Tạo Elastic Network Interfaces Trên Alibaba Cloud: tao-elastic-network-interfaces-tren-alibaba-cloud.md
+    - Tạo Và Quản Lý Virtual Private Cloud Với Alibaba Cloud: tao-va-quan-ly-virtual-private-cloud-voi-alibaba-cloud.md
+    - Hướng Dẫn Tạo Và Quản Lý Vswitch Với Alibaba Cloud: tao-va-quan-ly-vswitch-voi-alibaba-cloud.md
+    - Tạo Và Quản Lý Security Group Với Alibaba Cloud: tao-va-quan-ly-security-group-voi-alibaba-cloud.md
+    - Cấu Hình DNAT Trên Internet NAT Gateway Cho ECS Instance: cau-hinh-dnat-cho-ecs-instance.md
+    - Hướng Dẫn Tạo Và Quản Lý Internet NAT Gateway: tao-va-quan-ly-internet-nat-gateway.md
+    - Cấu Hình SNAT Cho ECS Instance Không Có IP Public Truy Cập Internet: cau-hinh-snat-cho-ecs-instance.md
+    - Hướng Dẫn Gán EIP Cho Instances Trên Alibaba Cloud: gan-eip-cho-instances-tren-alibaba-cloud.md
+    - Hướng Dẫn Tạo ApsaraDB Instances Trên Alibaba Cloud: tao-apsaradb-instances-tren-alibaba-cloud.md
+    - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng Tool go2aliyun_client: migrate-server-vm-alibaba-cloud-su-dung-tool-go2aliyun_client.md
+    - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng SSH: migrate-server-vm-len-alibaba-cloud-su-dung-ssh.md
+    - Migrate server, VM sử dụng OS Windows bằng Alibaba Cloud Migration Tool: migrate-server-vm-su-dung-os-windows-bang-alibaba-cloud-migration-tool.md
+    - Tính Toán Chi Phí Apsaravideo Vod Với Alibaba Vod Calculator: tinh-chi-phi-alibaba-apsaravideo-vod.md
+    - Hướng Dẫn Sử Dụng Alibaba Cloud Pricing Calculator: huong-dan-su-dung-alibaba-cloud-pricing-calculator.md
+
+- Cloud Vinahost:
+    - Hướng Dẫn Sử Dụng:
+      - Hướng Dẫn Tạo VM Instance Bằng Tính Năng Fast Creation: tao-vm-instance-bang-tinh-nang-fast-creation.md
+      - Hướng Dẫn Tạo VM Instance Trên vCloud VinaHost: tao-vm-instance-tren-vcloud-vinahost.md
+      - Hướng Dẫn Tạo VM Instane Từ Snapshot: huong-dan-tao-vm-instane-tu-snapshot.md
+      - Hướng Dẫn Tạo Image Từ VM Trên Hệ Thống Cloud VinaHost: tao-image-tu-vm-tren-he-thong-cloud-vinahost.md
+      - Tạo SnapShot Và Attach ISO Cho VM Instance: tao-snapshot-va-attach-iso-cho-vm-instance.md
+      - Hướng Dẫn Xóa Một VM instance: huong-dan-xoa-mot-vm-instance.md
+      - Hướng Dẫn Thêm Image Mới Lên vCloud: huong-dan-them-image-moi-len-cloud.md 
+      - Hướng Dẫn Thêm Volume Cho VM Instance vCloud: huong-dan-them-volume-cho-vm-instance.md
+      - Sử Dụng Cơ Bản UserData Trong Việc Tạo VM: su-dung-co-ban-userdata-trong-viec-tao-vm.md
+      - Hướng Dẫn Tạo VPC Network Trên vCloud: huong-dan-tao-vpc-network-tren-vcloud.md
+      - Hướng Dẫn Tạo L2 Network (VxlanNetwork) Trên vCloud: tao-l2-network-vxlannetwork-tren-vcloud.md
+      - Hướng Dẫn Tạo Port Forwarding Trên vCloud VinaHost: tao-port-forwarding-tren-vcloud-vinahost.md
+      - Hướng Dẫn Tích Hợp Netflow Vào vCloud: huong-dan-tich-hop-netflow-vao-vcloud.md
+      - Hướng dẫn Add Instance tới Security Group: huong-dan-add-instance-toi-security-group.md
+      - Hướng dẫn Add Rules cho Security Group: huong-dan-add-rules-cho-security-group.md
+      - Hướng Dẫn Tạo Auto-Scaling Group Trên vCloud: huong-dan-tao-auto-scaling-group-tren-vcloud.md
+      - Hướng Dẫn Tạo Load Balancer Trên vCloud Của VinaHost: huong-dan-tao-load-balancer-tren-vcloud.md
+      - Hướng Dẫn Tạo EIP (Elastic IP) Trên Hệ Thống Cloud VinaHost: huong-dan-tao-eip-elastic-ip.md
+      - Hướng Dẫn Thêm EIP Cho VM Instance Trên Cloud VinaHost: them-eip-cho-vm-instance-tren-cloud-vinahost.md
+      - Hướng Dẫn Tạo Endpoint Trong vCloud: huong-dan-tao-endpoint-trong-vcloud.md
+      - Hướng Dẫn Tạo Event Alarm Trong vCloud: huong-dan-tao-event-alarm-trong-vcloud.md
+      - Hướng Dẫn Tạo Message Template Trong vCloud: huong-dan-tao-message-template-trong-vcloud.md
+      - Hướng Dẫn Tạo Resource Alarm Trong vCloud: huong-dan-tao-resource-alarm-trong-vcloud.md
+      - Hướng Dẫn Tạo Schedule Job Trên vCloud VinaHost: huong-dan-tao-schedule-job-tren-vcloud-vinahost.md
+      - Hướng Dẫn Tạo Scheduler Trên vCloud: huong-dan-tao-scheduler-tren-vcloud.md
+      - Hướng Dẫn Thêm Schedule Job Cho VM Instance: them-schedule-job-cho-vm-instance.md
+    - Các Tính Năng:
+      - Giới Thiệu Chức Năng Cloud Monitoring Trong vCloud: chuc-nang-cloud-monitoring-trong-vcloud.md
+      - Giới Thiệu Về Schedule Và OM Trên vCloud Của VinaHost: gioi-thieu-ve-schedule-va-om-tren-vcloud.md
+      - Giới Thiệu Về Affinity Group Và Cách Sử Dụng: affinity-group-la-gi.md
+      - Associate VM NIC Là Gì? Lợi Ích Của Associate VM NIC: associate-vm-nic-la-gi.md
+      - Internet NAT Gateway Là Gì?: internet-nat-gateway-la-gi.md
+      - Port Forwarding Là Gì? Cách Sử Dụng Port Forwarding: port-forwarding-la-gi.md
+      - Security Group là gì? Hướng dẫn tạo và quản lý Security Group: security-group-la-gi-tao-va-quan-ly-security-group.md
+      - Hướng Dẫn Tạo Và Giới Thiệu Tag Managerment Trên vCloud: tao-va-gioi-thieu-tag-managerment-tren-vcloud.md
+
+- Public Cloud Vinahost:
+      - huong-dan-su-dung-dich-vu-cloud-server-vinahost.md
+      - gioi-thieu-va-huong-dan-mo-rong-lvm.md
+
+- Dịch vụ CDN:
+#   - Alibaba Cloud CDN:
+   - Vinahost CDN:
+     - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
+     - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
+
+- Shared Hosting:
+  #    - SEO Hosting:
+    - Linux Hosting:
+      - Hướng Dẫn Cài Đặt CS Cart Trên Hosting VinaHost: cai-dat-cs-cart-tren-hosting-vinahost.md
+      - Hướng Đẫn Cài Đặt WordPress Lên Hosting cPanel: cai-dat-wordpress-len-hosting-cpanel.md
+        #    - Reseller Hosting:
+        #    - WordPress Hosting:
+        #    - Databas Hosting:
+        #    - Windows Hosting:
+        #    - Unlimited Hosting:
+
+- Dịch vụ VPS:
+    - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
+    - Linux VPS:
+      - Cách Tạo Và Thêm SSH Key Vào Trong VPS: cach-tao-va-them-ssh-key-vao-trong-vps.md
+      - Hướng Dẫn Tăng Swap Trên Linux: huong-dan-tang-swap-tren-linux.md
+      - Hướng Dẫn Kiểm Tra Và Xử Lý VPS Khi Bị Đầy Ổ Cứng: kiem-tra-va-xu-ly-vps-khi-bi-day-o-cung.md
+      - Cách Kiểm Tra Xử Lý Khi Một VPS Linux Bị Đầy Ổ Cứng: cach-kiem-tra-xu-ly-khi-mot-vps-linux-bi-day-o-cung.md
+      - Sử Dụng vnStat Để Giám Sát Lưu Lượng Mạng Trong VPS: su-dung-vnstat-de-giam-sat-luu-luong-mang-trong-vps.md
+      - Hướng Dẫn Cài Đặt Và Cấu Hình Monit Cơ Bản: cai-dat-cau-hinh-monit.md
+    - Windows VPS:
+      - Cài đặt OpenSSH Server trên Windows: cai-dat-openssh-server-tren-windows.md
+      - Hướng Dẫn Tăng Page File (Swap) Trên Windows: huong-dan-tang-page-file-swap-tren-windows.md
+    - MMO VPS:
+      - Hướng dẫn sử dụng Plugin FoxyProxy trên Chrome và Firefox: huong-dan-su-dung-plugin-foxyproxy-tren-chrome-va-firefox.md
+      - Hướng Dẫn Sử Dụng Proxy Web-interface: su-dung-proxy-web-interface.md
+
+- Virtualization:
+    - Proxmox:
+      - Hướng Dẫn Add Storage Trong Proxmox: add-storage-trong-proxmox.md
+      - Hướng Dẫn Backup Virtual Machine Trong Proxmox: backup-virtual-machine-trong-proxmox.md
+      - Hướng Dẫn Thêm Ổ Cứng Mới Trên Proxmox Để Backup: them-o-cung-moi-tren-proxmox-de-backup.md
+
+- Dịch vụ Email:
+    - Email Hosting:
+      - Hướng Dẫn Cài đặt Email Trên Máy Mac: huong-dan-cai-dat-email-tren-may-mac.md
+      - Hướng Dẫn Export Mailing List cPanel: huong-dan-export-mailing-list-cpanel.md
+      - Hướng Dẫn Setup Mail Trên Outlook Thông Qua Control Panel: setup-mail-tren-outlook-thong-qua-control-panel.md
+      - Hướng Dẫn Tự Động Xóa Các Thư Chuyển Tiếp Trong cPanel: tu-dong-xoa-cac-thu-chuyen-tiep-trong-cpanel.md
+      - Loi-roundcube-ket-noi-database.md
+        #    - Email Relay:
+    - Email Server:
+      - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
+    - Email Marketing:
+      - Hướng Dẫn Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
+    - Email Filter:
+      - Hướng dẫn sử dụng dịch vụ Email Filter: huong-dan-su-dung-dich-vu-email-filter.md
+      - Hướng dẫn sử dụng chức năng Spam Filters trên Email Hosting: su-dung-chuc-nang-spam-filters-tren-email-hosting.md
+    - Microsoft 365:
+      - Hướng Dẫn Chuyển Dữ Liệu Từ Máy Chủ Mail Sang Microsoft 365: chuyen-du-lieu-tu-may-chu-mail-sang-microsoft-365.md
+      - Huong-dan-sua-loi-approval-tren-office-365.md
+    - Google Workspace:
+      - How To Add Domain Email Account(s) In Gmail: Add-Domain-Email-Accounts-In-Gmail.md
+
+- WHM/cPanel:
+    - Hướng Dẫn Sử Dụng:
+      - Hướng Dẫn Allow Remote MySQL Databases Bằng cPanel: allow-remote-mysql-databases-bang-cpanel.md
+      - Hướng Dẫn Backup Dữ Liệu Website Trên Cpanel: backup-du-lieu-website-tren-cpanel.md
+      - Chuyển Dữ Liệu WordPress Bằng Plugin Duplicator Trên Cpanel: chuyen-du-lieu-wordpress-bang-plugin-duplicator-tren-cpanel.md
+      - Hướng Dẫn Chi Tiết Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-chi-tiet.md
+      - Hướng Dẫn Ngắn Gọn Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-rut-gon.md
+      - Hướng Dẫn Disable Plugin WordPress Bằng File Manager Trên cPanel: disable-plugin-wordpress-bang-file-manager-tren-cpanel.md
+      - Hướng Dẫn Remote MySQL Database Trong cPanel: remote-mysql-database-trong-cpanel.md
+      - Hướng Dẫn Backup Và Restore Dữ Liệu Trên Server Dùng cPanel: backup-va-restore-du-lieu-tren-server-dung-cpanel.md
+      - Huong-dan-download-backup-cpanel.md
+    - Những Lỗi Thường Gặp:
+      - Hướng Dẫn Kiểm Tra Disk Usage Trên Cpanel Và Cách Xử Lý: kiem-tra-disk-usage-tren-cpanel.md
+      - Kiểm Tra Và Thay Đổi PHP Version Trên Hosting Cpanel: kiem-tra-va-thay-doi-php-version-tren-hosting-cpanel.md
+      - Hướng dẫn sử lý lỗi Apache status missing in cPanel WHM: apache-status-missing-in-cpanel-whm.md
+        #- License:
+        #- Địa chỉ IP:
+
+- Domain/DNS:
+    - DNS:
+      - Hướng Dẫn Cấu Hình, Sử Dụng Trang DNS Manager Để Quản Lý Tên Miền Tại VinaHost: huong-dan-cau-hinh-su-dung-trang-dns-manager-de-quan-ly-ten-mien-tai-vinahost.md
+      - Hướng dẫn sử dụng DNS Manager và quản lý tên miền tại VinaHost: huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost.md
+      - CNAME Là Gì? Làm Thế Nào Để Tạo Bản Ghi CNAME: cname-la-gi.md
+      - huong-dan-tro-ten-mien-tai-vinahost.md
+    - Domain:
+      - Hướng Dẫn Chuyển Tên Miền Quốc Tế Về VinaHost: huong-dan-chuyen-ten-mien-quoc-te-ve-vinahost.md
+      - Hướng dẫn sử dụng Domain And Email Forwarding và quản lý tên miền tại VinaHost: huong-dan-su-dung-domain-and-email-forwarding-va-quan-ly-ten-mien-tai-vinahost.md
+
+- Dedicated server:
+    - Hướng Dẫn Reset Password Windows Bằng Active Boot Disk: reset-password-windows-bang-active-boot-disk.md
+    - Hướng Dẫn Backup Và Restore OS Bằng Active Boot Disk: backup-restore-os-bang-active-boot-disk.md
+    - Hướng Dẫn Cấu Hình Lọc IP Truy Cập iDRAC: cau-hinh-loc-ip-truy-cap-idrac.md
+    - Hướng dẫn kiểm tra hiệu suất ổ cứng với Fio và IOPing: kiem-tra-hieu-suat-o-cung-voi-fio-ioping.md
+    - Hướng dẫn add địa chỉ IPv4 và IPv6 trên Windows Server: add-dia-chi-ipv4-va-ipv6-tren-windows-server.md
+    - Hướng Dẫn Cấu Hình Bonding Card Mạng Trên CentOS/Rhel 6/7: bonding-card-mang-tren-centos-rhel-6-7.md
+    - Thông Số TBW Ổ SSD: thong-so-tbw-o-ssd.md
+
+- Wordpress:
+    - WordPress Toolkit:
+      - Đổi Mật Khẩu WordPress Trong phpMyAdmin: doi-mat-khau-wordpress-trong-phpmyadmin.md
+      - Hướng Dẫn Disable Plugin Wordpress Bằng PHPMyAdmin: huong-dan-disable-plugin-wordpress-bang-phpmyadmin.md
+      - Backup WordPress bằng plugin All-in-One WPMigration: back-up-web-wordpress-bang-plugin-all-in-one-wpmigration.md
+      - Thủ Thuật Wordpress: thu-thuat-wordpress.md
+        #    - WordPress Security:
+        #    - WordPress Optimize:
+        #    - WordPress Debug:
+
+- DirectAdmin:
+    - Hướng Dẫn Sử Dụng:
+      - Chuyển Dữ Liệu WordPress Bằng Plugin Duplicator Trên DirectAdmin: chuyen-du-lieu-wordpress-directadmin.md
+      - Hướng Dẫn Đăng Ký, Gia Hạn Free SSL Trên DirectAdmin: dang-ky-hoac-gia-han-free-ssl-tren-directadmin.md
+      - Hướng dẫn Backup và Restore Trên DirectAdmin: backup-va-restore-du-lieu-tren-directadmin.md
+      - Huong-dan-thay-doi-giao-dien-tren-Directadmin.md
+    - Lỗi Thường Gặp:
+      - Hướng Dẫn Reset Mật Khẩu Tài Khoản DirectAdmin: reset-mat-khau-tai-khoan-directadmin.md
+      - Huong-dan-xu-ly-loi-cai-SSL-tren-Directadmin-nhung-khong-nhan.md
+
+
+- Quản lý Panel:
+    - aaPanel Quản Lý Server Linux Đơn Giản: aapanel-quan-ly-server-linux.md
+
+- Dịch vụ SSL:
+    - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
+
+
+- Chủ Đề Khác:
+    - Hướng dẫn sử dụng dịch vụ Cloud Backup tại VinaHost: huong-dan-su-dung-dich-vu-cloud-backup.md
+    - Nginx Là Gì? Cơ Chế Hoạt Động và Chức Năng Của Nginx: nginx-la-gi.md
+    - Hướng Dẫn Chặn Các Traffic Theo Http Referer Trên Nginx: chan-cac-traffic-theo-http-referer-tren-nginx.md
+    - Phân Tích Và Giám Sát Hiệu Suất Hệ Thống Linux Bằng Nmon: giam-sat-hieu-suat-he-thong-linux-bang-nmon.md
+    - Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS: mot-so-lenh-co-ban-kiem-tra-server-khi-bi-ddos.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra:
+  analytics:
+    provider: google
+    property: G-RYW9ZPVJLX
+
+validation:
+  absolute_links: ignore
+  unrecognized_links: ignore
+
+copyright: Copyright &copy; 2023 <a href="https://vinahost.vn/">Vinahost</a>, by the <a href="https://vinahost.vn/lien-he/">Vinahost Team</a>.

@@ -4,7 +4,7 @@ date: "2021-09-17"
 coverImage: "huong-dan-su-dung-dich-vu-cloud-server-vinahost.jpg"
 ---
 
-Bài viết này sẽ hướng dẫn bạn cách sử dụng dịch vụ Cloud Server tại VinaHost. Nếu cần được hỗ trợ bạn vui lòng liên hệ bộ phận kỹ thuật của chúng tôi qua Email: support@vinahost.vn hoặc Hotline: 1900. 6046.
+Bài viết này sẽ hướng dẫn bạn cách sử dụng dịch vụ **Cloud Server** tại VinaHost. Nếu cần được hỗ trợ bạn vui lòng liên hệ bộ phận kỹ thuật của chúng tôi qua Email: support@vinahost.vn hoặc Hotline: 1900. 6046.
 
 ## 1\. Đăng nhập vào control panel
 
