@@ -16,8 +16,7 @@ Bài viết hôm nay mình sẽ hướng dẫn các bạn cách sử tạo và c
 
 ### Bước 1:  Đầu tiền các bạn cần đăng nhập vào hệ thống Email Marketing với thông tin đã được Vinahsot cung cấp
 
-![[images/login.png]]
-![]()
+![](images/login.png)
 
 
 
