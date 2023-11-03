@@ -6,8 +6,7 @@ site_author: Vinahost Team
 repo_url: https://github.com/vinahost/kb
 edit_uri: blob/master/docs/
 # docs_dir: /root/kb/docs/kb/
-extra_css:
-  - stylesheets/extra.css
+
 
 theme:
   name: material
