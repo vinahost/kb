@@ -34,10 +34,10 @@ Giao diện trang chủ khi đăng nhập thành công!
 
 
 Hệ thống sẽ hiện ra trang bên dưới. Tại đây các bạn thực hiện tương tự như sau:
-1. Tên chiến dịch email: Đây là tên dùng để phân biệt các chiến dịch email trên hệ thống.
-2. Định dạng chiến dịch: Để mặc định là HTML và Text.
-3. Email Template: Chọn `Không có Template` để tạo một chiến dịch email trống, hoặc có thể chọn các mẫu Template email có sẵn. Các bạn có thể nhấn vào `Hiển thị bản xem trước lớn hơn` để xem đầy đủ nội dung của Template mẫu.
-4. Cuối cùng hãy nhấn `Kế tiếp` để tiến hành chỉnh sửa/thiết kế Template email
+1. Tên chiến dịch email: Đây là tên dùng để phân biệt các chiến dịch email trên hệ thống.  
+2. Định dạng chiến dịch: Để mặc định là HTML và Text.  
+3. Email Template: Chọn `Không có Template` để tạo một chiến dịch email trống, hoặc có thể chọn các mẫu Template email có sẵn. Các bạn có thể nhấn vào `Hiển thị bản xem trước lớn hơn` để xem đầy đủ nội dung của Template mẫu.  
+4. Cuối cùng hãy nhấn `Kế tiếp` để tiến hành chỉnh sửa/thiết kế Template email  
 
 ![](images/create_template_3.png)
 
