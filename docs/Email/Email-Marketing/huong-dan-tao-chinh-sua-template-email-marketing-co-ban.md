@@ -126,9 +126,9 @@ Nếu như các bạn đã có sẵn một Template Email Marketing chuyên bi�
 	Trong Template Email Marketing không có hỗ trợ CSS nằm rời như của trang web, mà nó được khai báo ngay trong thẻ. Nên không thể dùng code HTML của trang Web upload lên hệ thống.
 
 Các bạn có thể truy cập các trang web hỗ trợ tạo Template Email Marketing miễn phí sau để tạo
-https://stripo.email/
-https://www.hubspot.com/resources/template/email-marketing
-https://www.campaignmonitor.com/email-templates/
+[https://stripo.email/](https://stripo.email/)
+[https://www.hubspot.com/resources/template/email-marketing  ](https://www.hubspot.com/resources/template/email-marketing  )  
+[https://www.campaignmonitor.com/email-templates/](https://www.campaignmonitor.com/email-templates/)    
 
 
 Sau khi tạo xong hãy tải template đó về dưới dạng code HTML. Và Upload lên hệ thống vào khung code HTML như phần mình đã hướng dẫn ở trên.
@@ -139,9 +139,9 @@ Sau khi tạo xong hãy tải template đó về dưới dạng code HTML. Và U
 Nếu các bạn upload file word lên hệ thống chắc chắn 100% sẽ bị vỡ định dạng mà các bạn đã tạo. Do đó các bạn cần chuyển đổi nó từ dạng Word sang dạng HTML
 
 Các bạn truy cập vào một số trang web hỗ trợ việc này để chuyển đổi
-https://convertio.co/doc-html/
-https://cloudconvert.com/doc-to-html
-https://www.zamzar.com/convert/doc-to-html/
+[https://convertio.co/doc-html/  ](https://convertio.co/doc-html/  )  
+[https://cloudconvert.com/doc-to-html](https://cloudconvert.com/doc-to-html)  
+[https://www.zamzar.com/convert/doc-to-html/](https://www.zamzar.com/convert/doc-to-html/)  
 
 Sau khi đã chuyển đổi thì có thể  thực hiện như phần mình đã hướng dẫn ở trên nha.
 
