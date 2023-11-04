@@ -121,7 +121,7 @@ Kiểm tra trong hộp thư Gmail
 
 Nếu như các bạn đã có sẵn một Template Email Marketing chuyên biệt khác hoặc không thích sử dụng các Template Email có sẵn cua Vinahost thì có thể Upload lên hệ thống Email Marketing của Vinahost
 
-!!! warning 'Lưu ý'
+!!! warning "Lưu ý"  
 	Template Email Marketing tuy sử dụng bằng code HTML tuy nhiên định dạng sẽ có phần khác so với định dạng code HTML của trang web.
 	Trong Template Email Marketing không có hỗ trợ CSS nằm rời như của trang web, mà nó được khai báo ngay trong thẻ. Nên không thể dùng code HTML của trang Web upload lên hệ thống.
 
@@ -145,7 +145,7 @@ https://www.zamzar.com/convert/doc-to-html/
 
 Sau khi đã chuyển đổi thì có thể  thực hiện như phần mình đã hướng dẫn ở trên nha.
 
-!!! warning 'Lưu ý'
+!!! warning "Lưu ý"  
 	Hình ảnh trong File Word khi chuyển đổi sang html sau khi upload lên hệ thống dạng code HTML sẽ không thể thấy hình ảnh.
 	Do đó cần upload hình ảnh lên hệ thống của Vinahost và chỉnh sửa lại link hình ảnh.
 
