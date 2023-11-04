@@ -6,7 +6,8 @@ categories:
 coverImage:
 ---
 !!! info 
-	Bài viết này sẽ hướng dẫn bạn **Tạo và chỉnh sửa một template mail marketing cơ bản** trên hệ thống của Vinahost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn).
+	Bài viết này sẽ hướng dẫn bạn **Tạo và chỉnh sửa một template mail marketing cơ bản** trên hệ thống của Vinahost.  
+	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn).
 
 
 ## Tổng quan
@@ -54,18 +55,20 @@ Các bạn hãy chú ý các khung được tạo sẵn trong Template Email nh�
 
 !!! danger
 	Các bạn có thể chỉnh tuỳ ý nội dung nhưng không được xoá mất các khung này.
-	Chỉ chỉnh lại nội dung bên trong khung cho phù hợp.
+	Chỉ chỉnh lại nội dung bên trong khung cho phù hợp.  
 	Nếu thấy nội dung không phù hợp, thì xoá toàn bộ nội dung trong khung đó thôi nhưng giữ lại khung.
 
 ![](images/edit_template_email_1.png)
 
 !!! danger
-	Vì thực chất Template Email được viết bằng dạng code HTML. Cái trình chỉnh sử mà chúng ta nhìn thấy thực chất là code HTML nhưng đã được hiển thị dưới dạng xem trước. Nên không thể chỉnh sửa theo cách mà chúng ta chỉnh sửa WORD được
+	Vì thực chất Template Email được viết bằng dạng code HTML.  
+	Trình chỉnh sử mà chúng ta nhìn thấy thực chất là code HTML nhưng đã được hiển thị dưới dạng xem trước. Nên không thể chỉnh sửa theo cách mà chúng ta chỉnh sửa WORD được
 
 Nếu các bạn có Template Email khác dạng code HTML, có thể dán nó vào đây
 ![](images/edit_template_email_2.png)
 
-Nếu như tôi muốn thay thế ảnh thì sẽ làm như thế nào?
+!!! tip
+	Nếu như tôi muốn thay thế ảnh thì sẽ làm như thế nào?
 
 Để thay thế ảnh, các bạn không nên xoá hình ảnh đó rồi dán ảnh mới vào. Điều này sẽ làm vỡ cấu trúc code HTML.
 
@@ -73,10 +76,10 @@ Thay vào đó các bạn nhấn **`chuột phải vào hình ảnh`** > chọn 
 
 ![](images/edit_template_email_3.png)
 
-Một cửa sổ hiển thị lên. Tại đây bạn sẽ có 2 cách. Một là tải file hình ảnh mới lên hoặc dán địa chỉnh URL của hình ảnh
+Một cửa sổ hiển thị lên. Tại đây bạn sẽ có 2 cách. Một là tải file hình ảnh mới lên hoặc dán địa chỉ URL của hình ảnh
 ![](images/edit_template_email_4.png)
 
-Kế đến, các bạn nhấn qua tab `Appearance` để thay đổi kích thước hình ảnh theo mong muốn.
+Kế đến, các bạn nhấn qua tab `Appearance` để thay đổi kích thước hình ảnh theo mong muốn.  
 Ở đây mình để 100% nên hình sẽ hiển thị hết kích cỡ trong khung html
 ![](images/edit_template_email_5.png)
 
@@ -101,7 +104,7 @@ Kết quả sẽ được như thế này.
 ![](images/edit_template_email_9.png)
 
 !!! tip
-	Để giảm thiểu tình trạng email bị vào thư mục Spams, các bạn hãy tích vào nút `Kiểm tra spam cho email của bạn` Nó có chức năng sẽ kiểm tra những từ khoá nào bị cấm, không tối ưu. 
+	Để giảm thiểu tình trạng email bị vào thư mục Spams, các bạn hãy tích vào nút `Kiểm tra spam cho email của bạn` Nó có chức năng sẽ kiểm tra những từ khoá nào bị cấm, không tối ưu.   
 	Để biết thêm chi tiết cách gửi email marketing không bị vào Spam, các bạn vui lòng tìm hiểu chi tiết qua bài hướng dẫn [tại đây](https://vinahost.vn/luu-y-su-dung-email-marketing/)
 
 Các bạn hãy chỉnh sửa lại các từ ngữ cho phù hợp, đến khi hệ thống không còn cảnh báo màu Đỏ là được nha
