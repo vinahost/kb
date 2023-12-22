@@ -288,6 +288,8 @@ nav:
     - Hướng Dẫn Chặn Các Traffic Theo Http Referer Trên Nginx: chan-cac-traffic-theo-http-referer-tren-nginx.md
     - Phân Tích Và Giám Sát Hiệu Suất Hệ Thống Linux Bằng Nmon: giam-sat-hieu-suat-he-thong-linux-bang-nmon.md
     - Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS: mot-so-lenh-co-ban-kiem-tra-server-khi-bi-ddos.md
+    - Linux Hosting - Hướng dẫn upload source code, database của website: linux-hosting-hd-upload-source-db-website.md
+    - Windows Hosting - Hướng dẫn upload source code, database của website: windows-hosting-hd-upload-source-db-website.md
 
 markdown_extensions:
   - attr_list
