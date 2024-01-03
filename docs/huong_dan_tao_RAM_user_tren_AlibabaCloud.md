@@ -1,9 +1,13 @@
 Bài viết này sẽ hướng dẫn bạn **Tạo, phân quyền và thay đổi default login domain cho RAM user trên Alibaba Cloud**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
 1. **RAM User là gì?**
+
 	RAM (Resource Access Management) user là các account "con" được một Alibaba Cloud Account (**Primary** hay **Root Account**) tạo ra, để dễ dàng quản lý việc truy cập tài nguyên, khi có nhiều người cần sử dụng các tài nguyên trên hệ thống. RAM user được sử dụng trong các ngữ cảnh như: quản lý account và phân quyền cho các thành viên trong nội bộ doanh nghiệp, hợp tác giữa các doanh nghiệp với nhau, cấp quyền tạm thời cho các khách hàng hoặc cấp quyền cho các application.
+	
 	RAM user **không sở hữu** bất kỳ tài nguyên nào trên Alibaba Cloud. Các hóa đơn, chi phí phát sinh hoặc tài nguyên mà RAM user tạo ra đều được tính cho **Primary Account** của nó. Primary Account có toàn quyền với RAM user, có thể cấp, hoặc thu hồi quyền hạn của RAM user bất kỳ lúc nào.
+	
 	RAM user có **UID** và các thông tin đăng nhập như **Password** và **AccessKey pair** riêng (khác RAM role).
+	
 	RAM user cũng có thể được tạo từ 1 RAM User hoặc RAM role khác (nếu có đủ quyền hạn).
 2. **Đổi domain mặc định và tạo RAM user mới**
 	- Đăng nhập vào giao diện Console của Aliababa Cloud [Here](https://account.alibabacloud.com)
