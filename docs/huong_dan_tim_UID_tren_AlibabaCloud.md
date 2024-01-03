@@ -8,6 +8,7 @@ Bài viết này sẽ hướng dẫn bạn **Tìm UID của một account trên 
 	
 	![[images/Ali_UID01.png]]
 	*<center>Bước 1: Truy cập Account Management</center>*
+	
 	 ![[images/Ai_UID03.png]]
 	*<center>Bước 2: Xem Account ID trên dashboard</center>*
 	
@@ -18,5 +19,6 @@ Bài viết này sẽ hướng dẫn bạn **Tìm UID của một account trên 
 	
 	![[images/Ali_UID02.png]]
 	*<center>Bước 2: Xem UID (Account ID)</center>*
-3. **Đọc thêm**
+	
+1. **Đọc thêm**
 	1. [Obtain the UID of an Alibaba Cloud Account](https://www.alibabacloud.com/help/en/cadt/support/how-do-i-obtain-the-unique-identifier-of-an-alibaba-cloud-account)
