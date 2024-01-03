@@ -114,6 +114,8 @@ nav:
     - Hướng Dẫn Sử Dụng Alibaba Cloud Pricing Calculator: huong-dan-su-dung-alibaba-cloud-pricing-calculator.md
     - Hướng dẫn tạo và phân quyền Ram User trên Alibaba Cloud: huong_dan_tao_RAM_user_tren_AlibabaCloud.md
     - Hướng dẫn tìm UID (Account ID) của một tài khoản trên Alibaba Cloud: huong_dan_tim_UID_tren_AlibabaCloud.md
+    - huong-dan-tao-RAM-user-tren-AlibabaCloud.md
+    - huong-dan-tim-UID-tren-AlibabaCloud.md
 
 - Cloud Vinahost:
     - Hướng Dẫn Sử Dụng:
@@ -231,6 +233,7 @@ nav:
       - Hướng Dẫn Backup Và Restore Dữ Liệu Trên Server Dùng cPanel: backup-va-restore-du-lieu-tren-server-dung-cpanel.md
       - Huong-dan-download-backup-cpanel.md
       - cach-upload-website-len-hosting.md
+      - huong-dan-su-dung-mot-so-tool-comandline.md
     - Những Lỗi Thường Gặp:
       - Hướng Dẫn Kiểm Tra Disk Usage Trên Cpanel Và Cách Xử Lý: kiem-tra-disk-usage-tren-cpanel.md
       - Kiểm Tra Và Thay Đổi PHP Version Trên Hosting Cpanel: kiem-tra-va-thay-doi-php-version-tren-hosting-cpanel.md
@@ -278,13 +281,11 @@ nav:
       - Hướng Dẫn Reset Mật Khẩu Tài Khoản DirectAdmin: reset-mat-khau-tai-khoan-directadmin.md
       - Huong-dan-xu-ly-loi-cai-SSL-tren-Directadmin-nhung-khong-nhan.md
 
-
 - Quản lý Panel:
     - aaPanel Quản Lý Server Linux Đơn Giản: aapanel-quan-ly-server-linux.md
 
 - Dịch vụ SSL:
     - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
-
 
 - Chủ Đề Khác:
     - Hướng dẫn sử dụng dịch vụ Cloud Backup tại VinaHost: huong-dan-su-dung-dich-vu-cloud-backup.md
