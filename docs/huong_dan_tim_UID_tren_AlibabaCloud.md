@@ -1,4 +1,5 @@
 Bài viết này sẽ hướng dẫn bạn **Tìm UID của một account trên Alibaba Cloud**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
+
 1. **UID là gì?**
 	Trên nền tảng Alibaba Cloud, UID (hay  **Unique Identifier**) là một dãy khoảng 16 chữ số gắn liền với tài khoản của người dùng. Dãy số này là **duy nhất** và không trùng với bất kỳ tài khoản nào khác trên Alibaba Cloud. Có thể sử dụng nó để định danh tài khoản, kiểm tra các hóa đơn, các dịch vụ liên kết.
 2. **Xem UID trên Dashboard**
