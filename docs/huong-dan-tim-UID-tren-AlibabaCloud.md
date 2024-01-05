@@ -4,7 +4,8 @@ Bài viết này sẽ hướng dẫn bạn **Tìm UID của một account trên 
 1. **UID là gì?**
 
 	Trên nền tảng Alibaba Cloud, UID (hay  **Unique Identifier**) là một dãy khoảng 16 chữ số gắn liền với tài khoản của người dùng. Dãy số này là **duy nhất** và không trùng với bất kỳ tài khoản nào khác trên Alibaba Cloud. Có thể sử dụng nó để định danh tài khoản, kiểm tra các hóa đơn, các dịch vụ liên kết.
-2. **Xem UID trên Dashboard**
+
+3. **Xem UID trên Dashboard**
 	- Đăng nhập tài khoản Alibaba Cloud tại đường link: [account.alibabacloud.com](https://account.alibabacloud.com/).
 	- Nhấn vào biểu tượng **Account** ở góc trên bên phải, chọn **Account Managerment**, trang **Account Center > Security Settings** sẽ hiển thị UID (mục **Account ID**).
 	
