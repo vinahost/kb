@@ -205,7 +205,7 @@ nav:
         #    - Email Relay:
     - Email Server:
       - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
-      - Hướng dẫn cấu hình xác thực cổng 25 cho Zimbra: Email/Email-Server/huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra/huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra.md
+      - Hướng dẫn cấu hình xác thực cổng 25 cho Zimbra: huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra.md
     - Email Marketing:
       - Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
       - Tạo và chỉnh sửa một Template Email Marketing cơ bản: Email/Email-Marketing/huong-dan-tao-chinh-sua-template-email-marketing-co-ban.md
@@ -218,7 +218,7 @@ nav:
     - Google Workspace:
       - Hướng dẫn di chuyển dữ liệu từ Email Hosting hoặc Email Server lên tài khoản Google Workspace: Email/Google-Workspace/chuyen-du-lieu-GG-Email_hosting/huong-dan-di-chuyen-du-lieu-tu-Email-Hosting-hoac-Email-Server-len-tai-khoan-Google-Workspace.md
       - How To Add Domain Email Account(s) In Gmail: Add-Domain-Email-Accounts-In-Gmail.md
-      - Hướng dẫn cấu hình Routing cho Hybrid Email: Email/Google-Workspace/huong-dan-cau-hinh-routing-cho-hybrid-email/huong-dan-cau-hinh-routing-cho-hybrid-email.md
+      - Hướng dẫn cấu hình Routing cho Hybrid Email: huong-dan-cau-hinh-routing-cho-hybrid-email.md
 
 - WHM/cPanel:
     - Hướng Dẫn Sử Dụng:
