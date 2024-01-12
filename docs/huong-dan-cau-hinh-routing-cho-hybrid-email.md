@@ -16,14 +16,13 @@ Bài viết hôm nay mĩnh sẽ hướng dẫn các bạn cách cấu hình Rout
 
 **Bước 1: Truy cập vào giao diện quản trị  Apps > Google Workspace  > Gmail**
 
-![[images/hybrid-b1.png]]
-
+![](images/hybrid-b1.png)
 **Bước 2: Trong phần Seting for Gmail chọn Host để sử dụng định tuyến nâng cao dành cho Hybrid**
 
-![[images/hybrid-b2.png]]
+![](images/hybrid-b2.png)
 
-Chọn Configure hoặc Add Route để điền thông số cấu hình Host.
-![[images/hybrid-b2-1.png]]
+Chọn **Configure** hoặc **Add Route** để điền thông số cấu hình Host.
+![](images/hybrid-b2-1.png)
 
 - ***Name***  : Nhập tên hoặc mô tả cho luồng routing
 
@@ -52,7 +51,8 @@ Sau cùng ở cuối hộp thoại ***Add Route*** chọn ***Save***
 **Bước 3: Cấu hình Routing cho hybrid Email tại Google Workspace về Email Hosting**
 
 Sau khi hoàn thành ở bước 2, các bạn sẽ cần tiếp tục cấu hình Routing cho email về Email Hosting.
-![[images/hybrid-b3.png]]
+
+![](images/hybrid-b3.png)
 
 Sau khi vào giao diện Routing trong hộp Routing chọn Configure hoặc Add 
 Another Rule ( nếu thêm đường route khác).
@@ -61,19 +61,19 @@ Tích chọn vào các option sau.
 
 Trong phần này các bạn chọn Inbound cho mail nhận và Internal - Receiving cho các mail gửi nội bộ.
 
-![[images/hybrid-b3-1.png]]
+![](images/hybrid-b3-1.png)
 - **For the above types of messages, do the following**
 
 Tại phần **change route** các bạn chọn vào host đã được cài đặt trong bước 2.
-![[images/hybrid-b3-2.png]]
+![](images/hybrid-b3-2.png)
 
 - Sau đó các bạn chọn vào **Show Options** để cài đặt thêm một số yêu cầu:
 
-![[images/hybrid-b3-3.png]]
+![](images/hybrid-b3-3.png)
 
 Trong phần **Account Types to affect** chọn **Catch-All** để Google sẽ nhận những mail không thuộc Google và trả về Hosting.
 
-![[images/hybrid-b3-4.png]]
+![](images/hybrid-b3-4.png)
 
 Đến đây **save** lại và đợi khoảng vài phút để cấu hình được nhận và kiểm tra lại bằng cách gửi mail vào một tài khoản trên Email Hosting.
 

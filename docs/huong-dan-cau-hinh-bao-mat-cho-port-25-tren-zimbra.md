@@ -21,24 +21,27 @@ Ví dụ như sau :
 Đầu tiên hacker sẽ telnet đến port 25 của email server bằng lệnh sau:
 ```telnet mail.dan.id.vn 25```
 
-![[images/zimbra1.png]]
+![](images/zimbra1.png)
 
 Sau đó gửi một gói tin ehlo với thông tin hostname của mailserver
 ```ehlo dan.id.vn```
-![[images/zimbra2.png]]
+![](images/zimbra2.png)
+
 Sau khi đã nhận được kết nối đến MTA nhập mail from để tiến hành gửi mail thông qua email đó.
 ```mail from: admin@dan.id.vn```
-![[images/zimbra3.png]]
+![](images/zimbra3.png)
+
 Sau đó là rcpt to để chỉ định mail sẽ nhận.
 ```rcpt to: danht@dan.id.vn```
-![[images/zimbra4.png]]
+![](images/zimbra4.png)
+
 
 Sau khi đã kết nối có thể tiếp tục gửi tín hiệu data để bắt đầu nhập nội dung mail và dấu "." để kết thúc và bắt đầu gửi mail.
 
-![[images/zimbra5.png]]
+![](images/zimbra5.png)
 
 Khi user danht@dan.id.vn kiểm tra mail sẽ nhận được mail như sau: 
-![[images/zimbra6.png]]
+![](images/zimbra6.png)
 
 Phương thức tấn công này rất nguy hiểm nó có thể giả mạo được cả những mail không tồn tại mà chỉ cần biết được thông tin domains và địa chỉ để kết nối đến mail server.
 
@@ -57,7 +60,7 @@ zmprov mcf zimbraMtaSmtpdRejectUnlistedSender yes
 zmmtactl restart
 zmconfigdctl restart
 ```
-![[images/zimbra7.png]]
+![](images/zimbra7.png)
 
 **Bước 2: Set up zimbraMtaSmtpdSenderLoginMaps portion**
 Thiết lập "zimbraMtaSmtpdSenderLoginMaps" và "zimbraMtaSmtpdSenderRestrictions"
@@ -65,14 +68,14 @@ Thiết lập "zimbraMtaSmtpdSenderLoginMaps" và "zimbraMtaSmtpdSenderRestricti
 zmprov mcf zimbraMtaSmtpdSenderLoginMaps  proxy:ldap:/opt/zimbra/conf/ldap-slm.cf +zimbraMtaSmtpdSenderRestrictions reject_authenticated_sender_login_mismatch
 
 ```
-![[images/zimbra8.png]]
+![](images/zimbra8.png)
 
 **Bước 3: Edit file smtpd_sender_restrictions**
 Điều chỉnh file smtpd_sender_restrictions để thêm yêu cầu cho phần xác thực :
 ```vi /opt/zimbra/conf/zmconfigd/smtpd_sender_restrictions.cf ```
 Thêm dòng sau vào sau câu ```permit_mynetworks``` : ```reject_sender_login_mismatch```
 
-![[images/zimbra9.png]]
+![](images/zimbra9.png)
 
 Sau cùng restart lại Zimbra để các cấu hình được nhận.
 
@@ -81,7 +84,7 @@ Sau cùng restart lại Zimbra để các cấu hình được nhận.
 
 
 Đến đây kiểm tra lại bằng cách kết nối đến port 25 và gửi mail sẽ nhận kết quả bị từ chối như sau: 
-![[images/zimbra10.png]]
+![](images/zimbra10.png)
 
 Chúc các bạn thực hiện thành công!
 
