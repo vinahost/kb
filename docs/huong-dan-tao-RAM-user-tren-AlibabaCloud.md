@@ -11,7 +11,7 @@ Bài viết này sẽ hướng dẫn bạn **Tạo, phân quyền và thay đổ
 	
 	RAM user cũng có thể được tạo từ 1 RAM User hoặc RAM role khác (nếu có đủ quyền hạn).
 
-2. **Đổi Default Domain và thêm Alias Domain **
+2. **Đổi Default Domain và thêm Alias Domain**
 	- **Default domain** là domain mặc định ban đầu, các RAM user dùng nó để đăng nhập trên alibaba cloud. Chúng có dạng: \<User_name>@\<UID>.onaluyun.com. Trong đó, UID (của root user) có thể thay đổi thành tên dễ nhớ hơn. Dù vậy, phần **onaluyun.com** vẫn là mặc định. Để các RAM user có thể dễ dàng truy cập với domain tự do, có thể sử dụng **domain alias**.
 	 - Để tạo domain alias thì domain đó phải **thuộc sở hữu của người tạo**. Hoặc người tạo có quyền thêm các record vào đó.
 	 - Thực hiện các bước sau để thay đổi **default domain** và tạo thêm domain alias:
