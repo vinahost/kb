@@ -15,26 +15,26 @@ Bài viết này sẽ hướng dẫn bạn cấu hình mail hybrid office từ h
 
 ![hybrid office 2](images/hybrid-365-2.png)
 
-- ***Bước 3***:Chọn Mail flow / Connectors để cấu hình route từ office về mail server VinaHost.
+- ***Bước 3***: Chọn Mail flow / Connectors để cấu hình route từ office về mail server VinaHost.
 
 ![hybrid office 3](images/hybrid-365-3.png)
-- ***Bước 4***:Chọn connectors / add connectors
+- ***Bước 4***: Chọn connectors / add connectors
 
 ![hybrid office 4](images/hybrid-365-4.png)
 
-- ***Bước 5***:Đặt tên Connector name cho dễ nhớ
+- ***Bước 5***: Đặt tên Connector name cho dễ nhớ
 
 ![hybrid office 5](images/hybrid-365-5.png)
 
-- ***Bước 6**:Nhập domain đang sử dụng mail vào.
+- ***Bước 6**: Nhập domain đang sử dụng mail vào.
 
 ![hybrid office 6](images/hybrid-365-6.png)
 
-- ***Bước 7***:Nhập hostname: mailxx.vinahost.vn hoặc ip server mail đang sử dụng mail tại VinaHost.
+- ***Bước 7***: Nhập hostname: mailxx.vinahost.vn hoặc ip server mail đang sử dụng mail tại VinaHost.
 
 ![hybrid office 7](images/hybrid-365-7.png)
 
-- ***Bước 8***:Chọn chọn phương thức bảo mật khi gửi mail về server chọn Next
+- ***Bước 8***: Chọn chọn phương thức bảo mật khi gửi mail về server chọn Next
 
 ![hybrid office 8](images/hybrid-365-8.png)
 
@@ -43,7 +43,7 @@ Bài viết này sẽ hướng dẫn bạn cấu hình mail hybrid office từ h
      Tuy nhiên việc này sẽ không được khuyến khích vì truyền tải dữ liệu khi không mã hoá sẽ làm cho hacker có thể bắt được gói tin và đọc được mail của bạn.
      Bạn nên cài SSL tại mail server trước khi cài đặt Hybrid để đạt hiệu suất tốt nhất.
 
-- ***Bước 9***:Nhập 1 tài khoản mail tồn tại trên server mail Vinahost đang sử dụng, nếu có nhiều tài khoản khác với domain khác thì có thể thêm vào.
+- ***Bước 9***: Nhập 1 tài khoản mail tồn tại trên server mail Vinahost đang sử dụng, nếu có nhiều tài khoản khác với domain khác thì có thể thêm vào.
 
 ![hybrid office 9](images/hybrid-365-9.png)
 
