@@ -155,6 +155,7 @@ nav:
 - Public Cloud Vinahost:
       - huong-dan-su-dung-dich-vu-cloud-server-vinahost.md
       - gioi-thieu-va-huong-dan-mo-rong-lvm.md
+      - huong_dan_su_dung_public_cloud.md
 
 - Dịch vụ CDN:
 #   - Alibaba Cloud CDN:
