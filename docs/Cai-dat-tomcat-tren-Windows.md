@@ -1,7 +1,7 @@
 ---
 title: "Cài Đặt Tomcat trên Windows"
 date: "2024-02-21"
-coverImage: "aapanel-quan-ly-server-linux.jpg"
+coverImage: "cai-dat-tomcat-len-windows-banner.png"
 ---
 
 Bài viết này sẽ hướng dẫn cách **Cài Đặt TomCat trên Windows**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ [**VinaHost**](https://blog.vinahost.vn/) qua Hotline **1900 6046 ext.3**, email về **support@vinahost.vn** hoặc chat với VinaHost qua livechat **[https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php)**.
@@ -24,15 +24,15 @@ Tại đây quý khách vui lòng thực hiện chọn 1 trong 2 phiên bản l�
 
  - Chạy lệnh sau: C:\apache-tomcat-7.0.69\bin\services.bat install
 
-![alt text](images/Cai-dat-tomcat-tren-windows-03.png)
+![alt text](images/cai-dat-tomcat-tren-windows-03.png)
 
 - Tiếp tục chạy thêm lệnh C:\apache-tomcat-7.0.69\bin\startup.bat để khởi động tomcat7, nếu kết quả trả về như hình là đã thành công.
 
-![alt text](images/Cai-dat-tomcat-tren-windows-04.png)
+![alt text](images/cai-dat-tomcat-tren-windows-04.png)
 
 Thực hiện truy cập http://localhost:8080 hoặc http://ip-server:8080 sẽ thấy trang default của Apache Tomcat
 
-![alt text](images/Cai-dat-tomcat-tren-windows-05.png)
+![alt text](images/cai-dat-tomcat-tren-windows-05.png)
 
 Lưu ý việc cài đặt sẽ dễ xảy ra lỗi The CATALINA_HOME environment variable is not defined correctly This environment variable is needed to run this program
 
