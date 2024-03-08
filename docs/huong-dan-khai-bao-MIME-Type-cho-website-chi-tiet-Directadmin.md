@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn cách khai báo MIME Type cho website chi tiết Directadmin"
 date: "2024-03-08"
-coverImage: ""
+coverImage: "Download-backup-directadmin-banner.png"
 ---
 
 
