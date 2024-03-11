@@ -80,9 +80,11 @@ Bạn có thể thấy một tên miền được liệt kê trong giao diện S
 - Thư mục gốc đang được chia sẻ(dùng chung) với tên miền khác
 
     Bạn không thể sử dụng thư mục gốc được chia sẻ với Sitejet. Để khắc phục sự cố này, hãy thực hiện một trong các thao tác sau:
+
     - Sử dụng Tên miền chính.
     - Tạo một tên miền mới.
     - Xóa tên miền phụ đang dùng chung thư mục gốc hoặc đổi vị trí thư mục gốc của tên miền phụ.
+    
 - Trang web chuyển hướng
     Tương tự, bạn không thể sử dụng một trang web được chuyển hướng với Sitejet. Để giải quyết vấn đề này, hãy thực hiện các bước sau:
 
@@ -105,7 +107,7 @@ Bạn có thể thấy một tên miền được liệt kê trong giao diện S
     Bản sao lưu sẽ được tải xuống từ thư mục gốc về máy tính của bạn, sau đó bạn có thể xóa các tệp khỏi thư mục này.
 
     Bây giờ bạn có thể tạo một trang web Sitejet cho tên miền.
-    
+
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
