@@ -1,9 +1,11 @@
 ---
 title: "Hướng dẫn lên lịch trình để gửi email marketing - Gửi email marketing theo lịch trình"
-date: "2023-12-22"
+date: "2024-04-11"
 ---
 
-Bài viết này sẽ hướng dẫn bạn **Hướng dẫn lên lịch trình để gửi email marketing**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
+!!! info 
+	Bài viết này sẽ hướng dẫn bạn **Hướng dẫn lên lịch trình để gửi email marketing** trên hệ thống của Vinahost.  
+	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn).
 
 <hr>
 
@@ -13,19 +15,19 @@ Bài viết này sẽ hướng dẫn bạn **Hướng dẫn lên lịch trình �
 
 <hr>
 
-### Bước 1:
+## Bước 1: Truy cập giao diện gửi chiến dịch email
 
 Chọn **Các chiến dịch email > Gửi một chiến dịch email**.
 
 ![](images/scheduled_em.jpg)
 
-### Bước 2:
+## Bước 2: Chọn danh sách liên hệ
 
 Tích vào danh sách liên hệ muốn gửi và nhấn **Kế tiếp**.
 
 ![](images/scheduled_em01.jpg)
 
-### Bước 3:
+### Bước 3: Tuỳ chỉnh và đặt lịch trình
 
 Thực hiện theo thứ tự:
 
@@ -37,7 +39,7 @@ Thực hiện theo thứ tự:
 
 ![](images/scheduled_em03.jpg)
 
-### Bước 4:
+### Bước 4: Tổng quan lịch trình
 
 Đây là bước xem lại tổng quan các thông tin của chiến dịch email bao gồm cả thời gian gửi. Nếu các thông tin đã đúng với yêu cầu, nhấn nút **Lên lịch...** để hoàn tất.
 
