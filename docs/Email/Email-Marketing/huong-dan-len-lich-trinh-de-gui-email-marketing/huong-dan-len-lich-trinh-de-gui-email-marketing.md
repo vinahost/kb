@@ -18,15 +18,15 @@ date: "2024-04-11"
 
 Chọn **Các chiến dịch email > Gửi một chiến dịch email**.
 
-![](images/scheduled_em.jpg)
+![](images/scheduled_em.png)
 
 ## Bước 2: Chọn danh sách liên hệ
 
 Tích vào danh sách liên hệ muốn gửi và nhấn **Kế tiếp**.
 
-![](images/scheduled_em01.jpg)
+![](images/scheduled_em01.png)
 
-### Bước 3: Tuỳ chỉnh và đặt lịch trình
+## Bước 3: Tuỳ chỉnh và đặt lịch trình
 
 Thực hiện theo thứ tự:
 
@@ -36,27 +36,27 @@ Thực hiện theo thứ tự:
 - Chỉnh các tuỳ chọn khác (nếu muốn),
 - Nhấn nút **Kế tiếp** để sang bước sau.
 
-![](images/scheduled_em03.jpg)
+![](images/scheduled_em03.png)
 
-### Bước 4: Tổng quan lịch trình
+## Bước 4: Tổng quan lịch trình
 
 Đây là bước xem lại tổng quan các thông tin của chiến dịch email bao gồm cả thời gian gửi. Nếu các thông tin đã đúng với yêu cầu, nhấn nút **Lên lịch...** để hoàn tất.
 
-![](images/scheduled_em04.jpg)
+![](images/scheduled_em04.png)
 
 Sau bước trên, quý khách sẽ được chuyển tới giao diện **Xem các Email đã lên lịch**. Tại đây, quý khách có thể thấy được khoảng thời gian còn lại để email được gửi đi.
 
-![](images/scheduled_em05.jpg)
+![](images/scheduled_em05.png)
 
 <hr>
 
 Quý khách cũng có thể chủ động truy cập giao diện này bằng cách chọn **Các chiến dịch email > Xem các Email đã lên lịch**.
 
-![](images/scheduled_em06.jpg)
+![](images/scheduled_em06.png)
 
 Khi đến đúng thời gian đã định, email sẽ được gửi đến các liên hệ trong danh sách đã chọn.
 
-![](images/scheduled_em07.jpg)
+![](images/scheduled_em07.png)
 
 <hr>
 
