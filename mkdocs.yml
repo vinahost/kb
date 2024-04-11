@@ -211,7 +211,7 @@ nav:
     - Email Marketing:
       - Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
       - Tạo và chỉnh sửa một Template Email Marketing cơ bản: Email/Email-Marketing/huong-dan-tao-chinh-sua-template-email-marketing-co-ban.md
-      - Hướng dẫn đặt lịch trình gửi chiến dịch email marketing: Email/Email-Marketing/huong-dan-len-lich-trinh-de-gui-email-marketing/huong-dan-len-lich-trinh-de-gui-email-marketing.md
+      - Hướng dẫn đặt lịch trình gửi chiến dịch email marketing: huong-dan-len-lich-trinh-de-gui-email-marketing.md
     - Email Filter:
       - Hướng dẫn sử dụng dịch vụ Email Filter: huong-dan-su-dung-dich-vu-email-filter.md
       - Hướng dẫn sử dụng chức năng Spam Filters trên Email Hosting: su-dung-chuc-nang-spam-filters-tren-email-hosting.md
