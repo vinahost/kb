@@ -2,7 +2,6 @@
 title: "Hướng dẫn lên lịch trình để gửi email marketing - Gửi email marketing theo lịch trình"
 date: "2024-04-11"
 ---
-
 !!! info 
 	Bài viết này sẽ hướng dẫn bạn **Hướng dẫn lên lịch trình để gửi email marketing** trên hệ thống của Vinahost.  
 	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn).
