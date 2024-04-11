@@ -9,6 +9,7 @@ date: "2024-04-11"
 <hr>
 
 ***Xin lưu ý:***
+
 - Quý khách cần tạo các chiến dịch email trước mới có thể thực hiện các bước lên lịch trình cho chúng.
 - Chú ý cài đặt đúng múi giờ tại **Người dùng và Nhóm > Xem tài khoản người dùng > Chỉnh sửa > Múi giờ của người dùng**
 
