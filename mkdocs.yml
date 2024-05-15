@@ -248,6 +248,7 @@ nav:
 - Domain/DNS:
     - DNS:
       - Hướng Dẫn Cấu Hình, Sử Dụng Trang DNS Manager Để Quản Lý Tên Miền Tại VinaHost: huong-dan-cau-hinh-su-dung-trang-dns-manager-de-quan-ly-ten-mien-tai-vinahost.md
+      - huong-dan-cau-hinh-dns-domain-tai-vinahost.md
       - Hướng dẫn sử dụng DNS Manager và quản lý tên miền tại VinaHost: huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost.md
       - CNAME Là Gì? Làm Thế Nào Để Tạo Bản Ghi CNAME: cname-la-gi.md
     - Domain:
