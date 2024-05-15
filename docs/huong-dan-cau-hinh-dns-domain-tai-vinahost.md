@@ -1,17 +1,19 @@
 # Hướng dẫn cấu hình DNS domain tại VinaHost
-*   [Bước 1: Truy cập vào trang login](#penci-Buoc-1-Truy-cap-vao-trang-login "Bước 1: Truy cập vào trang login")
-*   [Bước 2: Quản lý DNS](#penci-Buoc-2-Quan-ly-DNS "Bước 2: Quản lý DNS")
-    *   [1\. Quản lý Name Server(NS)](#penci-1-Quan-ly-Name-ServerNS "1. Quản lý Name Server(NS)")
-    *   [2\. Cấu hình bản ghi DNS record](#penci-2-Cau-hinh-ban-ghi-DNS-record "2. Cấu hình bản ghi DNS record")
-        *   [2.1. Trỏ bản ghi A](#penci-21-Tro-ban-ghi-A "2.1. Trỏ bản ghi A")
-        *   [2.2. CNAME](#penci-22-CNAME "2.2. CNAME")
-        *   [2.3. MX (Dành cho mail)](#penci-23-MX-Danh-cho-mail "2.3. MX (Dành cho mail)")
-        *   [2.4 TXT](#penci-24-TXT "2.4 TXT")
-*   [Lấy mã EPP tên miền](#penci-Lay-ma-EPP-ten-mien "Lấy mã EPP tên miền")
+- [Hướng dẫn cấu hình DNS domain tại VinaHost](#hướng-dẫn-cấu-hình-dns-domain-tại-vinahost)
+  - [Bước 1: Truy cập vào trang login](#bước-1-truy-cập-vào-trang-login)
+  - [Bước 2: Quản lý DNS](#bước-2-quản-lý-dns)
+    - [1. Quản lý Name Server(NS)](#1-quản-lý-name-serverns)
+    - [2. Cấu hình bản ghi DNS record](#2-cấu-hình-bản-ghi-dns-record)
+      - [2.1. Trỏ bản ghi A](#21-trỏ-bản-ghi-a)
+      - [2.2. CNAME](#22-cname)
+      - [2.3. MX (Dành cho mail)](#23-mx-dành-cho-mail)
+      - [2.4 TXT](#24-txt)
+  - [Lấy mã EPP tên miền](#lấy-mã-epp-tên-miền)
+        - [ĐỖ TRUNG QUÂN](#đỗ-trung-quân)
 
 DNS (Domain Name System) là một phần không thể thiếu của một trang web, giúp kết nối tên miền (domain name) với địa chỉ IP của máy chủ (server) để người dùng có thể truy cập vào trang web. Tuy nhiên, không phải ai cũng biết cách quản lý DNS domain để đảm bảo trang web hoạt động tốt. Trong bài viết này, chúng ta sẽ cùng tìm hiểu về cách quản lý DNS domain tại VinaHost – một nhà cung cấp dịch vụ tên miền uy tín và được nhiều người tin tưởng. Các bước hướng dẫn đơn giản và dễ hiểu, giúp bạn có thể tự tin quản lý DNS domain cho trang web của mình một cách chuyên nghiệp.
 
-![gioi thieu dich vu may chu cua vinahost 8 2 e1599449470222](https://dotrungquan.info/wp-content/uploads/2023/04/gioi-thieu-dich-vu-may-chu-cua-vinahost-8-2-e1599449470222.jpg "Hướng dẫn cấu hình DNS domain tại VinaHost 3")
+![Giới thiệu dịch vụ máy chủ Vinahost](images/gioi-thieu-dich-vu-may-chu-cua-vinahost.jpg "Hướng dẫn cấu hình DNS domain tại VinaHost 3")
 
 Bước 1: Truy cập vào trang login
 --------------------------------
@@ -20,15 +22,15 @@ Bước 1: Truy cập vào trang login
 
 Tại đây bạn nhập vào Email và Password để đăng nhập.
 
-![image 67](https://dotrungquan.info/wp-content/uploads/2023/04/image-67.png "Hướng dẫn cấu hình DNS domain tại VinaHost 4")
+![image 67](images/dns-vinahost01.png "Hướng dẫn cấu hình DNS domain tại VinaHost 4")
 
 Sau đó bạn chọn **Tên miền** => **Tên miền của tôi**
 
-![image 68](https://dotrungquan.info/wp-content/uploads/2023/04/image-68-1024x419.png "Hướng dẫn cấu hình DNS domain tại VinaHost 5")
+![image 68](images/dns-vinahost02.png "Hướng dẫn cấu hình DNS domain tại VinaHost 5")
 
 Bạn sẽ thấy danh sách tên miền hiện đang sử dụng
 
-![image 69](https://dotrungquan.info/wp-content/uploads/2023/04/image-69.png "Hướng dẫn cấu hình DNS domain tại VinaHost 6")
+![image 69](images/dns-vinahost03.png "Hướng dẫn cấu hình DNS domain tại VinaHost 6")
 
 Bước 2: Quản lý DNS
 -------------------
@@ -43,23 +45,23 @@ Lưu ý: Nếu sử dụng Name Server(NS) bên thứ 3 thì các bản ghi DNS 
 
 Để thay đổi Name Server(NS) bạn chọn vào nút mũi tên xuống => **Quản lý Name Server**
 
-![image 70](https://dotrungquan.info/wp-content/uploads/2023/04/image-70.png "Hướng dẫn cấu hình DNS domain tại VinaHost 7")
+![image 70](images/dns-vinahost04.png "Hướng dẫn cấu hình DNS domain tại VinaHost 7")
 
 Sau đó bạn chọn **Sử dụng nameserver tùy chỉnh (nhập bên dưới)**, nhập vào cặp Name Server(NS) cần đổi và chọn **Đổi Nameserver**
 
-![image 71](https://dotrungquan.info/wp-content/uploads/2023/04/image-71.png "Hướng dẫn cấu hình DNS domain tại VinaHost 8")
+![image 71](images/dns-vinahost05png "Hướng dẫn cấu hình DNS domain tại VinaHost 8")
 
 ### 2\. Cấu hình bản ghi DNS record
 
 Để cấu hình DNS bạn truy cập vào mũi tên => **Quản lý DNS**
 
-![image 72](https://dotrungquan.info/wp-content/uploads/2023/04/image-72.png "Hướng dẫn cấu hình DNS domain tại VinaHost 9")
+![image 72](images/dns-vinahost06.png "Hướng dẫn cấu hình DNS domain tại VinaHost 9")
 
 Sau đó hệ thống chuyển bạn để trang DNS Manager, ở đây bạn cần xem domain đã có Zone hay chưa. Nếu đã có zone rồi bạn chỉ cần click vào nút Edit sau đó vào quản lý bản ghi DNS. Nếu domain chưa có Zone thì bạn cần tạo bằng cách click vào **Add New Zone**
 
-![image 73](https://dotrungquan.info/wp-content/uploads/2023/04/image-73-1024x430.png "Hướng dẫn cấu hình DNS domain tại VinaHost 10")
+![image 73](images/dns-vinahost07.png "Hướng dẫn cấu hình DNS domain tại VinaHost 10")
 
-![image 75](https://dotrungquan.info/wp-content/uploads/2023/04/image-75-1024x252.png "Hướng dẫn cấu hình DNS domain tại VinaHost 11")
+![image 75](images/dns-vinahost08.png "Hướng dẫn cấu hình DNS domain tại VinaHost 11")
 
 **Các loại bản ghi VinaHost hỗ trợ**. **Tuy nhiên trong bài viết này tôi chỉ hướng dẫn cấu hình một số bản ghi thường sử dụng nhất.**
 
@@ -80,7 +82,7 @@ Bản ghi A (Address): Bản ghi A liên kết tên miền với địa chỉ IP
 *   TTL: Mặc định
 *   RDATA: Nhập vào IP đích cần trỏ về
 
-![image 74](https://dotrungquan.info/wp-content/uploads/2023/04/image-74.png "Hướng dẫn cấu hình DNS domain tại VinaHost 12")
+![image 74](images/dns-vinahost09.png "Hướng dẫn cấu hình DNS domain tại VinaHost 12")
 
 #### 2.2. CNAME
 
@@ -91,7 +93,7 @@ Bản ghi CNAME (Canonical Name): Bản ghi CNAME liên kết một tên miền 
 *   TTL: Mặc định
 *   RDATA: Nhập giá trị đích
 
-![image 76](https://dotrungquan.info/wp-content/uploads/2023/04/image-76.png "Hướng dẫn cấu hình DNS domain tại VinaHost 13")
+![image 76](images/dns-vinahost10.png "Hướng dẫn cấu hình DNS domain tại VinaHost 13")
 
 #### 2.3. MX (Dành cho mail)
 
@@ -104,7 +106,7 @@ Bản ghi MX (Mail Exchange): Bản ghi MX chỉ định máy chủ thư điện
     *   preference: Độ ưu tiên
     *   exchange: Giá trị MX
 
-![image 77](https://dotrungquan.info/wp-content/uploads/2023/04/image-77.png "Hướng dẫn cấu hình DNS domain tại VinaHost 14")
+![image 77](images/dns-vinahost11.png "Hướng dẫn cấu hình DNS domain tại VinaHost 14")
 
 #### 2.4 TXT
 
@@ -115,7 +117,7 @@ Bản ghi MX (Mail Exchange): Bản ghi MX chỉ định máy chủ thư điện
 
 Bản ghi TXT (Text): Bản ghi TXT chứa thông tin văn bản không định dạng được sử dụng để cung cấp các thông tin khác nhau cho tên miền, chẳng hạn như thông tin xác thực và xác minh quyền sở hữu.
 
-![image 78](https://dotrungquan.info/wp-content/uploads/2023/04/image-78.png "Hướng dẫn cấu hình DNS domain tại VinaHost 15")
+![image 78](images/dns-vinahost12.png "Hướng dẫn cấu hình DNS domain tại VinaHost 15")
 
 Lấy mã EPP tên miền
 -------------------
@@ -124,11 +126,11 @@ Trong trường hợp bạn cần lấy mã EPP để chuyển tên miền bạn
 
 Bạn chọn vào tên miền => Quản lý tên miền
 
-![image 213](https://dotrungquan.info/wp-content/uploads/2023/04/image-213-1024x623.png "Hướng dẫn cấu hình DNS domain tại VinaHost 16")
+![image 213](images/dns-vinahost13.png "Hướng dẫn cấu hình DNS domain tại VinaHost 16")
 
 Sau đó bấm vào Lấy mã EPP và cột bên phải sẽ hiển thị mã EPP của tên miền bạn.
 
-![image 214](https://dotrungquan.info/wp-content/uploads/2023/04/image-214-1024x459.png "Hướng dẫn cấu hình DNS domain tại VinaHost 17")
+![image 214](images/dns-vinahost14.png "Hướng dẫn cấu hình DNS domain tại VinaHost 17")
 
 Trong bài viết này, chúng ta đã tìm hiểu về quản lý DNS và các bản ghi DNS phổ biến, bao gồm bản ghi A, TXT, CNAME và MX. Chúng ta cũng đã hiểu về giá trị TTL trong DNS và tầm quan trọng của nó trong việc đảm bảo tính chính xác và an toàn cho hệ thống DNS.
 
