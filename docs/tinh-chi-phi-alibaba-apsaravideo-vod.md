@@ -104,6 +104,8 @@ Từ đó giá tiền sẽ được tính:
 
 **\>>> Truy cập [Pricing Calulator](https://yida.alibaba-inc.com/o/livecalculator#/).**
 
+**\>>> Truy cập [Live Streaming Calulator](https://market.m.taobao.com/app/video-cloud-fe/live-calculator/index.html?#/?channel=SIN).**
+
 Chúc bạn thực hiện thành công!
 
 _Nguồn: https://www.alibabacloud.com/blog/how-to-use-apsaravideo-vod-calculator\_599978_
