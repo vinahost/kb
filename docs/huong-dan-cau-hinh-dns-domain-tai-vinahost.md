@@ -1,15 +1,4 @@
 # Hướng dẫn cấu hình DNS domain tại VinaHost
-- [Hướng dẫn cấu hình DNS domain tại VinaHost](#hướng-dẫn-cấu-hình-dns-domain-tại-vinahost)
-  - [Bước 1: Truy cập vào trang login](#bước-1-truy-cập-vào-trang-login)
-  - [Bước 2: Quản lý DNS](#bước-2-quản-lý-dns)
-    - [1. Quản lý Name Server(NS)](#1-quản-lý-name-serverns)
-    - [2. Cấu hình bản ghi DNS record](#2-cấu-hình-bản-ghi-dns-record)
-      - [2.1. Trỏ bản ghi A](#21-trỏ-bản-ghi-a)
-      - [2.2. CNAME](#22-cname)
-      - [2.3. MX (Dành cho mail)](#23-mx-dành-cho-mail)
-      - [2.4 TXT](#24-txt)
-  - [Lấy mã EPP tên miền](#lấy-mã-epp-tên-miền)
-        - [ĐỖ TRUNG QUÂN](#đỗ-trung-quân)
 
 DNS (Domain Name System) là một phần không thể thiếu của một trang web, giúp kết nối tên miền (domain name) với địa chỉ IP của máy chủ (server) để người dùng có thể truy cập vào trang web. Tuy nhiên, không phải ai cũng biết cách quản lý DNS domain để đảm bảo trang web hoạt động tốt. Trong bài viết này, chúng ta sẽ cùng tìm hiểu về cách quản lý DNS domain tại VinaHost – một nhà cung cấp dịch vụ tên miền uy tín và được nhiều người tin tưởng. Các bước hướng dẫn đơn giản và dễ hiểu, giúp bạn có thể tự tin quản lý DNS domain cho trang web của mình một cách chuyên nghiệp.
 
