@@ -106,6 +106,7 @@ nav:
     - Cấu Hình SNAT Cho ECS Instance Không Có IP Public Truy Cập Internet: cau-hinh-snat-cho-ecs-instance.md
     - Hướng Dẫn Gán EIP Cho Instances Trên Alibaba Cloud: gan-eip-cho-instances-tren-alibaba-cloud.md
     - Hướng Dẫn Tạo ApsaraDB Instances Trên Alibaba Cloud: tao-apsaradb-instances-tren-alibaba-cloud.md
+    - Hướng dẫn chuyển dữ liệu từ S3 Storage bất kỳ sang Alibaba Cloud S3 Storage tại Việt Nam (EOS): huong-dan-chuyen-s3-storage-ve-eos-alibaba-cloud.md
     - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng Tool go2aliyun_client: migrate-server-vm-alibaba-cloud-su-dung-tool-go2aliyun_client.md
     - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng SSH: migrate-server-vm-len-alibaba-cloud-su-dung-ssh.md
     - Migrate server, VM sử dụng OS Windows bằng Alibaba Cloud Migration Tool: migrate-server-vm-su-dung-os-windows-bang-alibaba-cloud-migration-tool.md
