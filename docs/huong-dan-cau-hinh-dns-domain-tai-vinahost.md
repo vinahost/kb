@@ -125,6 +125,20 @@ Trong bài viết này, chúng ta đã tìm hiểu về quản lý DNS và các 
 
 Quản lý DNS là một phần quan trọng trong việc cấu hình hệ thống mạng và web, giúp kết nối tên miền với các địa chỉ IP tương ứng. Bằng cách hiểu rõ các bản ghi DNS và giá trị TTL, chúng ta có thể quản lý và cấu hình hệ thống DNS của mình một cách hiệu quả và đảm bảo tính ổn định và an toàn cho hệ thống mạng và web.
 
-![](https://secure.gravatar.com/avatar/58a540ac7dc0cbf7aa2087e058091931?s=100&r=g)
-
 ##### [ĐỖ TRUNG QUÂN](https://dotrungquan.info/author/quandt/ " ĐỖ TRUNG QUÂN")
+
+Chúc bạn thực hiện thành công!
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**

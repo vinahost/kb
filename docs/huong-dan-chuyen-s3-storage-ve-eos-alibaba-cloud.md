@@ -128,3 +128,19 @@ Sau khi khởi tạo task di chuyển dữ liệu, bạn có thể xem thông ti
 ![Picture31](https://yqintl.alicdn.com/57e528e6860e30a96d0b9a291b85b38a2ad52ebf.png "Picture31")
 
 ![Picture32](https://yqintl.alicdn.com/0746c0f35e503b320219947b395dc4863c41c1d0.png "Picture32")
+
+Chúc bạn thực hiện thành công!
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
