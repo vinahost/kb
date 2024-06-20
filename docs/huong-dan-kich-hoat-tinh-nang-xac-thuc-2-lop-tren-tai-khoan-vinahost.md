@@ -6,19 +6,19 @@ _Mỗi lần xác thực yêu cầu hai yếu tố đồng thời: thông tin ng
 
 **Bước 1:** Đầu tiên truy cập vào **tài khoản VinaHost** > Chọn **Cài đặt bảo vệ**
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAwIiBoZWlnaHQ9Ijk1NSIgdmlld0JveD0iMCAwIDE2MDAgOTU1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)
+![](https://vinahost.vn/wp-content/uploads/2024/06/1-1536x917.png)
 
 **Bước 2**: Thấy trạng thái hiện tại là Disable, Nhấp vào nút **Disable** để bật tính năng này lên
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzUxIiBoZWlnaHQ9IjQ4NCIgdmlld0JveD0iMCAwIDEzNTEgNDg0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)
+![](https://vinahost.vn/wp-content/uploads/2024/06/2.png)
 
 **Bước 3:** Chọn **Bắt đầu**
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NDkiIGhlaWdodD0iNTA2IiB2aWV3Qm94PSIwIDAgNTQ5IDUwNiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==)
+![](https://vinahost.vn/wp-content/uploads/2024/06/3.png)
 
 **Bước 4:** Truy cập vào ứng dụng **Google Authenticator**, **Authory** hoặc **Duo** để scan mã QR
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NTAiIGhlaWdodD0iNjU0IiB2aWV3Qm94PSIwIDAgNTUwIDY1NCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==)
+![](https://vinahost.vn/wp-content/uploads/2024/06/4.png)
 
 _Download ứng dụng_ **_Google Authenticator_**
 
@@ -32,7 +32,7 @@ _Trên IOS:_
 *   Truy cập vào ứng dụng **Google Authenticator** sẽ có mã **6 số** đổi liên tục sau 30s > Nhập mã vào sau khi bạn login.
 *   Sau khi bật tính năng xác thực 2 lớp hoàn tất. Hệ thống hiển thị **mã dự phòng** Quý khách lưu lại cho trường hợp mất thiết bị xác thực.
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NTEiIGhlaWdodD0iNTExIiB2aWV3Qm94PSIwIDAgNTUxIDUxMSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NmZDRkYiIvPjwvc3ZnPg==)
+![](https://vinahost.vn/wp-content/uploads/2024/06/5.png)
 
 **Chúc quý khách cấu hình thành công!!**
 
