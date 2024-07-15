@@ -4,6 +4,7 @@
 Để biết thông tin đăng nhập vào hệ thống, Quý khách vui lòng kiểm tra hộp mail (bao gồm junk/spam box).
 
 Để đăng nhập vào hệ thống, Quý khách thực hiện các bước sau:
+
 - **Bước 1**: Mở trình duyệt web như CocCoc, Google Chrome, Firefox… và truy cập vào địa chỉ https://cs.vinahost.vn.
 - **Bước 2**: Nhập Username (tên tài khoản) và Password (mật khẩu) VinaHost đã cấp trước đó cho Quý khách vào hai ô tương ứng ở trang https://cs.vinahost.vn và chọn Login.
 
