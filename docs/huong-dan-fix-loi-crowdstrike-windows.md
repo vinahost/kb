@@ -2,7 +2,7 @@
 
 ## Mô tả vấn đề
 
-Vào ngày 19 tháng 7 năm 2024, lúc 12:30 GMT, **Alibaba Cloud** đã phát hiện ra các phiên bản **ECS** chạy hệ thống **Windows** bị khởi động lại bất thường. Sau khi điều tra, vấn đề này do một bản cập nhật tự động của phần mềm - **Falcon Sensor**, thuộc sở hữu của công ty bảo mật bên thứ ba - **CrowdStrike**. Cho đến khi công ty phát hành một giải pháp chính thức, một giải pháp tạm thời để giảm thiểu sự cố hệ thống là đổi tên (**rename**) thư mục chứa phần mềm này.
+Vào ngày 19 tháng 7 năm 2024, lúc 12:30 GMT, **Alibaba Cloud** đã phát hiện ra các phiên bản **ECS** chạy hệ thống **Windows** bị khởi động lại bất thường. Sau khi điều tra, vấn đề này do một bản cập nhật tự động của phần mềm - **Falcon Sensor**, thuộc sở hữu của công ty bảo mật bên thứ ba - **CrowdStrike**. Cho đến khi công ty phát hành một giải pháp chính thức, một giải pháp tạm thời để giảm thiểu sự cố hệ thống là đổi tên (**rename**) thư mục chứa phần mềm này. Ngoài ra còn có cách fix khác là sử dụng PowerShell Script để xử lý.
 
 **Lưu ý quan trọng**: vui lòng lưu ý rằng giải pháp tạm thời này có thể làm phần mềm bảo mật **CrowdStrike** không hoạt động, ảnh hưởng đến bảo mật của phiên bản và các tính năng phụ khác. Chúng tôi khuyến nghị bạn nên hoàn thành đánh giá rủi ro trước khi tiến hành.
 
@@ -31,7 +31,9 @@ Steps to get back into your **Windows PC or Server** after the **CrowdStrike Upd
 **Step 1:** **Boot Windows** into **Safe Mode** or the **Windows Recovery Environment**
 
 **Step 2:** Navigate to the `C:\Windows\system32\drivers\CrowdStrike` directory
+
 **Step 3**: Locate the file matching “**C-00000291*.sys**”, and **rename **or **delete** it.
+
 **Step 4:** **Boot** the host **normally**.
 
 ## Cách khắc phục lỗi BSOD sau khi cập nhật CrowdStrike đối với hàng loạt máy tính sử dụng GPO
