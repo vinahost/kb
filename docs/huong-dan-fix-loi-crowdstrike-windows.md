@@ -27,10 +27,12 @@ Vào ngày 19 tháng 7 năm 2024, lúc 12:30 GMT, **Alibaba Cloud** đã phát h
 ## How to fix BSOD error after CrowdStrike Update?
 
 Steps to get back into your **Windows PC or Server** after the **CrowdStrike Update**:
-1. **Boot Windows** into **Safe Mode** or the **Windows Recovery Environment**
-2. Navigate to the `C:\Windows\system32\drivers\CrowdStrike` directory
-3. Locate the file matching “**C-00000291*.sys**”, and **rename **or **delete** it.
-4. **Boot** the host **normally**.
+
+**Step 1:** **Boot Windows** into **Safe Mode** or the **Windows Recovery Environment**
+
+**Step 2:** Navigate to the `C:\Windows\system32\drivers\CrowdStrike` directory
+**Step 3**: Locate the file matching “**C-00000291*.sys**”, and **rename **or **delete** it.
+**Step 4:** **Boot** the host **normally**.
 
 ## Cách khắc phục lỗi BSOD sau khi cập nhật CrowdStrike đối với hàng loạt máy tính sử dụng GPO
 
@@ -114,6 +116,8 @@ Restart-Computer
 
 **Tham khảo**
 
-[关于7月19日Windows系统蓝屏问题的临时解决方案](https://cn.aliyun.com/noticelist/articleid/1074613632.html?from_alibabacloud=)
-[Temporary solution for the July 19th Windows blue screen problem](https://www.alibabacloud.com/help/en/ecs/temporary-solution-to-the-windows-blue-screen-error-that-occurred-on-july-19-2024/)
-[Automated Workaround in Safe Mode using Group Policy](https://gist.github.com/whichbuffer/7830c73711589dcf9e7a5217797ca617)
+- [关于7月19日Windows系统蓝屏问题的临时解决方案](https://cn.aliyun.com/noticelist/articleid/1074613632.html?from_alibabacloud=)
+
+- [Temporary solution for the July 19th Windows blue screen problem](https://www.alibabacloud.com/help/en/ecs/temporary-solution-to-the-windows-blue-screen-error-that-occurred-on-july-19-2024/)
+
+- [Automated Workaround in Safe Mode using Group Policy](https://gist.github.com/whichbuffer/7830c73711589dcf9e7a5217797ca617)
