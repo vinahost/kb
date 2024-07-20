@@ -8,17 +8,17 @@ Vào ngày 19 tháng 7 năm 2024, lúc 12:30 GMT, **Alibaba Cloud** đã phát h
 
 **Bước 1:** Tại Instance **Windows** trên **Alibaba Cloud**, kết nối qua **vnc**. Trong màn hình sau, nhấn **F8** để vào **Start-up Setting**.
     
-![Truy cập vào Recovery / Start-up Setting](https://yqintl.alicdn.com/9ba9837664a077eff3709d00ba6ac6968ea1a8ca.png)
+![Truy cập vào Recovery / Start-up Setting](images/CrowdStrike01.png)
 
 **Bước 2:** Chọn **4) Enable Safe Mode**.
 
-![Enable Safe Mode](https://yqintl.alicdn.com/83fc1a054d649ef1574abd357e6cec1a1ace3046.png)
+![Enable Safe Mode](images/CrowdStrike02.png)
 
 **Bước 3:** **Login** với user có quyền **Administrator**
 
 **Lưu ý** nếu hệ thống tự động đăng nhập với tài khoản không phải **Administrator**, vui lòng đăng xuất và quay lại màn hình đăng nhập, nhập **Administrator** và mật khẩu để đăng nhập.
 
-![Đăng nhập với tài khoản Administrator](https://yqintl.alicdn.com/bed51bd922bf343a2d740aa64f25a3ee94c416e2.png)
+![Đăng nhập với tài khoản Administrator](images/CrowdStrike03.png)
 
 **Bước 4:** Kiểm tra ổ đĩa hệ thống và đổi tên (**rename**) thư mục `Windows\system32\drivers\CrowdStrike` dưới ổ đĩa hệ thống thành ***CrowdStrike.bak*** ( thông thường là ổ đĩa C )
 
