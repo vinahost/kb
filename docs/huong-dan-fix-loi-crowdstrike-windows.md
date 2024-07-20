@@ -110,7 +110,7 @@ Restart-Computer
 
 1. Đảm bảo rằng GPO "**Force Safe Mode**" được áp dụng cho các máy tính bị ảnh hưởng trước tiên.
 2. Khi máy tính boot vào **Safe Mode**, script `CrowdStrikeFix.ps1` sẽ được thực thi.
-2. Sau khi vấn đề được khắc phục, script sẽ khôi phục lại cài đặt boot về chế độ bình thường.
+3. Sau khi vấn đề được khắc phục, script sẽ khôi phục lại cài đặt boot về chế độ bình thường.
 
 **Quan trọng** Alibaba Cloud sẽ tiếp tục giám sát tiến độ của sự cố này, bạn cũng có thể cập nhật thông tin mới nhất qua trang web chính thức của CrowdStrike. Nếu bạn gặp bất kỳ vấn đề nào trong quá trình hoặc cần hỗ trợ thêm, bạn có thể liên hệ với chúng tôi bất cứ lúc nào bằng cách gửi [**Ticket tại Support and Services**](https://smartservice.console.aliyun.com/) trên hệ thống Alibaba Cloud
 
