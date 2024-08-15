@@ -12,7 +12,7 @@ Bài viết này sẽ hướng dẫn bạn **Import Người Dùng Vào Zimbra T
 
 **Bước 1: Tạo 1 file có đuôi xml (có thể dùng note pad để tạo)**
 
-File mẫu có thể lấy tại đây: https://upload-vpn.vinahost.vn/x14asK/Config\_Import\_Zimbra\_Mau.xml
+File mẫu có thể lấy [tại đây](images/Config_Import_Zimbra_Mau.xml)
 
 Giải thích về đoạn mã trong file:
 
