@@ -76,3 +76,19 @@ Chờ SSL xác thực thành công đổi trạng thái **Active** (Quá trình 
 Các thông tin về **Certificate , Private key** hệ thống sẽ hiển thị trong **Client area**. Khách hàng truy cập để xem hoặc tải về
 
 ![Get Private key](images/huong-dan-gia-han-ssl-certificate-tai-vinahost-14.png)
+
+Chúc bạn thực hiện thành công!
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
