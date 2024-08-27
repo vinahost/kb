@@ -1,7 +1,5 @@
----
-title: "Hướng dẫn triển khai Java webapp trên cPanel"
-date: "2024-08-26"
----
+Hướng dẫn triển khai Java webapp trên cPanel
+===
 
 !!! info
     Bài viết này sẽ hướng dẫn bạn **triển khai Java webapp trên cPanel**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua hotline **1900 6046 nhánh số 3**, gửi email đến địa chỉ [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat trực tiếp tại [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php)
@@ -10,7 +8,7 @@ date: "2024-08-26"
 
 # Các bước triển khai
 
-***Mẹo:** Vui lòng tham khảo mục **[Gỡ lỗi](#gỡ-lỗi)** khi gặp trục trặc trong quá trình triển khai.*
+**Mẹo:** Vui lòng tham khảo mục **[Gỡ lỗi](#gỡ-lỗi)** khi gặp trục trặc trong quá trình triển khai.
 
 ## Bước 1: Xác định thư mục gốc
 
