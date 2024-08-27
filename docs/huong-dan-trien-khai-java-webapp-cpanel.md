@@ -18,7 +18,7 @@ Trong giao diện cPanel, thư mục gốc của các tên miền được hiể
 
 Nhấn vào thư mục gốc của tên miền cần triển khai Java webapp.
 
-***Mẹo:** Để tạo một tên miền mới, chọn **Create A New Domain**.*
+**Mẹo:** Để tạo một tên miền mới, chọn **Create A New Domain**.
 
 ## Bước 2: Tải mã nguồn lên hosting
 
@@ -112,8 +112,8 @@ Cách khắc phục:
     ```
     <Context path="/" docBase="/home/username/docroot/" reloadable="true"></Context>
     ```
-    ***username:** tên người dùng cPanel<br>
-    **docroot:** thư mục gốc (xem tại **[Bước 1](#bước-1-xác-định-thư-mục-gốc)**)*<br>
+    **username:** tên người dùng cPanel<br>
+    **docroot:** thư mục gốc (xem tại **[Bước 1](#bước-1-xác-định-thư-mục-gốc)**)<br>
     vào dưới dòng sau:
     ```
     <Host name="localhost" appBase="webapps" unpackWARs="false" autoDeploy="false" deployOnStartup="false" deployXML="false">
