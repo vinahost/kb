@@ -32,7 +32,7 @@ Sau khi tạo xong danh sách, để thêm liên hệ, Quý khách tích vào **
 
 ![](./images/Picture6.png)
 
-**1. Nhập Email tự động bằng file .CSV**
+## **1. Nhập Email tự động bằng file .CSV**
 
 Quý khách nhấn vào **Choose File** để tải lên file danh sách email liên hệ của mình
 
@@ -64,7 +64,7 @@ Các email không được thêm vào sẽ được khai báo nguyên nhân.
 
 ![](./images/Picture13.png)
 
-**2. Nhập email thủ công**
+## **2. Nhập email thủ công**
 
 Quý khách nhập vào tên và địa chỉ email, cách nhau bằng dấu phẩy và xuống dòng cho mỗi 1 liên hệ. Nếu quý khách sử dụng Excel để lập bảng danh sách có thể chọn Save As và chọn định dạng là csv. Sau khi Save xong mở file vừa được save bằng notepad hoặc trình text editor của máy sau đó copy thông tin từ file csv đó vào khung Import.
 
@@ -119,7 +119,7 @@ Quý khách bấm vào tên khách hàng để xem hồ sơ, trường tùy ch�
 
 **B. TẠO MỘT CHIẾN DỊCH GỬI MAIL**
 
-**1. Tạo 1 chiến dịch email mới bằng HTML code**
+## **1. Tạo 1 chiến dịch email mới bằng HTML code**
 
 Quý khách chọn vào **Create & send new campaign**
 
@@ -157,7 +157,7 @@ Kết quả phía người nhận
 
 ![](./images/Picture32.png)
 
-**2. Tạo 1 chiến dịch email mới bằng template có sẵn**
+## **2. Tạo 1 chiến dịch email mới bằng template có sẵn**
 
 Quý khách chọn **Import from Own template** để chọn các mẫu template mà mình muốn sau đó chọn **Import**
 
