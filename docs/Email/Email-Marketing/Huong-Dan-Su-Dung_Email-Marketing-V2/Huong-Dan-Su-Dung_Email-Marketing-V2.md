@@ -114,6 +114,7 @@ Quý khách bấm vào tên khách hàng để xem hồ sơ, trường tùy ch�
 ![](./images/Picture24.png)
 
 **B. TẠO MỘT CHIẾN DỊCH GỬI MAIL**
+
 **1. Tạo 1 chiến dịch email mới bằng HTML code**
 
 Quý khách chọn vào **Create & send new campaign**
