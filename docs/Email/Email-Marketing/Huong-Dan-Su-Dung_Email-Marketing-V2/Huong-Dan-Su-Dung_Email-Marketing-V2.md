@@ -1,5 +1,9 @@
 **HƯỚNG DẪN SỬ DỤNG DỊCH VỤ EMAIL MARKING TẠI VINAHOST 2024**
 
+!!! info 
+	Bài viết này sẽ hướng dẫn bạn một số thao tác cơ bản của dịch vụ**email marketing**  
+	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn)
+
 **A. NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
 
 Sau khi đăng nhập vào trang web dịch vụ, Quý khách chọn vào **View all lists**
