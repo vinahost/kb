@@ -1,6 +1,6 @@
 **HƯỚNG DẪN SỬ DỤNG DỊCH VỤ EMAIL MARKING TẠI VINAHOST 2024**
 
-** A.NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
+**A.NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
 
 Sau khi đăng nhập vào trang web dịch vụ, Quý khách chọn vào **View all lists**
 
