@@ -1,7 +1,7 @@
 **HƯỚNG DẪN SỬ DỤNG DỊCH VỤ EMAIL MARKING TẠI VINAHOST 2024**
 
 !!! info 
-	Bài viết này sẽ hướng dẫn bạn một số thao tác cơ bản của dịch vụ**email marketing**  
+	Bài viết này sẽ hướng dẫn bạn một số thao tác cơ bản của dịch vụ **email marketing**  
 	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn)
 
 **A. NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
@@ -198,3 +198,17 @@ Như vậy là khi đến thời điểm đã cấu hình, mail sẽ được g�
 ![](./images/Picture41.png)
 
 _Chúc quý khách thao tác thành công!_
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
