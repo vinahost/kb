@@ -106,6 +106,7 @@ nav:
     - Cấu Hình SNAT Cho ECS Instance Không Có IP Public Truy Cập Internet: cau-hinh-snat-cho-ecs-instance.md
     - Hướng Dẫn Gán EIP Cho Instances Trên Alibaba Cloud: gan-eip-cho-instances-tren-alibaba-cloud.md
     - Hướng Dẫn Tạo ApsaraDB Instances Trên Alibaba Cloud: tao-apsaradb-instances-tren-alibaba-cloud.md
+    - Hướng dẫn chuyển dữ liệu từ S3 Storage bất kỳ sang Alibaba Cloud S3 Storage tại Việt Nam (EOS): huong-dan-chuyen-s3-storage-ve-eos-alibaba-cloud.md
     - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng Tool go2aliyun_client: migrate-server-vm-alibaba-cloud-su-dung-tool-go2aliyun_client.md
     - Hướng Dẫn Migrate Server, VM Lên Alibaba Cloud Sử Dụng SSH: migrate-server-vm-len-alibaba-cloud-su-dung-ssh.md
     - Migrate server, VM sử dụng OS Windows bằng Alibaba Cloud Migration Tool: migrate-server-vm-su-dung-os-windows-bang-alibaba-cloud-migration-tool.md
@@ -113,6 +114,8 @@ nav:
     - Hướng Dẫn Sử Dụng Alibaba Cloud Pricing Calculator: huong-dan-su-dung-alibaba-cloud-pricing-calculator.md
     - Hướng dẫn tạo và phân quyền Ram User trên Alibaba Cloud: huong-dan-tao-RAM-user-tren-AlibabaCloud.md
     - Hướng dẫn tìm UID (Account ID) của một tài khoản trên Alibaba Cloud: huong-dan-tim-UID-tren-AlibabaCloud.md
+    - Hướng dẫn thiết lập cảnh báo số dư về Email trên Alibaba Cloud: Alibaba-Cloud-Setup-Bill-Alert.md
+    - Hướng dẫn sửa lỗi BSOD tạm thời sau khi cập nhật CrowdStrike trên Windows: huong-dan-fix-loi-crowdstrike-windows.md
 
 - Cloud Vinahost:
     - Hướng Dẫn Sử Dụng:
@@ -155,7 +158,6 @@ nav:
 - Public Cloud Vinahost:
       - huong-dan-su-dung-dich-vu-cloud-server-vinahost.md
       - gioi-thieu-va-huong-dan-mo-rong-lvm.md
-      - huong_dan_su_dung_public_cloud.md
       - Hướng dẫn sử dụng dịch vụ Public Cloud Vinahost: huong_dan_su_dung_public_cloud.md
 
 - Dịch vụ CDN:
@@ -169,6 +171,7 @@ nav:
     - Linux Hosting:
       - Hướng Dẫn Cài Đặt CS Cart Trên Hosting VinaHost: cai-dat-cs-cart-tren-hosting-vinahost.md
       - Hướng Đẫn Cài Đặt WordPress Lên Hosting cPanel: cai-dat-wordpress-len-hosting-cpanel.md
+      - Hướng dẫn triển khai Java webapp lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
         #    - Reseller Hosting:
         #    - WordPress Hosting:
         #    - Databas Hosting:
@@ -248,6 +251,7 @@ nav:
 - Domain/DNS:
     - DNS:
       - Hướng Dẫn Cấu Hình, Sử Dụng Trang DNS Manager Để Quản Lý Tên Miền Tại VinaHost: huong-dan-cau-hinh-su-dung-trang-dns-manager-de-quan-ly-ten-mien-tai-vinahost.md
+      - huong-dan-cau-hinh-dns-domain-tai-vinahost.md
       - Hướng dẫn sử dụng DNS Manager và quản lý tên miền tại VinaHost: huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost.md
       - CNAME Là Gì? Làm Thế Nào Để Tạo Bản Ghi CNAME: cname-la-gi.md
     - Domain:
@@ -290,8 +294,10 @@ nav:
 
 - Dịch vụ SSL:
     - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
+    - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
 
 - Chủ Đề Khác:
+    - huong-dan-kich-hoat-tinh-nang-xac-thuc-2-lop-tren-tai-khoan-vinahost.md
     - Hướng dẫn sử dụng dịch vụ Cloud Backup tại VinaHost: huong-dan-su-dung-dich-vu-cloud-backup.md
     - Nginx Là Gì? Cơ Chế Hoạt Động và Chức Năng Của Nginx: nginx-la-gi.md
     - Hướng Dẫn Chặn Các Traffic Theo Http Referer Trên Nginx: chan-cac-traffic-theo-http-referer-tren-nginx.md
@@ -328,4 +334,4 @@ validation:
   absolute_links: ignore
   unrecognized_links: ignore
 
-copyright: Copyright &copy; 2023 <a href="https://vinahost.vn/">Vinahost</a>, by the <a href="https://vinahost.vn/lien-he/">Vinahost Team</a>.
+copyright: Copyright &copy; 2024 <a href="https://vinahost.vn/">Vinahost</a>, by the <a href="https://vinahost.vn/lien-he/">Vinahost Team</a>.

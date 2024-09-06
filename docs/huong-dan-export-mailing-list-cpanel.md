@@ -53,8 +53,6 @@ Làm theo hình:
 
 Ở đây, bạn nhập dung lượng bạn muốn và save lại.
 
- 
-
 Chúc bạn thực hiện Export Mailing List cPanel thành công!
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**

@@ -38,7 +38,7 @@ Trong bảng trên có thể thao tác xoá user khỏi **proxy server** với n
 python3 /opt/squidwebmin/gen_admin.py
 ```
 
-## [](#k%E1%BA%BFt-n%E1%BB%91i-v%E1%BB%9Bi-proxy)2\. Kết nối với Proxy Web-interface
+## 2\. Kết nối với Proxy Web-interface
 
 Thông tin **IP, Port** để kết nối được hiển thị trên **dashboard**:
 
