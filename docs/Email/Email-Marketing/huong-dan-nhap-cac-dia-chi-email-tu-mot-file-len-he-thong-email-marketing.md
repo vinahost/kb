@@ -1,3 +1,5 @@
+# Hướng dẫn cách nhập các địa chỉ email có sẵn từ một file lên hệ thống Email Marketing của Vinahost
+
 !!! info 
 	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn).
 

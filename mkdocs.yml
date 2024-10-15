@@ -310,9 +310,12 @@ nav:
         - Hướng dẫn cấu hình xác thực cổng 25 cho Zimbra: huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra.md
       - Email Marketing:
         - Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
-        - Tạo và chỉnh sửa một Template Email Marketing cơ bản: Email/Email-Marketing/huong-dan-tao-chinh-sua-template-email-marketing-co-ban.md
         - Hướng dẫn đặt lịch trình gửi chiến dịch email marketing: huong-dan-len-lich-trinh-de-gui-email-marketing.md
-        - Hướng dẫn sử dụng email marketing V2: Email/Email-Marketing/Huong-Dan-Su-Dung_Email-Marketing-V2/Huong-Dan-Su-Dung_Email-Marketing-V2.md
+        - Hướng dẫn tạo và thêm liên hệ từ file vào email marketing: huong-dan-tao-va-them-lien-he-tu-file-vao-email-marketing.md
+        - Tạo và chỉnh sửa một Template Email Marketing cơ bản: Email/Email-Marketing/huong-dan-tao-chinh-sua-template-email-marketing-co-ban.md
+        - Hướng dẫn sử dụng email marketing V2: Email/Email-Marketing/Huong-Dan-Su-Dung_Email-Marketing-V2.md
+        - Hướng dẫn lọc và xác thực địa chỉ Email Marketing từ 1 file: Email\Email-Marketing\huong-dan-loc-va-xac-thuc-dia-chi-email-marketing.md
+        - Hướng dẫn cách nhập các địa chỉ email có sẵn từ một file lên hệ thống Email Marketing: Email\Email-Marketing\huong-dan-nhap-cac-dia-chi-email-tu-mot-file-len-he-thong-email-marketing.md
       - Email Filter:
         - Hướng dẫn sử dụng dịch vụ Email Filter: huong-dan-su-dung-dich-vu-email-filter.md
         - Hướng dẫn sử dụng chức năng Spam Filters trên Email Hosting: su-dung-chuc-nang-spam-filters-tren-email-hosting.md
@@ -353,6 +356,7 @@ nav:
       - Domain:
         - Hướng Dẫn Chuyển Tên Miền Quốc Tế Về VinaHost: huong-dan-chuyen-ten-mien-quoc-te-ve-vinahost.md
         - Hướng dẫn sử dụng Domain And Email Forwarding và quản lý tên miền tại VinaHost: huong-dan-su-dung-domain-and-email-forwarding-va-quan-ly-ten-mien-tai-vinahost.md
+        - Huong-dan-them-Addondomain-Subdomain-Parkeddomain.md
   - Dedicated server:
     - Hướng dẫn sử dụng:
       - Hướng Dẫn Reset Password Windows Bằng Active Boot Disk: reset-password-windows-bang-active-boot-disk.md
@@ -379,12 +383,18 @@ nav:
         - Huong-dan-thay-doi-giao-dien-tren-Directadmin.md
         - Hướng dẫn upload source code và database lên VPS: huong-dan-upload-source-code-va-database-len-VPS-dung-Directadmin.md
         - Hướng dẫn download Backup Directadmin: Download-Backup-Directadmin.md
+        - huong-dan-khai-bao-MIME-Type-cho-website-chi-tiet-Directadmin.md
       - Lỗi Thường Gặp:
         - Hướng Dẫn Reset Mật Khẩu Tài Khoản DirectAdmin: reset-mat-khau-tai-khoan-directadmin.md
         - Huong-dan-xu-ly-loi-cai-SSL-tren-Directadmin-nhung-khong-nhan.md
   - Quản lý Panel:
     - Hướng dẫn Panel:
       - aaPanel Quản Lý Server Linux Đơn Giản: aapanel-quan-ly-server-linux.md
+      - huong-dan-cai-dat-zpanel-tren-windows.md
+      - Huong-dan-tao-database-tren-Plesk.md
+      - Huong-dan-backup-du-lieu-tren-Plesk.md
+      - Huong-dan-cach-cau-hinh-VestaCP-chi-tiet.md
+      - Huong-dan-ket-noi-FTP-tren-Plesk.md
   - Dịch vụ SSL:
     - Hướng dẫn dịch vụ SSL:
       - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
@@ -402,13 +412,3 @@ nav:
       - Cai-dat-tomcat-tren-Centos.md
       - Cai-dat-tomcat-tren-Ubuntu.md
       - Cai-dat-tomcat-tren-Windows.md
-      - Huong-dan-backup-du-lieu-tren-Plesk.md
-      - Huong-dan-cach-cau-hinh-VestaCP-chi-tiet.md
-      - Huong-dan-ket-noi-FTP-tren-Plesk.md
-      - Huong-dan-tao-database-tren-Plesk.md
-      - Huong-dan-them-Addondomain-Subdomain-Parkeddomain.md
-      - huong-dan-cai-dat-zpanel-tren-windows.md
-      - huong-dan-khai-bao-MIME-Type-cho-website-chi-tiet-Directadmin.md
-      - huong-dan-tao-va-them-lien-he-tu-file-vao-email-marketing.md
-      - Email\Email-Marketing\huong-dan-loc-va-xac-thuc-dia-chi-email-marketing\huong-dan-loc-va-xac-thuc-dia-chi-email-marketing.md
-      - Email\Email-Marketing\huong-dan-tao-chinh-sua-template-email-marketing-nang-cao\huong-dan-nhap-cac-dia-chi-email-tu-mot-file-len-he-thong-email-marketing.md

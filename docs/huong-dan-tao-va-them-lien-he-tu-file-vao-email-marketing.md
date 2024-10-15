@@ -1,3 +1,5 @@
+# Hướng dẫn tạo và thêm liên hệ từ file vào email marketing
+
 !!! info 
      Bài viết này sẽ hướng dẫn bạn **Hướng dẫn tạo và thêm liên hệ từ file vào email marketing** ( hướng dẫn chuyển đổi file thành dạng csv, nội dung các trường: tên,email,ngày sinh..., phân tách như nào cho đúng định dạng). Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
