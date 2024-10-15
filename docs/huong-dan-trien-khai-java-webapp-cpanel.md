@@ -8,7 +8,7 @@ Hướng dẫn triển khai Java webapp trên cPanel
 
 # Các bước triển khai
 
-**Mẹo:** Vui lòng tham khảo mục **[Gỡ lỗi](#gỡ-lỗi)** khi gặp trục trặc trong quá trình triển khai.
+**Mẹo:** Vui lòng tham khảo mục **Gỡ lỗi** khi gặp trục trặc trong quá trình triển khai.
 
 ## Bước 1: Xác định thư mục gốc
 
@@ -70,7 +70,7 @@ Trong quá trình triển khai, bạn có thể gặp một số lỗi sau đây
 
 ## Lỗi 1: Không tìm thấy lệnh `ubic`
 
-Khi chạy các lệnh ở **[Bước 3](#bước-3-khởi-động-lại-tomcat)**, bạn có thể gặp phải lỗi:
+Khi chạy các lệnh ở **Bước 3**, bạn có thể gặp phải lỗi:
 
 ```
 ubic: command not found
@@ -96,7 +96,7 @@ source ~/.bashrc
 
 ## Lỗi 2: Truy cập 404
 
-Tại **[Bước 4](#bước-4-kiểm-tra)** nếu gặp lỗi 404, nguyên nhân có thể là:
+Tại **Bước 4]** nếu gặp lỗi 404, nguyên nhân có thể là:
 
 - Không tồn tại tệp mã nguồn
 - Sai quyền truy cập thư mục/tệp mã nguồn
@@ -113,7 +113,7 @@ Cách khắc phục:
     <Context path="/" docBase="/home/username/docroot/" reloadable="true"></Context>
     ```
     **username:** tên người dùng cPanel<br>
-    **docroot:** thư mục gốc (xem tại **[Bước 1](#bước-1-xác-định-thư-mục-gốc)**)<br>
+    **docroot:** thư mục gốc (xem tại **Bước 1**)<br>
     vào dưới dòng sau:
     ```
     <Host name="localhost" appBase="webapps" unpackWARs="false" autoDeploy="false" deployOnStartup="false" deployXML="false">
@@ -124,7 +124,7 @@ Cách khắc phục:
 
 ## Lỗi 3: Hiển thị mã HTML
 
-Tại **[Bước 4](#bước-4-kiểm-tra)**, khi truy cập trang web có thể hiển thị các đoạn mã HTML thay vì giao diện. 
+Tại **Bước 4**, khi truy cập trang web có thể hiển thị các đoạn mã HTML thay vì giao diện. 
 
 ![](./images/huong-dan-trien-khai-java-webapp-cpanel-09.jpg)
 

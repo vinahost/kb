@@ -1,4 +1,3 @@
-
 !!! info 
 	Bài viết này sẽ hướng dẫn bạn cách ****cấu hình bảo mật cổng 25 trên Zimbra****
 	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn)

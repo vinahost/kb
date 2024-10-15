@@ -38,7 +38,7 @@ Lưu ý: Nếu sử dụng Name Server(NS) bên thứ 3 thì các bản ghi DNS 
 
 Sau đó bạn chọn **Sử dụng nameserver tùy chỉnh (nhập bên dưới)**, nhập vào cặp Name Server(NS) cần đổi và chọn **Đổi Nameserver**
 
-![image 71](images/dns-vinahost05png "Hướng dẫn cấu hình DNS domain tại VinaHost 8")
+![image 71](images/dns-vinahost05.png "Hướng dẫn cấu hình DNS domain tại VinaHost 8")
 
 ### 2\. Cấu hình bản ghi DNS record
 

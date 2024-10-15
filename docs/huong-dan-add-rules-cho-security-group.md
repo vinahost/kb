@@ -12,11 +12,11 @@ Bài viết này sẽ hướng dẫn bạn cách **Add Rules cho Security Group.
 
 Để Add & Remove Rules trên Security Group, bạn truy cập **Resource Center -> Network Service -> Security Group -> Rules**
 
-## \[vCloud\] Hướng dẫn Add Rules cho Security Group
+## Hướng dẫn Add Rules cho Security Group
 
 - Các Rule đang có
 
-![[vCloud] Hướng dẫn Add Rules cho Security Group](images/huong-dan-add-rules-cho-security-group-1.png)
+![Hướng dẫn Add Rules cho Security Group](images/huong-dan-add-rules-cho-security-group-1.png)
 
 Ví dụ: Chỉ cho phép Port 3389 truy cập vào
 
