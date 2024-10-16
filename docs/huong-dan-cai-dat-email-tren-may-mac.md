@@ -8,7 +8,7 @@ categories:
 
 Bài viết này sẽ hướng dẫn bạn thực hiện **Cài đặt Email Trên Máy Mac**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext.3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
-## Sau đây VinaHost sẽ hướng đẫn các bạn Cài đặt Email Trên Máy Mac.
+## Sau đây VinaHost sẽ hướng dẫn các bạn Cài đặt Email Trên Máy Mac.
 
 Đối với hosting nền **cPanel** bạn làm theo các bước sau để lấy thông tin:
 

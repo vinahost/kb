@@ -8,7 +8,7 @@ coverImage: "tao-ssh-key-va-them-ssh-key-vao-trong-vps-0.png"
 
 Bài viết này sẽ hướng dẫn bạn cách **Tạo SSH KEY Và Thêm SSH Key Vào Trong VPS**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
-## **1\. Hướng đẫn tạo SSH KEY trên máy Windows**
+## **1\. Hướng dẫn tạo SSH KEY trên máy Windows**
 
 Đầu tiên chúng ta cần cài đặt phần mềm **PuTTYgen**, sau khi cài đặt xong bạn mở và chọn theo các tuỳ chọn bên dưới rồi ấn **Generate:** 
 

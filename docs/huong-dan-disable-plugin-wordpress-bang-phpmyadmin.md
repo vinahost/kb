@@ -8,7 +8,7 @@ coverImage: "huong-dan-disable-plugin-wordpress-bang-phpmyadmin-0.jpg"
 
 Bài viết này sẽ hướng dẫn bạn thực hiện **Disable Plugin WordPress Bằng Bằng PHPMyAdmin**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext.3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn/chat.php](https://livechat.vinahost.vn/chat.php).
 
-## Sau đây VinaHost sẽ hướng đẫn các bạn disable plugin Wordpress Bằng PHPMyAdmin.
+## Sau đây VinaHost sẽ hướng dẫn các bạn disable plugin Wordpress Bằng PHPMyAdmin.
 
 Trường hợp một ngày chúng ta không thể truy cập vào trang quản trị website wp-admin hoặc website không truy cập được, chúng ta có thể kiểm tra bằng cách tắt hết các plugin đang hoạt động và kiểm tra thử.
 

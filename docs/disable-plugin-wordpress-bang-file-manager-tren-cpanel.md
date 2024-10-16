@@ -10,7 +10,7 @@ Bài viết này sẽ hướng dẫn bạn thực hiện **Disable Plugin WordPr
 
 Trường hợp một ngày chúng ta không thể truy cập vào trang quản trị website wp-admin hoặc website không truy cập được, chúng ta có thể kiểm tra bằng cách Disable Plugin WordPress - tắt hết các plugin đang hoạt động (Disable Plugin WordPressvà kiểm tra thử.
 
-## Sau đây VinaHost sẽ hướng đẫn các bạn disable các plugin Wordpress bằng File Manager trên Cpanel.
+## Sau đây VinaHost sẽ hướng dẫn các bạn disable các plugin Wordpress bằng File Manager trên Cpanel.
 
 Đầu tiên chúng ta truy cập vào **Cpanel** chúng ta kéo xuống phần **Files** và chọn vào phần **File Manager**.
 
