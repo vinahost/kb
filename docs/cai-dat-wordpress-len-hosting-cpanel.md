@@ -1,5 +1,5 @@
 ---
-title: "Hướng Đẫn Cài Đặt WordPress Lên Hosting cPanel"
+title: "Hướng Dẫn Cài Đặt WordPress Lên Hosting cPanel"
 date: "2022-09-24"
 categories: 
   - "hosting"

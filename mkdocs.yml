@@ -1,10 +1,14 @@
 site_name: Trung tâm hỗ trợ trực tuyến VinaHost
 site_url: https://kb.vinahost.vn/
 site_description: Documentation for Vinahost
+site_author: Vinahost Team
 # Must be the docs repo for the edit page buttons to work
 repo_url: https://github.com/vinahost/kb
 edit_uri: edit/main/docs/
 validation:
+  absolute_links: ignore
+  unrecognized_links: ignore
+
   nav:
     omitted_files: info
     not_found: warn
@@ -20,8 +24,29 @@ theme:
   font: false
   language: custom
   logo: favicon/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  highlightjs: true
   palette:
-    scheme: light
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   features:
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/#announcement-bar
     - announce.dismiss
@@ -49,6 +74,18 @@ theme:
     - navigation.top
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/?h=navigation+tabs#anchor-tracking
     - navigation.tracking
+    - search.suggest
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.prune
+    - search.highlight
+    - search.share
+    - toc.follow
+  hljs_languages:
+    - yaml
+    - django
+    - python
+    - ruby
 copyright: >
   <a href="#__consent">Change cookie settings</a>
 extra:
@@ -87,6 +124,7 @@ extra_css:
 # https://squidfunk.github.io/mkdocs-material/customization/?h=#additional-javascript
 extra_javascript:
   - _extra/javascript/extra.js
+  - js/copyright.js
 watch:
   - _glossary
   - _snippets
@@ -121,9 +159,17 @@ markdown_extensions:
   #    emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#highlight
   - pymdownx.highlight:
-      linenums: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#inlinehilite
   - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#snippets
   - pymdownx.snippets:
       auto_append:
@@ -181,6 +227,7 @@ plugins:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
   - tags:
       enabled: true
+
 nav:
 - Trang Chủ: 
   - README.md
@@ -269,8 +316,8 @@ nav:
     #    - SEO Hosting:
       - Linux Hosting:
         - Hướng Dẫn Cài Đặt CS Cart Trên Hosting VinaHost: cai-dat-cs-cart-tren-hosting-vinahost.md
-        - Hướng Đẫn Cài Đặt WordPress Lên Hosting cPanel: cai-dat-wordpress-len-hosting-cpanel.md
-        - Hướng dẫn triển khai Java webapp lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
+        - Hướng Dẫn Cài Đặt WordPress Lên Hosting cPanel: cai-dat-wordpress-len-hosting-cpanel.md
+        - Hướng dDẫn Triển Khai Java Webapp Lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
           #    - Reseller Hosting:
           #    - WordPress Hosting:
           #    - Databas Hosting:
@@ -402,6 +449,9 @@ nav:
   - Chủ Đề Khác:
     - Chủ đề khác:
       - huong-dan-kich-hoat-tinh-nang-xac-thuc-2-lop-tren-tai-khoan-vinahost.md
+      - Cai-dat-tomcat-tren-Centos.md
+      - Cai-dat-tomcat-tren-Ubuntu.md
+      - Cai-dat-tomcat-tren-Windows.md
       - Hướng dẫn sử dụng dịch vụ Cloud Backup tại VinaHost: huong-dan-su-dung-dich-vu-cloud-backup.md
       - Nginx Là Gì? Cơ Chế Hoạt Động và Chức Năng Của Nginx: nginx-la-gi.md
       - Hướng Dẫn Chặn Các Traffic Theo Http Referer Trên Nginx: chan-cac-traffic-theo-http-referer-tren-nginx.md
@@ -409,6 +459,3 @@ nav:
       - Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS: mot-so-lenh-co-ban-kiem-tra-server-khi-bi-ddos.md
       - Linux Hosting - Hướng dẫn upload source code, database của website: linux-hosting-hd-upload-source-db-website.md
       - Windows Hosting - Hướng dẫn upload source code, database của website: windows-hosting-hd-upload-source-db-website.md
-      - Cai-dat-tomcat-tren-Centos.md
-      - Cai-dat-tomcat-tren-Ubuntu.md
-      - Cai-dat-tomcat-tren-Windows.md
