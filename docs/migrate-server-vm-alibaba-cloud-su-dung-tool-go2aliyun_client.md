@@ -122,7 +122,7 @@ Lúc này nên đợi hệ thống thực hiện xong, bạn không nên thao t�
 
 Chúc bạn thực hiện **Migrate Server, VM Trên Alibaba Cloud Sử Dụng Tool go2aliyun\_client** thành công!
 
-\> Tham khảo [Hướng Dẫn Migrate Server, VM Trên Alibaba Cloud Sử Dụng SSH](https://kb.vinahost.vn/migrate-server-vm-tren-alibaba-cloud-su-dung-ssh/)
+\> Tham khảo [Hướng Dẫn Migrate Server, VM Trên Alibaba Cloud Sử Dụng SSH](https://kb.vinahost.vn/migrate-server-vm-len-alibaba-cloud-su-dung-ssh/)
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 > 
