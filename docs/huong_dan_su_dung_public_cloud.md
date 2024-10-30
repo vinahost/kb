@@ -183,10 +183,16 @@ Các loại tài nguyên thường theo cặp như: **CPU** là số lượng CP
 
 Nếu có bất kỳ lỗi hay khó khăn trong quá trình sử dụng sản phẩm, hoặc cần thêm các tính năng, template, hay hệ điều hành khác, hãy liên hệ qua các kênh liên lạc của chúng tôi để được hỗ trợ (https://vinahost.vn/ho-tro)
 
-
-
-
-
-
-
-
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
