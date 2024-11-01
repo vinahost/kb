@@ -352,6 +352,7 @@ nav:
         - Hướng Dẫn Setup Mail Trên Outlook Thông Qua Control Panel: setup-mail-tren-outlook-thong-qua-control-panel.md
         - Hướng Dẫn Tự Động Xóa Các Thư Chuyển Tiếp Trong cPanel: tu-dong-xoa-cac-thu-chuyen-tiep-trong-cpanel.md
         - Loi-roundcube-ket-noi-database.md
+        - Hướng dẫn sử dụng Catch-All Email tại Vinahost: Email/huong-dan-su-dung-catch-all-email-tai-vinahost.md
           #    - Email Relay:
       - Email Server:
         - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
