@@ -403,6 +403,7 @@ nav:
         - Hướng Dẫn Cấu Hình, Sử Dụng Trang DNS Manager Để Quản Lý Tên Miền Tại VinaHost: huong-dan-cau-hinh-su-dung-trang-dns-manager-de-quan-ly-ten-mien-tai-vinahost.md
         - huong-dan-cau-hinh-dns-domain-tai-vinahost.md
         - Hướng dẫn sử dụng DNS Manager và quản lý tên miền tại VinaHost: huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost.md
+        - huong-dan-quan-ly-dns-tren-hosting-cpanel.md
         - CNAME Là Gì? Làm Thế Nào Để Tạo Bản Ghi CNAME: cname-la-gi.md
       - Domain:
         - Hướng Dẫn Chuyển Tên Miền Quốc Tế Về VinaHost: huong-dan-chuyen-ten-mien-quoc-te-ve-vinahost.md
@@ -453,6 +454,7 @@ nav:
       - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
   - Chủ Đề Khác:
     - Chủ đề khác:
+      - huong-dan-su-dung-dich-vu-waf-co-ban.md
       - huong-dan-kich-hoat-tinh-nang-xac-thuc-2-lop-tren-tai-khoan-vinahost.md
       - Cai-dat-tomcat-tren-Centos.md
       - Cai-dat-tomcat-tren-Ubuntu.md
