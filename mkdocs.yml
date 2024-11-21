@@ -382,8 +382,9 @@ nav:
         - Hướng Dẫn Allow Remote MySQL Databases Bằng cPanel: allow-remote-mysql-databases-bang-cpanel.md
         - Hướng Dẫn Backup Dữ Liệu Website Trên Cpanel: backup-du-lieu-website-tren-cpanel.md
         - Chuyển Dữ Liệu WordPress Bằng Plugin Duplicator Trên Cpanel: chuyen-du-lieu-wordpress-bang-plugin-duplicator-tren-cpanel.md
-        - Hướng Dẫn Chi Tiết Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-chi-tiet.md
-        - Hướng Dẫn Ngắn Gọn Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-rut-gon.md
+        - Hướng Dẫn Đăng Ký Auto SSL Trên Hosting Cpanel: dang-ky-free-ssl-tren-hosting-cpanel.md
+       # - Hướng Dẫn Chi Tiết Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-chi-tiet.md
+       # - Hướng Dẫn Ngắn Gọn Đăng Ký Free SSL (Auto SSL) trên Hosting cPanel: dang-ky-free-ssl-tren-hosting-cpanel-rut-gon.md
         - Hướng Dẫn Disable Plugin WordPress Bằng File Manager Trên cPanel: disable-plugin-wordpress-bang-file-manager-tren-cpanel.md
         - Hướng Dẫn Remote MySQL Database Trong cPanel: remote-mysql-database-trong-cpanel.md
         - Hướng Dẫn Backup Và Restore Dữ Liệu Trên Server Dùng cPanel: backup-va-restore-du-lieu-tren-server-dung-cpanel.md
