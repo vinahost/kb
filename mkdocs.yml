@@ -353,6 +353,8 @@ nav:
         - Hướng Dẫn Export Mailing List cPanel: huong-dan-export-mailing-list-cpanel.md
         - Hướng Dẫn Setup Mail Trên Outlook Thông Qua Control Panel: setup-mail-tren-outlook-thong-qua-control-panel.md
         - Hướng Dẫn Tự Động Xóa Các Thư Chuyển Tiếp Trong cPanel: tu-dong-xoa-cac-thu-chuyen-tiep-trong-cpanel.md
+        - Email/huong-dan-nhan-thong-tin-dang-nhap-cpanel-va-tao-tai-khoan-email-tai-vinahost.md
+        - Email/huong-dan-cau-hinh-email-tren-outlook.md
         - Loi-roundcube-ket-noi-database.md
         - Hướng dẫn sử dụng Catch-All Email tại Vinahost: Email/huong-dan-su-dung-catch-all-email-tai-vinahost.md
           #    - Email Relay:
