@@ -372,6 +372,8 @@ nav:
       - Email Filter:
         - Hướng dẫn sử dụng dịch vụ Email Filter: huong-dan-su-dung-dich-vu-email-filter.md
         - Hướng dẫn sử dụng chức năng Spam Filters trên Email Hosting: su-dung-chuc-nang-spam-filters-tren-email-hosting.md
+      - Email Relay:
+        - Email/huong-dan-cau-hinh-email-relay-tren-mdeamon.md
       - Microsoft 365:
         - Hướng Dẫn Chuyển Dữ Liệu Từ Máy Chủ Mail Sang Microsoft 365: chuyen-du-lieu-tu-may-chu-mail-sang-microsoft-365.md
         - Huong-dan-sua-loi-approval-tren-office-365.md
