@@ -10,8 +10,8 @@ Quá trình tối ưu thực hiện 3 việc:
 - Tắt window defender
 - Dùng công cụ tối ưu Windows
 
-!!! info 
-    **_Lưu ý**: Đây là các giải pháp tối ưu trong trường hợp tài nguyên VPS bạn không đáp ứng được Windows 10. Trong mọi trường hợp việc tắt đi các Services mặc định của Windows là không được khuyến nghị.
+
+> **_Lưu ý**: Đây là các giải pháp tối ưu trong trường hợp tài nguyên VPS bạn không đáp ứng được Windows 10. Trong mọi trường hợp việc tắt đi các Services mặc định của Windows là không được khuyến nghị.
 
 ### 1. Tắt Window Update ###
 
