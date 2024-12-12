@@ -112,7 +112,8 @@ Chờ cửa sổ **PowerShell** hiện thông báo **Finished** và khởi độ
 
 Nếu bạn mua VPS tại VinaHost và các cách tối ưu trên có vẻ dài dòng và phức tạp. Bạn có thể chọn cho mình cài đặt Windows 10 OS đã được tối ưu sẵn tại VinaHost.
 
-!!! warning **_Lưu ý**: VinaHost không chịu trách nhiệm về các trường hợp VPS gặp vấn đề về OS Windows nếu Quý khách chọn sử dụng Windows 10 tối ưu tại VinaHost._
+!!! warning 
+    **_Lưu ý**: VinaHost không chịu trách nhiệm về các trường hợp VPS gặp vấn đề về OS Windows nếu Quý khách chọn sử dụng Windows 10 tối ưu tại VinaHost._
 
 Bạn có thể tham khảo hướng dẫn cài lại OS trên Panel VPS của VinaHost tại: https://kb.vinahost.vn/huong-dan-cai-lai-os-vps-windows10-lite
 
