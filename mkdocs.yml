@@ -329,6 +329,7 @@ nav:
               - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
               - Hướng dẫn thay đổi Password của VPS trên hệ thống Vinahost: huong-dan-thay-doi-password-vps.md
               - huong-dan-khoi-dong-lai-dich-vu-vps-tren-vinahost.md
+              - huong-dan-cai-he-dieu-hanh-cho-vps.md
           - Linux VPS:
               - Cách Tạo Và Thêm SSH Key Vào Trong VPS: cach-tao-va-them-ssh-key-vao-trong-vps.md
               - Hướng Dẫn Tăng Swap Trên Linux: huong-dan-tang-swap-tren-linux.md
