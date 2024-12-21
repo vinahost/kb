@@ -463,6 +463,12 @@ nav:
           - Hướng dẫn dịch vụ SSL:
               - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
               - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
+      - Minecraft:
+          - Hướng dẫn sử dụng Minecraft:
+              - minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
+              - minecraft/huong-dan-tao-va-restore-backup-cho-server-minecraft-tai-vinahost.md
+              - minecraft/huong-dan-thay-doi-phien-ban-cho-server-minecraft-tai-vinahost.md
+              - minecraft/huong-dan-upload-the-gioi-vao-server-minecraft-tai-vinahost.md
       - Chủ Đề Khác:
           - Chủ đề khác:
               - huong-dan-su-dung-dich-vu-waf-co-ban.md
