@@ -405,7 +405,8 @@ nav:
               - Hướng Dẫn Kiểm Tra Disk Usage Trên Cpanel Và Cách Xử Lý: kiem-tra-disk-usage-tren-cpanel.md
               - Kiểm Tra Và Thay Đổi PHP Version Trên Hosting Cpanel: kiem-tra-va-thay-doi-php-version-tren-hosting-cpanel.md
               - Hướng dẫn sử lý lỗi Apache status missing in cPanel WHM: apache-status-missing-in-cpanel-whm.md
-                #- License:
+          - License:
+              - huong-dan-active-license-adobe.md
                 #- Địa chỉ IP:
       - Domain/DNS:
           - DNS:
