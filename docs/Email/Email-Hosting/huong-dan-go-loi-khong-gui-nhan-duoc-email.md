@@ -19,9 +19,9 @@ categories:
 
 ## 1. Bạn đang gửi/nhận email bằng công cụ gì?
 
-Nếu đang sử dụng **Outlook** (hoặc các phần mềm bên thứ ba tương tự Outlook), vui lòng đọc tiếp **mục 2**.
+Nếu đang sử dụng **Outlook** (hoặc các phần mềm bên thứ ba tương tự Outlook), vui lòng đọc tiếp **[mục 2](#2-kiểm-tra-đăng-nhập)**.
 
-Nếu đã **đăng nhập WebMail thành công**, vui lòng chuyển thẳng đến bước ...
+Nếu đã **đăng nhập WebMail thành công**, vui lòng chuyển thẳng đến **[mục 3](#3-kiểm-tra-khả-năng-gửi-nhận)**.
 
 ## 2. Kiểm tra đăng nhập
 
@@ -56,7 +56,7 @@ Cụ thể, địa chỉ email của tôi là info@khanhtq.id.vn, nên liên k�
 <br>
 _**Lưu ý:** Tên đăng nhập KHÔNG có dạng địa chỉ email!_
 
-## 3. Kiểm tra khả năng gửi/nhận
+## 3. Kiểm tra khả năng gửi, nhận
 
 Qua các bước trên, bạn đã đăng nhập WebMail thành công.<br>
 Bạn gần như đã sẵn sàng để gửi/nhận email rồi! 🎉
