@@ -406,8 +406,8 @@ nav:
               - Kiểm Tra Và Thay Đổi PHP Version Trên Hosting Cpanel: kiem-tra-va-thay-doi-php-version-tren-hosting-cpanel.md
               - Hướng dẫn sử lý lỗi Apache status missing in cPanel WHM: apache-status-missing-in-cpanel-whm.md
           - License:
-              - huong-dan-active-license-adobe.md
-                #- Địa chỉ IP:
+              - huong-dan-active-licence-adobe.md
+                #- Địa chỉ IP :
       - Domain/DNS:
           - DNS:
               - Hướng dẫn Flush DNS trên các hệ điều hành phổ biến: huong-dan-flush-dns-tren-cac-he-dieu-hanh-pho-bien.md
