@@ -1,5 +1,5 @@
 ---
-title: "Email Hosting - Hướng dẫn gỡ lỗi không gửi/nhận được email"
+title: "Hướng dẫn gỡ lỗi không gửi/nhận được email"
 date: "2024-12-27"
 categories:
   - "email-hosting"
