@@ -40,7 +40,7 @@ Cụ thể, địa chỉ email của tôi là info@khanhtq.id.vn, nên liên k�
 
 Nếu truy cập liên kết trên không hiển thị trang đăng nhập WebMail như ảnh dưới đây, địa chỉ IP đã bị chặn.
 
-![Giao diện đăng nhập WebMail](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-01.jpg "Giao diện đăng nhập WebMail")
+![Giao diện đăng nhập WebMail](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-01.jpg "Giao diện đăng nhập WebMail")
 
 **Vui lòng truy cập https://ip.vinahost.vn/ và gửi lại địa chỉ IP cho phòng Kỹ thuật tại [support@vinahost.vn](mailto:support@vinahost.vn).**
 
@@ -48,7 +48,7 @@ Nếu truy cập liên kết trên không hiển thị trang đăng nhập WebMa
 
 Nếu địa chỉ IP của bạn không bị chặn, bạn có thể truy cập trang đăng nhập WebMail. Tuy nhiên, khi đăng nhập bạn gặp lỗi "The login is invalid" hoặc "Đăng nhập không hợp lệ", vui lòng kiểm tra lại **Địa chỉ Email** và **Mật khẩu**.
 
-![Đăng nhập WebMail không hợp lệ](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-02.jpg "Đăng nhập WebMail không hợp lệ")
+![Đăng nhập WebMail không hợp lệ](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-02.jpg "Đăng nhập WebMail không hợp lệ")
 
 Để thay đổi mật khẩu cho các địa chỉ email, vui lòng **đăng nhập cPanel** và thực hiện theo hướng dẫn tại [**đây**](https://kb.vinahost.vn/Email/huong-dan-nhan-thong-tin-dang-nhap-cpanel-va-tao-tai-khoan-email-tai-vinahost/#huong-dan-tao-xoa-sua-thong-tin-tren-tai-khoan-email).
 
@@ -68,7 +68,7 @@ Truy cập cPanel và kiểm tra khả năng gửi nhận như sau:
 - Đảm bảo tại phần **Email Deliverability Status** chỉ có duy nhất một vấn đề tồn tại:<br>
   _**Problems Exist (Reverse DNS)** - Điều này có nghĩa là tên miền của bạn chưa có bản ghi Reverse DNS cho email hosting. Tuy nhiên, xin đừng bận tâm vì nó không ảnh hưởng đến việc gửi, nhận email trong hosting của bạn._
 
-![Email Deliverability](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-03.jpg "Email Deliverability")
+![Email Deliverability](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-03.jpg "Email Deliverability")
 
 Trong trường hợp có các vấn đề khác cùng tồn tại:<br>
 _**Problems Exist (SPF, DKIM, Reverse DNS)** - SPF và DKIM là hai bản ghi bắt buộc cần có để gửi, nhận email. Vui lòng tạo/chỉnh sửa bản ghi SPF và DKIM theo hướng dẫn tại [đây](https://blog.vinahost.vn/cai-dat-record-dkim-va-spf/). Việc cập nhật bản ghi có thể mất từ vài phút đến vài tiếng, vui lòng kiên nhẫn._
@@ -77,9 +77,9 @@ Xin chúc mừng. Bạn đã có thể gửi, nhận email sau tất cả các b
 Hãy thử gửi và nhận email:
 
 - Gửi email đến Gmail cá nhân của bạn<br>
-  ![Gửi email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-04.jpg "Gửi email")
+  ![Gửi email](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-04.jpg "Gửi email")
 - Nhận email từ Gmail cá nhân của bạn<br>
-  ![Nhận email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-05.jpg "Nhận email")
+  ![Nhận email](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-05.jpg "Nhận email")
 
 Chúc bạn thực hiện **gỡ lỗi không gửi/nhận được email** thành công! 🍻
 

@@ -352,6 +352,7 @@ nav:
               - Hướng Dẫn Thêm Ổ Cứng Mới Trên Proxmox Để Backup: them-o-cung-moi-tren-proxmox-de-backup.md
       - Dịch vụ Email:
           - Email Hosting:
+              - Email Hosting - Hướng dẫn gỡ lỗi không gửi/nhận được email: Email/Email-Hosting/huong-dan-go-loi-khong-gui-nhan-duoc-email.md
               - Hướng Dẫn Cài đặt Email Trên Máy Mac: huong-dan-cai-dat-email-tren-may-mac.md
               - Hướng Dẫn Export Mailing List cPanel: huong-dan-export-mailing-list-cpanel.md
               - Hướng Dẫn Setup Mail Trên Outlook Thông Qua Control Panel: setup-mail-tren-outlook-thong-qua-control-panel.md
