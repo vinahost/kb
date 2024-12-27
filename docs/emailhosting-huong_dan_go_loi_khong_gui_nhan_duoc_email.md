@@ -77,9 +77,9 @@ Xin chúc mừng. Bạn đã có thể gửi, nhận email sau tất cả các b
 Hãy thử gửi và nhận email:
 
 - Gửi email đến Gmail cá nhân của bạn<br>
-  ![Gửi email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-05.jpg "Gửi email")
+  ![Gửi email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-04.jpg "Gửi email")
 - Nhận email từ Gmail cá nhân của bạn<br>
-  ![Nhận email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-06.jpg "Nhận email")
+  ![Nhận email](./images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-05.jpg "Nhận email")
 
 Chúc bạn thực hiện **gỡ lỗi không gửi/nhận được email** thành công! 🍻
 
