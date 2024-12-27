@@ -19,9 +19,9 @@ categories:
 
 ## 1. Bạn đang gửi/nhận email bằng công cụ gì?
 
-Nếu đang sử dụng **Outlook** (hoặc các phần mềm bên thứ ba tương tự Outlook), vui lòng đọc tiếp **[mục 2](#2-kiểm-tra-đăng-nhập)**.
+Nếu đang sử dụng **Outlook** (hoặc các phần mềm bên thứ ba tương tự Outlook), vui lòng đọc tiếp **[mục 2](#2-kiem-tra-ang-nhap)**.
 
-Nếu đã **đăng nhập WebMail thành công**, vui lòng chuyển thẳng đến **[mục 3](#3-kiểm-tra-khả-năng-gửi-nhận)**.
+Nếu đã **đăng nhập WebMail thành công**, vui lòng chuyển thẳng đến **[mục 3](#3-kiem-tra-kha-nang-gui-nhan)**.
 
 ## 2. Kiểm tra đăng nhập
 
