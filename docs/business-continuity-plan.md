@@ -79,36 +79,64 @@ Legit third party software
 
 ##### Recovery Execution
 
-**Priority::1: Outage would have immediate impact on Vinahost customer/user operations
-1. Downtime servers:
-	Effect: Server downtime or hangout.
-	Handler: System Admin & Network / DC Admin
-	Solution(s):
-	1. Virtual Machine Baseline: 
-		- Migration to another Hypervisor.
-		- Restore virtual machine disk
-		- Deploy new machine and restore from backup
-		- Take 2-6h  depend on disk size
-	1. Dedicate Server Baseline:
-		- Restore to Backup Dedicate node.
-		- Take 6-12h depend on size of data
-2.  Downtime of Datacenters:
-	Handler: Network / DC Admin
-	- No failover plan currently for normal virtualization and hosting service
-	- With critical service such as customer requirement, customer portal & payment, DR will be deploy. Restore and running on another Datacenter.
-3.  Software error or cyber attack:
-	Effect: Depend on attack
-	Handler: System Admin
-	Solution(s):
-	- We log and track any access that happens on any server in the fleet using log central. Monitoring system with prometheus & granfana. We can handler any access to system.
-	- Depend on DDoS volume, we coordinate with the ISP to handler attack.
-4. Unavailability of support staff:
-	- Effect: emergency response times are greater than intended
-	- Sollution(s): We having 3 chanel and support team 247. Customer can contact support@vinahost.vn, livechat.vinahost.vn or 19006046
-5. Non critical system:
-	- We will not use resource for recovery first. 
-	- Find out root cause.
+**Priority** Outage would have immediate impact on Vinahost customer/user operations
 
+1. Downtime servers:
+
+	Effect: Server downtime or hangout.
+
+	Handler: System Admin & Network / DC Admin
+
+	Solution(s):
+
+	1. Virtual Machine Baseline: 
+
+		- Migration to another Hypervisor.
+
+		- Restore virtual machine disk
+
+		- Deploy new machine and restore from backup
+
+		- Take 2-6h  depend on disk size
+
+	1. Dedicate Server Baseline:
+
+		- Restore to Backup Dedicate node.
+
+		- Take 6-12h depend on size of data
+
+2.  Downtime of Datacenters:
+
+	Handler: Network / DC Admin
+
+	- No failover plan currently for normal virtualization and hosting service
+
+	- With critical service such as customer requirement, customer portal & payment, DR will be deploy. Restore and running on another Datacenter.
+
+3.  Software error or cyber attack:
+
+	Effect: Depend on attack
+
+	Handler: System Admin
+
+	Solution(s):
+
+	- We log and track any access that happens on any server in the fleet using log central. Monitoring system with prometheus & granfana. We can handler any access to system.
+
+	- Depend on DDoS volume, we coordinate with the ISP to handler attack.
+
+4. Unavailability of support staff:
+
+	- Effect: emergency response times are greater than intended
+
+	- Sollution(s): We having 3 chanel and support team 247. Customer can contact support@vinahost.vn, livechat.vinahost.vn or 19006046
+
+5. Non critical system:
+
+	- We will not use resource for recovery first. 
+
+	- Find out root cause.
+	
 ### **Analysis**
 
 #### Verify plan
