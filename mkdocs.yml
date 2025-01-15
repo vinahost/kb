@@ -318,7 +318,8 @@ nav:
           - Linux Hosting:
               - Hướng Dẫn Cài Đặt CS Cart Trên Hosting VinaHost: cai-dat-cs-cart-tren-hosting-vinahost.md
               - Hướng Dẫn Cài Đặt WordPress Lên Hosting cPanel: cai-dat-wordpress-len-hosting-cpanel.md
-              - Hướng dDẫn Triển Khai Java Webapp Lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
+              - Hướng Dẫn Triển Khai Java Webapp Lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
+              - Hướng Dẫn Sử Dụng JetBackup Trên Hosting Cpanel: shared-hosting/linux-hosting/huong-dan-su-dung-jetbackup-cpanel.md
                 #    - Reseller Hosting:
                 #    - WordPress Hosting:
                 #    - Databas Hosting:
