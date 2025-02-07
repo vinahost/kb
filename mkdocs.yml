@@ -361,6 +361,7 @@ nav:
               - Email/huong-dan-nhan-thong-tin-dang-nhap-cpanel-va-tao-tai-khoan-email-tai-vinahost.md
               - Email/huong-dan-cau-hinh-email-tren-outlook.md
               - Loi-roundcube-ket-noi-database.md
+              - Email/huong-dan-xoa-du-lieu-mail-cu-tu-dong-tren-cPanel.md
               - Hướng dẫn sử dụng Catch-All Email tại Vinahost: Email/huong-dan-su-dung-catch-all-email-tai-vinahost.md
                 #    - Email Relay:
           - Email Server:
@@ -465,6 +466,7 @@ nav:
           - Hướng dẫn dịch vụ SSL:
               - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
               - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
+              - huong-dan-chuyen-doi-chung-chi-SSL-sang-PFX.md
       - Minecraft:
           - Hướng dẫn sử dụng Minecraft:
               - minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
