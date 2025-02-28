@@ -367,6 +367,7 @@ nav:
           - Email Server:
               - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
               - Hướng dẫn cấu hình xác thực cổng 25 cho Zimbra: huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra.md
+              - huong-dan-tao-danh-sach-gui-mail-tren-mailcow.md
           - Email Marketing:
               - Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
               - Hướng dẫn đặt lịch trình gửi chiến dịch email marketing: huong-dan-len-lich-trinh-de-gui-email-marketing.md
@@ -438,6 +439,7 @@ nav:
               - Đổi Mật Khẩu WordPress Trong phpMyAdmin: doi-mat-khau-wordpress-trong-phpmyadmin.md
               - Hướng Dẫn Disable Plugin Wordpress Bằng PHPMyAdmin: huong-dan-disable-plugin-wordpress-bang-phpmyadmin.md
               - Backup WordPress bằng plugin All-in-One WPMigration: back-up-web-wordpress-bang-plugin-all-in-one-wpmigration.md
+              - huong-dan-login-va-reset-password-tai-khoan-admin-wordpress-tren-wp-toolkit-va-scan-website.md
               - Thủ Thuật Wordpress: thu-thuat-wordpress.md
                 #    - WordPress Security:
                 #    - WordPress Optimize:
