@@ -367,7 +367,7 @@ nav:
           - Email Server:
               - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
               - Hướng dẫn cấu hình xác thực cổng 25 cho Zimbra: huong-dan-cau-hinh-bao-mat-cho-port-25-tren-zimbra.md
-              - huong-dan-tao-danh-sach-gui-mail-tren-mailcow.md
+              - Email/huong-dan-tao-danh-sach-gui-mail-tren-mailcow.md
           - Email Marketing:
               - Export Và Import Danh Sách Email Marketing VinaHost: export-va-import-danh-sach-email-marketing-vinahost.md
               - Hướng dẫn đặt lịch trình gửi chiến dịch email marketing: huong-dan-len-lich-trinh-de-gui-email-marketing.md
