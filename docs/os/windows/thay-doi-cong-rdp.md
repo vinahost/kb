@@ -3,6 +3,9 @@ title: "Hướng dẫn thay đổi cổng RDP trên Windows"
 date: "2025-03-04"
 categories:
   - "vps"
+  - "server"
+  - "os"
+  - "windows"
 ---
 
 !!! info
