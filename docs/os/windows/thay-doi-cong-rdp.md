@@ -8,8 +8,8 @@ categories:
   - "windows"
 ---
 
-!!! info "Giới thiệu"
-    Bài viết này sẽ hướng dẫn bạn cách **thay đổi cổng RDP trên Windows**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
+!!! info "Liên hệ"
+    Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, hoặc gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
 
 
 ## Thay đổi cổng RDP trên Windows
