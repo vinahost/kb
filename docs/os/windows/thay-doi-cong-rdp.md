@@ -8,7 +8,7 @@ categories:
   - "windows"
 ---
 
-!!! info
+!!! info "Giới thiệu"
     Bài viết này sẽ hướng dẫn bạn cách **thay đổi cổng RDP trên Windows**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
 
 
@@ -58,7 +58,7 @@ categories:
         ```
 
         !!! warning "Lưu ý"
-            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
+            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn đã chỉ định tại bước 3.
 
 === "Sử dụng Registry Editor"
 
