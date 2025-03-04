@@ -46,7 +46,7 @@ categories:
         ```
 
         !!! warning "Lưu ý"
-            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
+            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn
 
     4.  **Tạo quy tắc tường lửa mới để cho phép Windows sử dụng cổng vừa chỉ định**
 
@@ -58,7 +58,7 @@ categories:
         ```
 
         !!! warning "Lưu ý"
-            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn đã chỉ định tại bước 3.
+            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn đã chỉ định tại **bước 3**
 
 === "Sử dụng Registry Editor"
 
