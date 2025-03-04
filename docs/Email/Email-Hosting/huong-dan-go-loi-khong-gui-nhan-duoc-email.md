@@ -5,11 +5,8 @@ categories:
   - "email-hosting"
 ---
 
-> Bài viết này sẽ hướng dẫn bạn cách **gỡ lỗi không gửi/nhận được email** khi sử dụng dịch vụ Email Hosting. Nếu bạn cần hỗ trợ, xin vui lòng:
->
-> - Liên hệ qua **hotline 1900 6046 ext. 3**
-> - Gửi email về địa chỉ [**support@vinahost.vn**](mailto:support@vinahost.vn)
-> - Hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php)
+!!! info
+    Bài viết này sẽ hướng dẫn bạn cách **gỡ lỗi không gửi/nhận được email** khi sử dụng dịch vụ Email Hosting. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
 
 **Trước khi vào nội dung chính, mong bạn lưu ý rằng:**
 
@@ -17,11 +14,13 @@ categories:
 - VinaHost chỉ đảm bảo hoạt động của WebMail. Việc gửi và nhận thành công trên WebMail có nghĩa là hệ thống đang hoạt động đúng.
 - Outlook hay bất kỳ phần mềm email nào khác đều là phần mềm bên thứ ba.<br>_VinaHost không có trách nhiệm đối với các phần mềm này. Vui lòng chủ động kiểm tra lại cấu hình Outlook theo hướng dẫn tại [đây](https://kb.vinahost.vn/Email/huong-dan-cau-hinh-email-tren-outlook/)._
 
+
 ## 1. Bạn đang gửi/nhận email bằng công cụ gì?
 
 Nếu đang sử dụng **Outlook** (hoặc các phần mềm bên thứ ba tương tự Outlook), vui lòng đọc tiếp **[mục 2](#2-kiem-tra-ang-nhap)**.
 
 Nếu đã **đăng nhập WebMail thành công**, vui lòng chuyển thẳng đến **[mục 3](#3-kiem-tra-kha-nang-gui-nhan)**.
+
 
 ## 2. Kiểm tra đăng nhập
 
@@ -56,6 +55,7 @@ Cụ thể, địa chỉ email của tôi là info@khanhtq.id.vn, nên liên k�
 <br>
 _**Lưu ý:** Tên đăng nhập KHÔNG có dạng địa chỉ email!_
 
+
 ## 3. Kiểm tra khả năng gửi, nhận
 
 Qua các bước trên, bạn đã đăng nhập WebMail thành công.<br>
@@ -81,6 +81,17 @@ Hãy thử gửi và nhận email:
 - Nhận email từ Gmail cá nhân của bạn<br>
   ![Nhận email](../../images/emailhosting-huong_dan_go_loi_khong_gui_nhan_duoc_email-05.jpg "Nhận email")
 
-Chúc bạn thực hiện **gỡ lỗi không gửi/nhận được email** thành công! 🍻
 
-> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)** <br> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) **–** [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep) <br> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**<br> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)** <br> **\>> [EMAIL](https://vinahost.vn/email-hosting)** <br> **\>> [WEBSITE](http://vinawebsite.vn/)** <br> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
+## Kết luận
+
+Như vậy là VinaHost đã hướng dẫn bạn cách để **gỡ lỗi không gửi/nhận được email**. Chúc bạn thực hiện thành công! 🍻
+
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+>
+> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**<br>
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**<br>
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**<br>
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**<br>
+> **\>> [WEBSITE](http://vinawebsite.vn/)**<br>
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
