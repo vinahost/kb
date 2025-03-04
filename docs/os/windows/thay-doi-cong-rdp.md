@@ -12,82 +12,81 @@ categories:
     Bài viết này sẽ hướng dẫn bạn cách **thay đổi cổng RDP trên Windows**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
 
 
-## Cách 1. Sử dụng Powershell
+## Thay đổi cổng RDP trên Windows
 
-1.  **Mở Powershell với quyền quản trị viên**
+=== "Sử dụng Powershell"
 
-    ![Mở Powershell](../../images/windows-thay_doi_cong_rdp-01.jpg)
+    1.  **Mở Powershell với quyền quản trị viên**
 
-2.  **Kiểm tra cổng RDP đang dùng**
+        ![Mở Powershell](../../images/windows-thay_doi_cong_rdp-01.jpg)
 
-    Sao chép và dán lệnh sau vào Powershell, sau đó nhấn Enter để chạy:
+    2. **Kiểm tra cổng RDP đang dùng**
 
-    ```powershell
-    Get-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber"
-    ```
+        Sao chép và dán lệnh sau vào Powershell, sau đó nhấn Enter để chạy:
 
-    Đầu ra của Powershell chứa số cổng đang dùng:
+        ```powershell
+        Get-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber"
+        ```
 
-    ```powershell
-    PortNumber   : 3389
-    ```
+        Đầu ra của Powershell chứa số cổng đang dùng:
 
-    !!! info "Thông tin thêm"
-        3389 là cổng Windows RDP mặc định
+        ```powershell
+        PortNumber   : 3389
+        ```
 
-3.  **Thay đổi cổng RDP**
+        !!! info "Thông tin thêm"
+            3389 là cổng Windows RDP mặc định
 
-    Chạy lệnh sau trong Powershell:
+    3. **Thay đổi cổng RDP**
 
-    ```powershell
-    Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber" -Value <port>
-    ```
+        Chạy lệnh sau trong Powershell:
 
-    !!! warning "Lưu ý"
-        Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
+        ```powershell title="Powershell"
+        Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber" -Value <port>
+        ```
 
-4.  **Tạo quy tắc tường lửa mới để cho phép Windows sử dụng cổng vừa chỉ định**
+        !!! warning "Lưu ý"
+            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
 
-    Chạy lần lượt 2 lệnh sau trong Powershell:
+    4.  **Tạo quy tắc tường lửa mới để cho phép Windows sử dụng cổng vừa chỉ định**
 
-    ```powershell
-    New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol TCP -LocalPort <port>
+        Chạy lần lượt 2 lệnh sau trong Powershell:
 
-    New-NetFirewallRule -DisplayName 'RDPPORTLatest-UDP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol UDP -LocalPort <port>
-    ```
+        ```powershell title="Powershell" linenums="1"
+        New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol TCP -LocalPort <port>
+        New-NetFirewallRule -DisplayName 'RDPPORTLatest-UDP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol UDP -LocalPort <port>
+        ```
 
-    !!! warning "Lưu ý"
-        Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
+        !!! warning "Lưu ý"
+            Thay `<port>` ở cuối lệnh trên bằng số cổng mà bạn muốn.
 
+=== "Sử dụng Registry Editor"
 
-## Cách 2: Sử dụng Registry Editor
+    1. **Mở Registry Editor với quyền quản trị viên**
 
-1. **Mở Registry Editor với quyền quản trị viên**
+        ![Mở Registry Editor](../../images/windows-thay_doi_cong_rdp-02.jpg)
 
-    ![Mở Registry Editor](../../images/windows-thay_doi_cong_rdp-02.jpg)
+    2. **Điều hướng đến khoá registry cần sửa**
 
-2. **Điều hướng đến khoá registry cần sửa**
+        Nhập chuỗi dưới đây vào thanh điều hướng rồi nhấn Enter:
 
-    Nhập chuỗi sau vào thanh điều hướng rồi nhấn Enter:
+        ```
+        HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp
+        ```
 
-    ```
-    HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp
-    ```
+        ![Điều hướng đến khoá registry cần sửa](../../images/windows-thay_doi_cong_rdp-03.jpg)
+        
+    3. **Sửa khoá registry**
 
-    ![Điều hướng đến khoá registry cần sửa](../../images/windows-thay_doi_cong_rdp-03.jpg)
+        Khoá registry có tên **PortNumber** quy định số cổng RDP. Nhấp đôi chuột vào khoá này, chọn **Decimal** để hiện số cổng dạng thập phân.
 
-3. **Sửa khoá registry**
+        ![Hiện giá trị khoá registry dạng thập phân](../../images/windows-thay_doi_cong_rdp-04.jpg)
 
-    Khoá registry có tên **PortNumber** quy định số cổng RDP. Nhấp đôi chuột vào khoá này, chọn **Decimal** để hiện số cổng dạng thập phân.
+        Nhập số cổng mong muốn vào trường **Value data**, nhấn **OK** để thay đổi.
 
-    ![Hiện giá trị khoá registry dạng thập phân](../../images/windows-thay_doi_cong_rdp-04.jpg)
+        ![Sửa giá trị khoá registry](../../images/windows-thay_doi_cong_rdp-05.jpg)
 
-    Nhập số cổng mong muốn vào trường **Value data**, nhấn **OK** để thay đổi.
-
-    ![Sửa giá trị khoá registry](../../images/windows-thay_doi_cong_rdp-05.jpg)
-
-4. **Khởi động lại Windows để áp dụng thay đổi**
-
+    4. **Khởi động lại Windows để áp dụng thay đổi**
 
 ## Kết luận
 
