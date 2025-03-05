@@ -4,7 +4,7 @@
 	Bài viết này sẽ hướng dẫn bạn một số thao tác cơ bản của dịch vụ **email marketing**  
 	Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat [https://livechat.vinahost.vn](https://livechat.vinahost.vn)
 
-**A. NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
+# **A. NHẬP, THÊM MỘT DANH SÁCH EMAIL VÀO DỊCH VỤ**
 
 Sau khi đăng nhập vào trang web dịch vụ, Quý khách chọn vào **View all lists**
 
@@ -117,7 +117,7 @@ Quý khách bấm vào tên khách hàng để xem hồ sơ, trường tùy ch�
 
 ![](./images/Picture24.png)
 
-**B. TẠO MỘT CHIẾN DỊCH GỬI MAIL**
+# **B. TẠO MỘT CHIẾN DỊCH GỬI MAIL**
 
 ## **1. Tạo 1 chiến dịch email mới bằng HTML code**
 
@@ -171,7 +171,7 @@ Các bước còn lại để gửi mail, Quý khách xem lại mục 1.
 
 ![](./images/Picture35.png)
 
-**C. LÊN LỊCH GỬI MAIL CHO CHIẾN DỊCH EMAIL MARKETING**
+# **C. LÊN LỊCH GỬI MAIL CHO CHIẾN DỊCH EMAIL MARKETING**
 
 Quý khách chọn vào **Edit** để chỉnh sửa chiến dịch email
 

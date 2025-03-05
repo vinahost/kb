@@ -14,10 +14,10 @@ Bài viết hôm nay mĩnh sẽ hướng dẫn các bạn cách cấu hình Rout
 
 ## Các bước thực hiện
 
-**Bước 1: Truy cập vào giao diện quản trị  Apps > Google Workspace  > Gmail**
+## **Bước 1: Truy cập vào giao diện quản trị  Apps > Google Workspace  > Gmail**
 
 ![](images/hybrid-b1.png)
-**Bước 2: Trong phần Seting for Gmail chọn Host để sử dụng định tuyến nâng cao dành cho Hybrid**
+## **Bước 2: Trong phần Seting for Gmail chọn Host để sử dụng định tuyến nâng cao dành cho Hybrid**
 
 ![](images/hybrid-b2.png)
 
@@ -48,7 +48,7 @@ Ví dụ: trong bảng Primary Host, nếu đã thêm hai máy chủ, hãy nhậ
 Sau cùng ở cuối hộp thoại ***Add Route*** chọn ***Save***
 
 
-**Bước 3: Cấu hình Routing cho hybrid Email tại Google Workspace về Email Hosting**
+## **Bước 3: Cấu hình Routing cho hybrid Email tại Google Workspace về Email Hosting**
 
 Sau khi hoàn thành ở bước 2, các bạn sẽ cần tiếp tục cấu hình Routing cho email về Email Hosting.
 
