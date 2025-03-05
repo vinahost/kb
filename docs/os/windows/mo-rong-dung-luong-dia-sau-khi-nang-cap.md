@@ -50,13 +50,13 @@ Sau khi nâng cấp dung lượng lưu trữ cho VPS, thực hiện các b
 
         ![Disk Management](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-02.jpg)
 
-    2. Xác định volume có thể mở rộng
+    2. **Xác định volume có thể mở rộng**
     
         ![Unallocated space](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-03.jpg)
 
         Trong ảnh trên, chỉ có một phần dung lượng trống nằm liền kề bên phải của volume **D:**. Do đó, đây cũng là volume duy nhất có thể được mở rộng trong trường hợp này.
 
-    3. Mở rộng volume
+    3. **Mở rộng volume**
 
         Chọn volume cần mở rộng (D:), sau đó chọn **Action > All Tasks > Extend Volume...**.
 
