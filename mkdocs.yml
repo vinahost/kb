@@ -202,6 +202,10 @@ plugins:
   - search
   - git-revision-date-localized:
       locale: en
+      timezone: Asia/Ho_Chi_Minh
+      fallback_to_build_date: true
+      enable_creation_date: true
+      enable_git_follow: true
   - exclude:
       glob:
       # - integrations/builtin/*
