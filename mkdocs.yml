@@ -205,7 +205,7 @@ plugins:
       locale: en               # Localization: zh zh_tw en es fr de ar ja ko ru, default: en
       date_format: '%Y-%m-%d'  # Date format
       time_format: '%H:%M:%S'  # Time format (valid only if type=datetime)
-      position: top         # Display position: top (after title) | bottom (end of document), default: bottom
+      position: bottom         # Display position: top (after title) | bottom (end of document), default: bottom
   - exclude:
       glob:
       # - integrations/builtin/*
