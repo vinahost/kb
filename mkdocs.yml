@@ -200,6 +200,7 @@ plugins:
   # - info
   # Search is built in, but must be enabled when you add other plugins
   - search
+  - git-revision-date-localized
   - exclude:
       glob:
       # - integrations/builtin/*
