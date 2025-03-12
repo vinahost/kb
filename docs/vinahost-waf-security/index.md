@@ -1,12 +1,12 @@
 # VinaHost WAF Security
 
-# Thách thức bảo mật ứng dụng
+## Thách thức bảo mật ứng dụng
 
 > Các ứng dụng đang ngày càng trở nên quan trọng đối với doanh nghiệp, đó là lý do tại sao chúng liên tục bị nhắm mục tiêu bởi các tin tặc, dẫn đến gia tăng các mối lo ngại về bảo mật tổ chức. Những mối lo ngại này đa dạng từ việc duy trì bảo vệ trước các lỗ hổng 0-day mới xuất hiện, phát hiện các nỗ lực né tránh, giảm thiểu rủi ro tấn công nhồi thông tin đăng nhập dẫn đến chiếm đoạt tài khoản, phát hiện mất dữ liệu, thậm chí quét phát hiện việc tải lên phần mềm độc hại vào ứng dụng.
 
 > Những mối lo ngại này đi kèm với nhu cầu đảm bảo rằng các biện pháp bảo vệ ứng dụng là một phần của tư thế bảo mật thống nhất, rộng lớn hơn ngăn chặn bot, mà còn giảm thiểu các rủi ro phía máy khách. Tất cả những điều này phải diễn ra đồng thời mà không gây ra gánh nặng quản lý quá mức cho các đội ngũ.
 
-# Key Points
+## Key Points
 
 * VinaHost WAF là một tường lửa ứng dụng web tự lưu trữ, được thiết kế để bảo vệ ứng dụng web khỏi các cuộc tấn công mạng như SQL injection, XSS, và nhiều mối đe dọa khác.
 * Sản phẩm này có các tính năng như phát hiện mối đe dọa tiên tiến, giới hạn tốc độ, và hỗ trợ quản lý qua giao diện web.
@@ -15,13 +15,13 @@
 
 ---
 
-# Tổng Quan Về VinaHost WAF
+## Tổng Quan Về VinaHost WAF
 
 VinaHost WAF là một giải pháp tường lửa ứng dụng web (WAF) tự lưu trữ, được phát triển để bảo vệ các ứng dụng web khỏi một loạt các mối đe dọa mạng. Sản phẩm mang lại sự bảo vệ mạnh mẽ chống lại các cuộc tấn công như SQL injection, Cross-Site Scripting (XSS), và nhiều loại khai thác khác.
 
 Nó hoạt động như một proxy ngược, lọc và giám sát lưu lượng HTTP giữa ứng dụng web và Internet, đảm bảo rằng chỉ lưu lượng an toàn được chuyển tiếp. Đây là một lựa chọn lý tưởng cho các doanh nghiệp muốn kiểm soát hoàn toàn dữ liệu và cài đặt bảo mật của mình.
 
-# Tính Năng Chính
+## Tính Năng Chính
 
 VinaHost WAF cung cấp một loạt các tính năng tiên tiến, bao gồm:
 
@@ -37,7 +37,7 @@ VinaHost WAF cung cấp một loạt các tính năng tiên tiến, bao gồm:
 * **Giới hạn dựa trên IP:** Kiểm soát lưu lượng từ các địa chỉ IP cụ thể để ngăn chặn lạm dụng.
 * **Danh sách kiểm soát truy cập web (ACL):** Cho phép hoặc từ chối truy cập dựa trên địa chỉ IP hoặc tiêu chí khác.
 
-# Tùy Chọn Triển Khai
+## Tùy Chọn Triển Khai
 
 VinaHost WAF có thể được triển khai dễ dàng
 
@@ -52,20 +52,19 @@ VinaHost WAF có thể được triển khai dễ dàng
 * **Số lượng WAF node:** 15
 * **Số lượng DataCenter**: 3
 
-# Hỗ Trợ và Giá Cả
+## Hỗ Trợ và Giá Cả
 
 VinaHost cung cấp tài liệu toàn diện để hỗ trợ cài đặt, cấu hình, và khắc phục sự cố. Hỗ trợ khách hàng có sẵn qua email, trò chuyện, và các kênh khác. Về giá cả, VinaHost WAF có các phiên bản khác nhau, từ cơ bản đến nâng cao, phù hợp với nhu cầu bảo mật của bạn. Vui lòng liên hệ đội ngũ bán hàng để biết chi tiết giá cả và lựa chọn phù hợp.
 
-# Thông Tin Liên Hệ
+## Thông Tin Liên Hệ
 
-Để biết thêm thông tin hoặc yêu cầu bản demo, vui lòng liên hệ đội ngũ của chúng tôi tại [support@vinahost.](mailto:sales@vinahost.com)vn hoặc truy cập website tại [www.vinahost.](http://www.vinahost.com)vn.
-
+Để biết thêm thông tin hoặc yêu cầu bản demo, vui lòng liên hệ đội ngũ của chúng tôi tại [support@vinahost.vn](mailto:sales@vinahost.vn) hoặc truy cập website tại [www.vinahost.vn](http://vinahost.vn).
 
 ---
 
-# Ghi Chú Chi Tiết Về VinaHost WAF
+## Ghi Chú Chi Tiết Về VinaHost WAF
 
-# Phân Tích Tính Năng
+### Phân Tích Tính Năng
 
 Dưới đây là bảng tổng hợp các tính năng chính, được trích xuất từ tài liệu:
 
@@ -80,7 +79,7 @@ Dưới đây là bảng tổng hợp các tính năng chính, được trích x
 
 Bảng trên phản ánh các tính năng cốt lõi, được điều chỉnh để phù hợp với nhu cầu của VinaHost, đảm bảo rằng sản phẩm cung cấp khả năng bảo mật toàn diện.
 
-# Kết quả kiểm thử
+### Kết quả kiểm thử
 
 Kết quả test từ WAFER (Cloudbrics):
 
@@ -90,7 +89,7 @@ Kết quả test từ WAFER (Cloudbrics):
 
  ![Kết quả Dương tính giả và khả năng chặn với site Wordpress](attachments/90c49c32-df74-4b3a-8998-f03c1d99d824.png)
 
-# So sánh với các WAF phổ biến hiện nay
+### So sánh với các WAF phổ biến hiện nay
 
 | Đặc điểm | VinaHost WAF | Cloudflare | Mod Security |
 |----|----|----|----|
@@ -108,7 +107,7 @@ Kết quả test từ WAFER (Cloudbrics):
 | **Cộng đồng/Hỗ trợ** | Hỗ trợ kỹ thuật 24/7 | Ít hỗ trợ nhưng cộng đồng lớn | Cộng đồng mạnh, sắp EOL (2024) |
 
 
-# Giao diện
+### Giao diện
 
 Giao diện đơn giản, không phức tạp:
 
@@ -118,8 +117,22 @@ Giao diện đơn giản, không phức tạp:
 
  ![Custom Rule](attachments/7d5cfc3f-0cf3-49c6-b20a-20fac47a6603.png)
 
-# Kết Luận
+## Kết Luận
 
 Sản phẩm này cung cấp một giải pháp bảo mật toàn diện, dễ triển khai, và hỗ trợ mạnh mẽ, đáp ứng nhu cầu của các doanh nghiệp trong việc bảo vệ ứng dụng web.
 
-###
+> **THAM KHẢO CÁC DỊCH VỤ TẠI VINAHOST:**
+> 
+> **\>>** [**SERVER**](https://vinahost.vn/server.php) **-** [**COLOCATION**](https://vinahost.vn/colocation.html) - [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server.html) - [VPS](https://vinahost.vn/vps.html)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting.html)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/bang-gia-ten-mien.html)**
+> 
+> **\>>** [**SSL**](https://vinahost.vn/geotrust-ssl.html)
