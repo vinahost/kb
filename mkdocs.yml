@@ -200,7 +200,7 @@ plugins:
   # - info
   # Search is built in, but must be enabled when you add other plugins
   - search
-  - document-dates
+  - document-dates:
       type: date               # Date type: date | datetime | timeago, default: date
       locale: en               # Localization: zh zh_tw en es fr de ar ja ko ru, default: en
       date_format: '%Y-%m-%d'  # Date format
