@@ -12,7 +12,7 @@ Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được
 
 ### Ta tiến hành chuẩn bị các bước đầu tiên để đăng nhập n8n
 
-* Truy cập và đường dẫn truy cập được gửi trong email: **https://103.9.77.21:5678**
+1. Truy cập và đường dẫn truy cập được gửi trong email: **https://103.9.77.21:5678**
 * Ta thực điền các thông tin cơ bản cho chủ tài khoản → **Next**
 
  ![](attachments/4eae4167-4420-4c8a-93cd-d921b465f016.png " =596x483")
