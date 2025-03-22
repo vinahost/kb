@@ -1,4 +1,7 @@
-# Hướng dẫn tạo tài khoản và Login n8n
+Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
+Bài viết này sẽ hướng dẫn quý khách việc thực hiện tạo tài khoản và Login N8N
+
+# Hướng dẫn tạo tài khoản và Login N8N
 
 Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được gửi thông tin đăng nhập về địa chỉ email đăng kí dịch vụ
 
@@ -91,6 +94,20 @@ Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được
 
  ![](attachments/b3df8288-ac01-4dd5-b33b-0e43576eee78.png " =739.5x475.5")
  ![22](https://github.com/user-attachments/assets/22a9810b-9d9d-4377-9138-2973c57e53d7)
+
+ THAM KTHAM KHẢO CÁC DỊCH VỤ TẠI VINAHOST
+>> SERVER – COLOCATION – CDN
+>> CLOUD – VPS
+>> HOSTING
+>> EMAIL
+>> WEBSITE
+>> TÊN MIỀNHẢO CÁC DỊCH VỤ TẠI VINAHOST
+>> SERVER – COLOCATION – CDN
+>> CLOUD – VPS
+>> HOSTING
+>> EMAIL
+>> WEBSITE
+>> TÊN MIỀN
 
 
 
