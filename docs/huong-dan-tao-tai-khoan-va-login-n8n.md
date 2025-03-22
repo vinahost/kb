@@ -1,3 +1,4 @@
+
 Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
 
@@ -95,19 +96,20 @@ Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được
  ![](attachments/b3df8288-ac01-4dd5-b33b-0e43576eee78.png " =739.5x475.5")
  ![22](https://github.com/user-attachments/assets/22a9810b-9d9d-4377-9138-2973c57e53d7)
 
- THAM KTHAM KHẢO CÁC DỊCH VỤ TẠI VINAHOST
->> SERVER – COLOCATION – CDN
->> CLOUD – VPS
->> HOSTING
->> EMAIL
->> WEBSITE
->> TÊN MIỀNHẢO CÁC DỊCH VỤ TẠI VINAHOST
->> SERVER – COLOCATION – CDN
->> CLOUD – VPS
->> HOSTING
->> EMAIL
->> WEBSITE
->> TÊN MIỀN
+
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+
+> **\>>** [**SERVER**](https://vinahost.vn/thue-may-chu-rieng/) **–** [**COLOCATION**](https://vinahost.vn/colocation.html) – [**CDN**](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)
+> 
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**
+> 
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**
+> 
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**
+> 
+> **\>> [WEBSITE](http://vinawebsite.vn/)**
+> 
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
 
 
 
