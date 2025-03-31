@@ -43,23 +43,23 @@ Tại góc phải trên trong Outlook (new), chọn **Thiết đặt** :octicons
 Nhập tài khoản bạn cần thêm vào hộp thoại hiện lên.
 ![Nhập tài khoản](../../images/emailhosting-cau_hinh_outlook_new-05.jpg "Nhập tài khoản")
 
-Tiếp theo, chọn IMAP.
+Tiếp theo, chọn **IMAP**.
 ![Chọn IMAP](../../images/emailhosting-cau_hinh_outlook_new-06.jpg "Chọn IMAP")
 
-Điền các thông tin đã lấy tại bước 1.
+Điền các thông tin đã lấy tại **bước 1.1**.
 ![Điền thông tin](../../images/emailhosting-cau_hinh_outlook_new-07.jpg "Điền thông tin") 
 
 !!! tip "Mẹo"
-    Bạn có thể để trống Mật khẩu SMTP do nó trùng với mật khẩu IMAP đã nhập trên cùng.
+    Bạn có thể để trống **Mật khẩu SMTP** do nó trùng với mật khẩu IMAP đã nhập trên cùng.
 
-Chọn Tiếp tục tại bước tiếp theo để đồng bộ hoá dữ liệu.
+Chọn **Tiếp tục** tại bước tiếp theo để đồng bộ hoá dữ liệu.
 ![Tiếp tục](../../images/emailhosting-cau_hinh_outlook_new-08.jpg "Tiếp tục")
 
 Nếu các thông tin đều đã đúng, thông báo thêm tài khoản thành công sẽ xuất hiện.
 ![Thông báo thêm tài khoản thành công](../../images/emailhosting-cau_hinh_outlook_new-09.jpg "Thông báo thêm tài khoản thành công")
 
 !!! tip "Mẹo"
-    Nếu bạn chắc chắn rằng mọi thông tin đã đúng nhưng vẫn không thể thêm được tài khoản, vui lòng truy cập https://ip.vinahost.vn/ và gửi IP trên màn hình cho phòng Kỹ thuật tại [support@vinahost.vn](mailto:support@vinahost.vn).
+    Nếu bạn chắc chắn rằng mọi thông tin đã đúng nhưng vẫn không thể thêm được tài khoản, vui lòng lấy IP [tại đây](https://ip.vinahost.vn/) và gửi đến [support@vinahost.vn](mailto:support@vinahost.vn) để được hỗ trợ kiểm tra.
 
 
 ## 2. Kết luận
