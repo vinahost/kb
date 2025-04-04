@@ -23,18 +23,18 @@ categories:
 
 ### 2. Tạo mật khẩu mạnh
 
-Truy cập https://www.avast.com/random-password-generator, chọn độ dài mật khẩu và các ký tự mong muốn.
+Truy cập [**trình tạo mật khẩu mạnh Avast**](https://www.avast.com/random-password-generator), chọn độ dài mật khẩu và các ký tự mong muốn.
 
 ![Tạo mật khẩu mạnh](images/thay_doi_mat_khau_vps_client_site-01.jpg)
 
 !!! warning "Lưu ý"
-    Đối với **Windows** trong một số trường hợp, ký tự đặc biệt khiến mật khẩu mới không thể được áp dụng (dù bảng điều khiển không báo lỗi). Để cho phép ký tự đặc biệt, truy cập **Group Policy Editor** > **Computer Configuration** > **Windows Settings** > **Security Settings** > **Account Policies** > **Password Policy** > đảm bảo **Password must meet complexity requirements** đang được bật (Enabled).
-
-![Cho phép ký tự đặc biệt](images/thay_doi_mat_khau_vps_client_site-03.jpg)
+    Đối với **Windows** trong một số trường hợp, ký tự đặc biệt khiến mật khẩu mới không thể được áp dụng (dù bảng điều khiển không báo lỗi).
+    Để cho phép ký tự đặc biệt, truy cập **Group Policy Editor** > **Computer Configuration** > **Windows Settings** > **Security Settings** > **Account Policies** > **Password Policy** > đảm bảo **Password must meet complexity requirements** đang được bật (Enabled).
+    ![Cho phép ký tự đặc biệt](images/thay_doi_mat_khau_vps_client_site-03.jpg)
 
 !!! info "Thông tin thêm"
     - Bạn hoàn toàn có thể sử dụng công cụ tạo mật khẩu mạnh khác.
-    - Không phải mọi ký tự đặc biệt đều được cho phép kể cả khi bật **Password must meet complexity requirements** trong Windows.
+    - Không phải mọi ký tự đặc biệt đều được cho phép kể cả khi đã bật **Password must meet complexity requirements** trong Windows.
 
 
 ### 3. Thay đổi mật khẩu
