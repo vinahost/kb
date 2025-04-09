@@ -487,6 +487,11 @@ nav:
               - minecraft/huong-dan-upload-the-gioi-vao-server-minecraft-tai-vinahost.md
               - minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-tai-vinahost.md
               - minecraft/huong-dan-phan-quyen-cho-tai-khoan-phu-quan-ly-server-tai-vinahost.md
+      - N8N:
+          - Hướng dẫn sử dụng N8N:
+              - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
+              - Hướng dẫn tạo tài khoản N8N trên Hosting: tao-N8N-tren-hosting.md
+              - Hướng dẫn kết nối telegram với N8N hosting: ket-noi-telegram-voi-n8n.md
       - Chủ Đề Khác:
           - Chủ đề khác:
               - vinahost-waf-security/index.md
@@ -504,6 +509,4 @@ nav:
               - Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS: mot-so-lenh-co-ban-kiem-tra-server-khi-bi-ddos.md
               - Linux Hosting - Hướng dẫn upload source code, database của website: linux-hosting-hd-upload-source-db-website.md
               - Windows Hosting - Hướng dẫn upload source code, database của website: windows-hosting-hd-upload-source-db-website.md
-              - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
-              - Hướng dẫn tạo tài khoản N8N trên Hosting: tao-N8N-tren-hosting.md
-              - Hướng dẫn kết nối telegram với N8N hosting: ket-noi-telegram-voi-n8n.md
+
