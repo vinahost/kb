@@ -7,21 +7,28 @@
 *Khi quý khách đăng kí dịch vụ Hosting N8N tại VinaHost quý khách sẽ được cung cấp thông tin đăng nhập quản trị thông qua giao diện cPanel* 
 
 **B2**: Ta vào thanh tìm kiếm tìm **N8N Manager**  
-![image](https://github.com/user-attachments/assets/9955a9bc-5e62-46f1-8c77-3966d84d90a9)
+![image](https://github.com/user-attachments/assets/8b312aec-c35c-4b91-9f36-809d9808cec1)
+
 
 **B3**: Ta tạo mới một Site N8N, chọn **Create new N8N application**  
-![image](https://github.com/user-attachments/assets/07963476-0e16-47f8-8e94-083b4b93ef32)
+![image](https://github.com/user-attachments/assets/84dce398-1a0f-4154-88ce-458b8edd47ff)
+
 
 **B4**: Ta chọn tên miền truy cập N8N (bạn cần trỏ tên miền về địa chỉ IP hosting nhé), application URL để mặc định -> Create  
-![image](https://github.com/user-attachments/assets/0d8b8045-d297-4382-b5a4-a7384eb3bae0)
-![image](https://github.com/user-attachments/assets/71d0bc5f-2ef7-4528-8655-adf0206f50db)    
+![image](https://github.com/user-attachments/assets/b9d90b72-bb95-43c8-acb1-b89b783fc8d6)
+
+![image](https://github.com/user-attachments/assets/02d1fe3a-8318-48f0-8572-a2556953292d)
+ 
 Quá trình cài đặt sẽ tự động, chúng ta chỉ cần chờ để hoàn tất  
-![image](https://github.com/user-attachments/assets/1bdf4d3a-cfc8-48d5-be6b-a652a1d80ba8)  
+![image](https://github.com/user-attachments/assets/c05a1009-d178-40da-80f8-046e75809785)
+ 
 Sau khi hoàn tất ta ấn và App URL để truy cập đến N8N  
-![image](https://github.com/user-attachments/assets/88a0d6aa-40e7-410f-bea9-2e322179ab22)
+![image](https://github.com/user-attachments/assets/95b50308-5d07-4442-a33b-0f395ece0441)
+
 
 **B5**: Bạn đã hoàn tất cài đặt N8N trên hosting giờ bạn chỉ cần tạo tài khoản để sử dụng  
-![image](https://github.com/user-attachments/assets/63adfd35-6a15-4fd8-ba52-269807d24bcc)  
+![image](https://github.com/user-attachments/assets/2f8f0c55-4a08-48bb-9195-9d2ef915c787)
+ 
 
 
 
