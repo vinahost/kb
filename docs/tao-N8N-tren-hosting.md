@@ -1,7 +1,7 @@
 
-##Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
+## Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
-#Hướng dẫn cài đặt N8N trên Hosting tại VINAHOST  
+# Hướng dẫn cài đặt N8N trên Hosting tại VINAHOST  
 **B1**: Đăng nhập và Hosting  
 
 *Khi quý khách đăng kí dịch vụ Hosting N8N tại VinaHost quý khách sẽ được cung cấp thông tin đăng nhập quản trị thông qua giao diện cPanel* 
@@ -30,7 +30,7 @@ Sau khi hoàn tất ta ấn và App URL để truy cập đến N8N
 ![image](https://github.com/user-attachments/assets/2f8f0c55-4a08-48bb-9195-9d2ef915c787)
  
 
-
+## Chúc bạn thành công với những workflow của mình
 
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
