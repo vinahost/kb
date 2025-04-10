@@ -319,6 +319,9 @@ nav:
           - Vinahost CDN:
               - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
               - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
+              - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
+              - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
+              - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
