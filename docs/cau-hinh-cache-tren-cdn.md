@@ -35,6 +35,7 @@ Tại tab **Edit Configuration**, thực hiện các bước sau:
 
 ![image](https://github.com/user-attachments/assets/d3e95c9d-95a9-4a97-887d-b01bdc75d2c3)
 ![image](https://github.com/user-attachments/assets/4c9ce978-e8f4-4106-b09f-047f90740a4f)
+![image](https://github.com/user-attachments/assets/1e10745e-b40a-43ab-bfee-0b96c8400cfe)
 
 
 ---
