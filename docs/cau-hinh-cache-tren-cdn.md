@@ -1,7 +1,7 @@
 Bài viết này sẽ hướng dẫn cách tạo cấu hình cache CDN khi đăng kí dịch vụ tại VinaHost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 
 
-####Hướng Dẫn Cấu Hình Cache Cho Domain CDN Tại VINAHOST
+## Hướng Dẫn Cấu Hình Cache Cho Domain CDN Tại VINAHOST
 
 #### Bước 1: Truy cập Media Acceleration
 - Sau khi đăng nhập vào hệ thống quản lý CDN, vào mục **Media Delivery** → chọn **Media Acceleration**.
