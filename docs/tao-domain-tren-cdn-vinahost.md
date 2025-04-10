@@ -60,6 +60,7 @@ Sau đó nhấn **Submit** để hoàn tất bước cấu hình.
 
 Truy cập domain đã cấu hình CDN để kiểm tra hoạt động và đảm bảo nội dung được phân phối thông qua CDN.
 
+![image](https://github.com/user-attachments/assets/7b468a81-f458-4bc1-aece-709b2368f939)
 
 
 ---
