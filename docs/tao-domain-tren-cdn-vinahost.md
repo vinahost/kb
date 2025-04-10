@@ -51,7 +51,7 @@ Sau đó nhấn **Submit** để hoàn tất bước cấu hình.
 
 ### Bước 6: Tạo bản ghi CNAME cho tên miền CDN
 
-- Truy cập hệ thống quản lý DNS và tạo **bản ghi CNAME** cho domain CDN.
+- Truy cập hệ thống quản lý DNS và tạo **bản ghi CNAME** cho domain CDN theo giá trị ở ảnh trên.
 - Nếu bạn đã đăng ký tên miền tại Vinahost, có thể tham khảo hướng dẫn chi tiết tại:
   [https://blog.vinahost.vn/huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost/](https://blog.vinahost.vn/huong-dan-su-dung-dns-manager-va-quan-ly-ten-mien-tai-vinahost/)
 ![image](https://github.com/user-attachments/assets/03bd506e-f254-4bd6-a4e4-d8942782be0d)
