@@ -34,7 +34,7 @@ Tại giao diện **Cache Refresh**, bạn sẽ thấy phần **Refresh Type** v
 Tại đây, mình chọn **Domain Refresh** để xóa cache cho toàn bộ domain.
 
 - Nhập tên domain cần xóa cache.
-- Lưu ý: Giới hạn số lượng là **250**.
+- Lưu ý: Giới hạn số lượng domain có thể xóa trong 1 khoảng thời gian là **250**.
 - Sau đó nhấn **Submit** để hoàn tất.
 
 ![image](https://github.com/user-attachments/assets/487b77f2-d774-482e-9a85-b551baad18ff)
