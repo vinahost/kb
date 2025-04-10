@@ -1,4 +1,4 @@
-Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
+Bài viết này sẽ hướng dẫn cách tạo domain trên CDN tại Vinahost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 ## Hướng Dẫn Tạo Domain CDN Tại VINAHOST
 
 ### Bước 1: Đăng nhập hệ thống quản lý CDN
