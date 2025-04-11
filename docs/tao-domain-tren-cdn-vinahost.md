@@ -1,6 +1,10 @@
 Bài viết này sẽ hướng dẫn cách tạo domain trên CDN tại Vinahost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 ## Hướng Dẫn Tạo Domain CDN Tại VINAHOST
-
+CDN (Content Delivery Network): thông thường sẽ có 2 loại Content Acceleration và Media Acceleration — hai cách tối ưu khác nhau cho từng loại nội dung.  
+- Content Acceleration (Tăng tốc nội dung thông thường)  
+-  Media Acceleration (Tăng tốc nội dung media, đặc biệt là VOD)
+  
+Tại đây mình sẽ hướng dẫn tạo bằng domain trên Media Acceleration
 ### Bước 1: Đăng nhập hệ thống quản lý CDN
 Truy cập vào trang quản lý CDN được cung cấp khi đăng ký dịch vụ tại VINAHOST.
 ![image](https://github.com/user-attachments/assets/73d11ae4-2657-4fd2-acbe-5b45899cc285)
@@ -62,6 +66,33 @@ Truy cập domain đã cấu hình CDN để kiểm tra hoạt động và đả
 
 ![image](https://github.com/user-attachments/assets/7b468a81-f458-4bc1-aece-709b2368f939)
 
+## Hướng dẫn cấu hình port trên CDN:
+
+### Bước 1: Vào edit của domain cần cấu hình
+
+![image](https://github.com/user-attachments/assets/03f7608d-e0a4-4b8a-80b3-78123fc95caf)
+
+### Bước 2: Cấu hình yêu cầu CDN sử dụng HTTPs đến Orgin Server
+Vì mặt định các CDN sẽ gửi yêu cầu đến Origin bằng giao thức của client.  
+Nếu người dùng truy cập bằng HTTP thì các Edge sẽ gửi yêu cầu đến Origin bằng HTTP, ta thay đổi để bảo mật hơn.  
+
+![image](https://github.com/user-attachments/assets/3e91ff1b-998a-4605-b0f4-9621703547eb)
+
+![image](https://github.com/user-attachments/assets/ab300629-c41f-4b8a-aafc-ffaf56cd27f3)
+
+![image](https://github.com/user-attachments/assets/4f599ab1-47bf-4bac-954b-97c5a0bee86b)
+
+### Bước 3: Cấu hình Port cho Origin Server
+- Domain sẽ được tự động điền bằng tên domain mà chúng ta edit.
+- Back to Origin Request Port: là port ta yêu cầu đến Origin (ở đây mình ví dụ là 443)
+- Back to Origin Request Host: là máy chủ Origin ta có thể điền domain hoặc IP
+- Redirection Optimization ta chọn 301 
+- Sau đó ấn Next 
+
+![image](https://github.com/user-attachments/assets/e777ee00-9104-4eea-846c-f57838187b87)
+
+### Bước 4: Xem lại cấu hình và chọn Deloy Now
+![image](https://github.com/user-attachments/assets/197b3289-ef4c-4f9f-a7f8-08920a795366)
 
 ---
 
