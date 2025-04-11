@@ -1,7 +1,11 @@
 
 Bài viết này sẽ hướng dẫn cách tạo xóa cache CDN khi đăng kí dịch vụ tại VinaHost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 # Hướng dẫn xóa cache CDN Vinahost
-
+CDN (Content Delivery Network): thông thường sẽ có 2 loại Content Acceleration và Media Acceleration — hai cách tối ưu khác nhau cho từng loại nội dung.  
+- Content Acceleration (Tăng tốc nội dung thông thường)  
+- Media Acceleration (Tăng tốc nội dung media, đặc biệt là VOD)  
+  
+Tại đây mình sẽ hướng dẫn cấu hình xóa cache trên Media Acceleration , việc cấu hình trên Content Acceleration sẽ tương tự. 
 ## Bước 1: Chọn Media Acceleration
 
 Sau khi đăng nhập vào hệ thống quản lý CDN của Vinahost, bạn chọn phần **Media Acceleration**:
