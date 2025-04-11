@@ -70,7 +70,7 @@ Truy cập domain đã cấu hình CDN để kiểm tra hoạt động và đả
 ### Cách 1 
 Bạn có thể tạo nhanh ở đây 
 ![image](https://github.com/user-attachments/assets/070b829d-5759-4ac4-bbf9-31b7093c7691)
-![image](https://github.com/user-attachments/assets/84371e65-57f1-4587-9913-98d1015b6814)
+![image](https://github.com/user-attachments/assets/f8fab0dc-3f67-490e-b61b-e853a4db78f5)
 
 ### Cách 2 
 #### Bước 1: Vào edit của domain cần cấu hình
