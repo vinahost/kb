@@ -4,7 +4,7 @@ CDN (Content Delivery Network): thông thường sẽ có 2 loại Content Accel
 - Content Acceleration (Tăng tốc nội dung thông thường)  
 -  Media Acceleration (Tăng tốc nội dung media, đặc biệt là VOD)
   
-Tại đây mình sẽ hướng dẫn tạo bằng domain trên Media Acceleration
+Tại đây mình sẽ hướng dẫn tạo bằng domain trên Media Acceleration, việc cấu hình trên Content Acceleration sẽ tương tự.
 ### Bước 1: Đăng nhập hệ thống quản lý CDN
 Truy cập vào trang quản lý CDN được cung cấp khi đăng ký dịch vụ tại VINAHOST.
 ![image](https://github.com/user-attachments/assets/73d11ae4-2657-4fd2-acbe-5b45899cc285)
