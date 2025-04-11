@@ -2,7 +2,11 @@ Bài viết này sẽ hướng dẫn cách tạo cấu hình cache CDN khi đăn
 
 
 ## Hướng Dẫn Cấu Hình Cache Cho Domain CDN Tại VINAHOST
-
+CDN (Content Delivery Network): thông thường sẽ có 2 loại Content Acceleration và Media Acceleration — hai cách tối ưu khác nhau cho từng loại nội dung.  
+- Content Acceleration (Tăng tốc nội dung thông thường)  
+- Media Acceleration (Tăng tốc nội dung media, đặc biệt là VOD)  
+  
+Tại đây mình sẽ hướng dẫn cấu hình cache trên Media Acceleration , việc cấu hình trên Content Acceleration sẽ tương tự.  
 #### Bước 1: Truy cập Media Acceleration
 - Sau khi đăng nhập vào hệ thống quản lý CDN, vào mục **Media Delivery** → chọn **Media Acceleration**.
 
