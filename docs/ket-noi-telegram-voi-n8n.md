@@ -1,4 +1,4 @@
-**Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.**
+**Bài viết này sẽ hướng dẫn cách kết nối N8N với telegram. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.**
 
 ## Hướng dẫn kết nối telegram trên Hosting N8N tại VINAHOST  
 #### Bước 1: Ta tiến hành tạo workflow mới  
