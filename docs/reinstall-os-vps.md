@@ -1,22 +1,22 @@
 Bài viết này sẽ hướng dẫn cách cài lại OS VPS khi đăng kí dịch vụ tại VINAHOST. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 ## Hướng dẫn reinstall OS trên VPS khi đăng kí dịch vụ tại VINAHOST
-## Bước 1: Các bạn đăng nhập vào trang https://secure.vinahost.vn/ để vào trang quản trị các dịch vụ của mình
+### Bước 1: Các bạn đăng nhập vào trang https://secure.vinahost.vn/ để vào trang quản trị các dịch vụ của mình
 
 ![image](https://github.com/user-attachments/assets/b6ad985e-fd6f-4b76-874d-27d45e02370c)
 
-## Bước 2: Vào Dịch vụ chọn dịch vụ của tôi
+### Bước 2: Vào Dịch vụ chọn dịch vụ của tôi
 
 ![image](https://github.com/user-attachments/assets/0c8324f4-192d-4b79-b641-1fa4a8c4d014)
 
-## Bước 3: Sau đó ấn và VPS mà bạn muốn thay đổi hệ điều hành
+### Bước 3: Sau đó ấn và VPS mà bạn muốn thay đổi hệ điều hành
 
 ![2 1](https://github.com/user-attachments/assets/80522924-c0f8-4b38-902f-b9acf8037015)
 
-## Bước 4: Ta kéo xuống phía dưới và chọn install 
+### Bước 4: Ta kéo xuống phía dưới và chọn install 
 
 ![3](https://github.com/user-attachments/assets/f6d6f8be-79a9-4337-b7cb-39b5b1d57454)
 
-## Bước 5: Ta ấn biểu tượng hướng xuống để list ra danh sách các phiên bản của OS mà bạn chọn
+### Bước 5: Ta ấn biểu tượng hướng xuống để list ra danh sách các phiên bản của OS mà bạn muốn cài đặt
 
 ![4](https://github.com/user-attachments/assets/22712ce8-6761-4925-8734-67a31b1c7d82)
 
@@ -30,7 +30,7 @@ Hoặc bạn có thể chọn vào biểu tượng chìa khóa để tạo tự 
 
 ![7](https://github.com/user-attachments/assets/9aeecff9-4cfe-49d3-aea0-76febe412b0f)
 
-## Bước 6: Ấn reinstall
+### Bước 6: Ấn reinstall
 
 ![8](https://github.com/user-attachments/assets/f032bdf8-1872-4f2c-be03-a056b4c55c79)
 
