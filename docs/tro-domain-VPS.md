@@ -21,7 +21,7 @@ Bài viết này sẽ hướng dẫn cách trỏ bảng tên miền về VPS khi
 
 Các thông số:  
 **Name**: là tên của sub domain hiện tại. Ví dụ domain của tôi hiện tại là nguyenhv.id.vn và tôi muốn tạo subdomain n8n.nguyenhv.id.vn thì phần name tôi sẽ nhập là n8n  
-*Nếu bạn muốn tạo bảng ghi cho domain chính bạn ghi là @*  
+*Nếu bạn muốn tạo bảng ghi cho domain chính bạn điền @*  
 **Type**: Là loại bảng ghi (các bản ghi phổ biến là A, CNAME, MX, TXT). Chọn type A
 
 ![image](https://github.com/user-attachments/assets/17fcd1fb-fe16-414d-b47d-6763f5f7e895)
