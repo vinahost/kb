@@ -53,6 +53,7 @@ Nếu như ra IP khác với IP bạn đã cấu hình thì có thể các bản
 
 ![image](https://github.com/user-attachments/assets/1d740b85-7b3d-4e12-ad13-2fb08c1c019c)
 
+Cảm ơn bạn đã đăng kí dịch vụ tại vinahost và chúc bạn thực hiện thành công
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >
