@@ -43,7 +43,7 @@ Sau khi ấn Add record màn hình sẽ hiển thị bảng ghi của bạn
 
 ![image](https://github.com/user-attachments/assets/3ddb9886-5293-4d31-a5b1-69f20ec1f291)
 
-### Bước 5: Kiểm tra
+### Bước 6: Kiểm tra
 
 Để kiểm tra bạn mở terminal trên Window (Nhấn phím Window + R gõ cmd) trên MAC (Command + Space > Gõ Terminal). Sau đó ấn **ping domain_cua_ban**  
 Kết quả sẽ trả về IP mà bạn đã cấu hình trước đó 
