@@ -54,6 +54,14 @@ Nếu như ra IP khác với IP bạn đã cấu hình thì có thể các bản
 ![image](https://github.com/user-attachments/assets/1d740b85-7b3d-4e12-ad13-2fb08c1c019c)
 
 
+> **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
+>
+> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**<br>
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**<br>
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**<br>
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**<br>
+> **\>> [WEBSITE](http://vinawebsite.vn/)**<br>
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
 
 
 
