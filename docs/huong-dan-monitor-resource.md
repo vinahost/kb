@@ -1,5 +1,5 @@
 
-**Bài viết này sẽ hướng dẫn cách tạo tài khoản và Login N8N. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.**
+**Bài viết này sẽ hướng dẫn xem thông tin tài nguyên VPS. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.**
 
 # Hướng dẫn monitor tài nguyên VPS VINAHOST  
 Bài viết này sẽ hướng dẫn mọi người xem tài nguyên VPS của mình khi đăng kí dịch vụ tại VINAHOST  
