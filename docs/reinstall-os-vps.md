@@ -1,5 +1,15 @@
 Bài viết này sẽ hướng dẫn cách cài lại OS VPS khi đăng kí dịch vụ tại VINAHOST. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php.
 ## Hướng dẫn reinstall OS trên VPS khi đăng kí dịch vụ tại VINAHOST
+ ⚠️ CẢNH BÁO MẤT DỮ LIỆU KHI CÀI ĐẶT LẠI HỆ ĐIỀU HÀNH
+
+**Quý khách lưu ý:**  
+Việc **cài đặt lại hệ điều hành (Reinstall OS)** sẽ **xóa toàn bộ dữ liệu** trên máy chủ, bao gồm:
+
+- Tất cả dữ liệu trong ổ cứng *(website, cơ sở dữ liệu, email, file backup…)*
+- Các cấu hình, ứng dụng đã cài đặt
+- **Không thể khôi phục** sau khi tiến hành cài đặt
+
+👉 **VinaHost không chịu trách nhiệm** đối với bất kỳ mất mát dữ liệu nào phát sinh nếu quý khách không sao lưu trước khi thực hiện.
 ### Bước 1: Các bạn đăng nhập vào trang https://secure.vinahost.vn/ để vào trang quản trị các dịch vụ của mình
 
 ![image](https://github.com/user-attachments/assets/b6ad985e-fd6f-4b76-874d-27d45e02370c)
