@@ -322,6 +322,7 @@ nav:
               - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
               - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
               - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
+              - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
