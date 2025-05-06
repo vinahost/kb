@@ -66,7 +66,6 @@ Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được
 
 2. Nếu chưa thì bạn ấn vào **Enter active key** sau đó nhập key rồi ấn Activate
 
-
 * Vậy là chúng ta đã hoàn tất setup và login n8n chúc bạn thành công
 
 ![image](https://github.com/user-attachments/assets/f69092db-b2db-4c23-8439-7c73f95fb266)
