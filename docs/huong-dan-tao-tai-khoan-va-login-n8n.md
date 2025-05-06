@@ -11,7 +11,7 @@ Sau khi đăng kí thành công dịch vụ VPS n8n tại VinaHost sẽ được
 
 ### Ta tiến hành chuẩn bị các bước đầu tiên để đăng nhập n8n
 
-1. Truy cập và đường dẫn truy cập được gửi trong email: **https://51034.vpsvinahost.vn**
+* Truy cập và đường dẫn truy cập được gửi trong email: **https://51034.vpsvinahost.vn**
 * Ta thực điền các thông tin cơ bản cho chủ tài khoản → **Next**
 
 ![image](https://github.com/user-attachments/assets/985f26b5-33a7-47bc-85b9-62b3a5ab6058)
