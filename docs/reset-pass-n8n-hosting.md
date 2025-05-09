@@ -17,23 +17,19 @@ Xác định và **copy đường dẫn thư mục gốc của ứng dụng N8N*
 
 2. Gõ các lệnh sau, thay `{paste đường dẫn}` bằng đường dẫn đã copy ở Bước 1:
 
-```bash
+```
 cd {paste đường dẫn}
-
-cat > reset_password.sh <<EOF
-export N8N_USER_FOLDER=$(pwd)
+```
+```
+export N8N_USER_FOLDER=$PWD
 export N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
 n8n user-management:reset
-EOF
-
-chmod 755 reset_password.sh && ./reset_password.sh
 ```
-
-![image](https://github.com/user-attachments/assets/86d24729-ca28-426a-8911-e4225951455e)
 
 Sau đó màn hình sẽ hiển thị như sau 
 
-![image](https://github.com/user-attachments/assets/b5c50a82-d897-4a11-8ebb-3b4fa5f01e7c)
+![image](https://github.com/user-attachments/assets/76be0b85-80f7-48a6-9f46-02b0a7c9af3a)
+
 
 Ta stop start lại N8N
 
