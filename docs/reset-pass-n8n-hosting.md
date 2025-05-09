@@ -1,4 +1,4 @@
-Bài viết này sẽ hướng dẫn cách reset password khi đăng kí dịch vụ N8N tại Vinahost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php  
+Bài viết này sẽ hướng dẫn cách reset password khi đăng kí dịch vụ Hosting N8N tại Vinahost. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext.3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php  
 # Hướng Dẫn Reset Password Dịch Vụ Hosting N8N tại VinaHost
 
 ## Bước 1: Truy cập vào quản lý app N8N
@@ -12,6 +12,9 @@ Xác định và **copy đường dẫn thư mục gốc của ứng dụng N8N*
 ## Bước 2: Reset Password
 
 1. Truy cập **Terminal** (bạn tìm bằng từ khóa `terminal`).
+
+![image](https://github.com/user-attachments/assets/480d4042-da38-4533-a171-b9dc421583e4)
+
 2. Gõ các lệnh sau, thay `{paste đường dẫn}` bằng đường dẫn đã copy ở Bước 1:
 
 ```bash
