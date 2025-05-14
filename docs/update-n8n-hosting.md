@@ -12,7 +12,7 @@ Bài viết này sẽ hướng dẫn cách cập nhật phiên bản n8n khi đ�
 
 
 
-## Bước 2: Cập nhật
+## Bước 3: Cập nhật
 
 1. Chọn **Cập nhật ứng dụng N8N**
  
@@ -28,7 +28,7 @@ Bài viết này sẽ hướng dẫn cách cập nhật phiên bản n8n khi đ�
 
 
 
-## Bước 3: Kiểm tra 
+## Bước 4: Kiểm tra 
 Ta truy cập lại trang N8N và đăng nhập k kiểm tra kết quả
 
 ![image](https://github.com/user-attachments/assets/38f9d974-7e48-4ca5-90b4-4807f01ca3e2)
