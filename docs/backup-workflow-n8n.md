@@ -41,6 +41,19 @@ Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy 
 ![image](https://github.com/user-attachments/assets/b1c6c746-61d2-4d2f-9020-7b068cb23d9a)
 
 
+#### Bước 5: Restore từ các bản backup
+- Bạn tải các bản backup về máy, sau đó dùng notepad để xóa dấu ngoặc [] nhé. Sau đó ấn Ctrl + s để lưu lại
+![image](https://github.com/user-attachments/assets/e8e38839-4f6c-4fff-909a-d2732a74549a)
+
+
+![image](https://github.com/user-attachments/assets/53822e73-774f-4abf-a9f5-3418a87cddd9)
+
+- Ta tiến hành import như bình thường
+
+![image](https://github.com/user-attachments/assets/d8c9803e-cef9-4de0-85ce-dc072ca6e26d)
+
+![image](https://github.com/user-attachments/assets/6c94f011-27fb-4545-9935-0f08481d776c)
+
 
 
 
