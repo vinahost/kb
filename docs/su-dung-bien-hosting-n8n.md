@@ -13,7 +13,8 @@ Bài viết này sẽ hướng dẫn cách sử dụng biến N8N trên Hosting 
 
 
 2. Bạn chọn thêm mới sau đó tạo biến nhé
-- Ở đây mình tạo biến có tên biến **MESS** và giá trị là **Đây là giá trị để test biến** sau đó ấn **Cập nhật**
+- Ở đây mình tạo biến có tên biến **MESS** và giá trị là **Đây là giá trị để test biến** sau đó ấn **Cập nhật**  
+**Lưu ý** Quý khách nên backup workflow trước để tránh trường hợp xảy ra lỗi không mất dữ liệu nhé: https://kb.vinahost.vn/backup-workflow-n8n.md
 
 ![image](https://github.com/user-attachments/assets/bd69d46b-aeb3-4932-9a63-7b45ee17b552)
 
