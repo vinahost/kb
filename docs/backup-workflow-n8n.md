@@ -50,9 +50,10 @@ Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy 
 
 - Ta tiến hành import như bình thường
 
-![image](https://github.com/user-attachments/assets/d8c9803e-cef9-4de0-85ce-dc072ca6e26d)
+![image](https://github.com/user-attachments/assets/cea4b36d-f199-45c7-9beb-486214459ebe)
 
-![image](https://github.com/user-attachments/assets/6c94f011-27fb-4545-9935-0f08481d776c)
+![image](https://github.com/user-attachments/assets/adbf4d99-da56-4a49-b8d6-ad1e99c24cef)
+
 
 
 
