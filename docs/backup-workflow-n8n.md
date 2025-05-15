@@ -2,15 +2,17 @@
 
 ## Hướng dẫn cách backup workflow N8N trên Hosting N8N tại VINAHOST  
 #### Bước 1: Ta đăng nhập vào N8N
-Import Workflow có sẵn tại vinahost
 
+Import Workflow có sẵn tại vinahost
+![image](https://github.com/user-attachments/assets/b3ed3710-03cd-4bb8-8204-2bcecfcd00a3)
 
 #### Bước 2: Thiết lập xác thực kết nối các node 
 
-1. Chọn node Telegram
-  **Create new credential** nếu bạn chưa biết các xác thực với telegram có thể xem hướng dẫn tại: https://kb.vinahost.vn/ket-noi-telegram-voi-n8n/  
-   Ở node Telegram thứ 2 cần chatid bạn xem và tham khảo hướng dẫn này để lấy chatID của bot nhé: https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id  
-   
+1. Chọn node Telegram  
+**Create new credential** nếu bạn chưa biết các xác thực với telegram có thể xem hướng dẫn tại: https://kb.vinahost.vn/ket-noi-telegram-voi-n8n/   
+Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy chatID của bot nhé: https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id  
+![image](https://github.com/user-attachments/assets/68aa59d5-9a8f-43d5-a786-348befc25822)
+
 2. Chọn Node N8N
 - Trước tiên ta tạo API của N8N để tiến hành kết nối vào **setting** chọn **n8n API** sao đó ấn **Create a API Key**
 ![image](https://github.com/user-attachments/assets/0b23a4ae-cbb5-4a27-b09c-ae8b23e0350d)
@@ -18,28 +20,34 @@ Import Workflow có sẵn tại vinahost
 ![image](https://github.com/user-attachments/assets/a3098776-54a7-4a91-a9e3-466ce6758a20)
 - Bạn copy API nhé, nó chỉ hiển thị một lần duy nhất
 ![image](https://github.com/user-attachments/assets/d730eb03-1738-4723-8c7e-d5088771602b)
-- Bạn vào node N8N sau đó điền các thông tin sau  
-  Bạn điều API Key  
-  Và thay đổi URL thành https://your_domain/api/v1  
-  Sau đó **Save** lại  
-  ![image](https://github.com/user-attachments/assets/7103ed19-456d-47b6-91b8-da77a8057ebe)
-  
+- Bạn vào node N8N sau đó điền các thông tin sau: điền API Key, thay đổi URL thành *https://your_domain/api/v1* sau đó **Save** lại  
+![image](https://github.com/user-attachments/assets/7103ed19-456d-47b6-91b8-da77a8057ebe)
+
+#### Bước 4: Ta kiểm tra backup
+- Hiện tôi đang có 4 workflow với tên sau:
+![image](https://github.com/user-attachments/assets/3840fdb4-e086-45cf-8d54-41434ff958c7)
+
+- Ấn **Test flow** để chạy, thông báo như phía dưới hiện Workflow đã hoạt động và backup rồi
+![image](https://github.com/user-attachments/assets/e74d8e18-ce00-4dbc-87f1-f1ac8be67d9a)
+
+- Ta xem tin nhắn ở Telegram với 4 workflow sẽ có 4 tin nhắn backup hoàn tất
+
+![image](https://github.com/user-attachments/assets/3cdac97f-3469-4800-a4a1-3d4c10eef0ed)
+
+- File backup sẽ được lưu trong thư mục của N8N
+
+![image](https://github.com/user-attachments/assets/dc01bb1f-e36d-4d9c-8075-00c5192d6d84)
+
+![image](https://github.com/user-attachments/assets/b1c6c746-61d2-4d2f-9020-7b068cb23d9a)
 
 
-#### Bước 3: Ta tiến hành kiểm tra kết nối bằng **Test Step**
 
-![image](https://github.com/user-attachments/assets/6d50065a-e510-48b4-9af2-5988385a7a54)
-![image](https://github.com/user-attachments/assets/de9808e3-e118-415d-9f4f-702533f3f2b1)
 
-Viết tin nhắn với **bot telegram**
 
-![image](https://github.com/user-attachments/assets/caff0f28-19be-43ed-af6f-7d6c093d6062)
+### Lưu ý
+- Các bản backup sẽ được ghi đè nếu bạn backup trong ngày. Nếu bạn muốn lưu từng bản backup trong ngày xin vui lòng tải các bản backup hiện tại về máy sau đó tiến hành backup  
+- Ngoài ra  ở node Trigger Schedule bạn vui lòng tự cài đặt thời gian để workflow hoạt động nhé
 
-Nếu kể qua hiện thị nội dung của văn bản test là chúng ta đã cấu hình chính xác
-
-![image](https://github.com/user-attachments/assets/f220efe6-446e-4c0b-9f57-2b569112d76e)
-
-### Chúc bạn thành công với những workflow tiếp theo
 
 
 
