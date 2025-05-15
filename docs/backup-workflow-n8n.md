@@ -28,7 +28,7 @@ Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy 
 - Bạn vào node N8N sau đó điền các thông tin sau: điền API Key, thay đổi URL thành *https://your_domain/api/v1* sau đó **Save** lại  
 ![image](https://github.com/user-attachments/assets/7103ed19-456d-47b6-91b8-da77a8057ebe)
 
-#### Bước 4: Ta kiểm tra backup
+#### Bước 3: Ta kiểm tra backup
 - Hiện tôi đang có 4 workflow với tên sau:
 ![image](https://github.com/user-attachments/assets/3840fdb4-e086-45cf-8d54-41434ff958c7)
 
@@ -46,7 +46,7 @@ Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy 
 ![image](https://github.com/user-attachments/assets/b1c6c746-61d2-4d2f-9020-7b068cb23d9a)
 
 
-#### Bước 5: Restore từ các bản backup
+#### Bước 4: Restore từ các bản backup
 - Bạn tải các bản backup về máy, sau đó dùng notepad để xóa dấu ngoặc [] nhé. Sau đó ấn Ctrl + s để lưu lại
 ![image](https://github.com/user-attachments/assets/e8e38839-4f6c-4fff-909a-d2732a74549a)
 
