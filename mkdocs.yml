@@ -500,6 +500,7 @@ nav:
               - Hướng dẫn reset password N8N trên hosting: reset-pass-n8n-hosting.md
               - Hướng dẫn kết nối telegram với N8N hosting: ket-noi-telegram-voi-n8n.md
               - Hướng dẫn cập nhật n8n: update-n8n-hosting.md
+              - Hướng dẫn sử dụng biến n8n: su-dung-bien-hosting-n8n.md
       - Chủ Đề Khác:
           - Chủ đề khác:
               - vinahost-waf-security/index.md
