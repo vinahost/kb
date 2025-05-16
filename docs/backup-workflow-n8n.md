@@ -19,6 +19,7 @@ Telegram cần chatid bạn xem và tham khảo hướng dẫn này để lấy 
 ![image](https://github.com/user-attachments/assets/68aa59d5-9a8f-43d5-a786-348befc25822)
 
 2. Chọn Node N8N
+
 - Trước tiên ta tạo API của N8N để tiến hành kết nối vào **setting** chọn **n8n API** sao đó ấn **Create a API Key**
 ![image](https://github.com/user-attachments/assets/0b23a4ae-cbb5-4a27-b09c-ae8b23e0350d)
 - Sau đó đặt nhãn cho API rồi tiến hành **Save**
