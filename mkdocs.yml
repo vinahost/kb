@@ -319,6 +319,10 @@ nav:
           - Vinahost CDN:
               - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
               - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
+              - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
+              - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
+              - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
+              - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
@@ -330,14 +334,17 @@ nav:
                 #    - Reseller Hosting:
                 #    - WordPress Hosting:
                 #    - Databas Hosting:
-                #    - Windows Hosting:
+          - Windows Hosting:
+              - Hướng dẫn triển khai website bằng Git Repositories trên Windows Hosting tại Vinahost: shared-hosting/windows-hosting/huong-dan-trien-khai-website-bang-git-repositories-tren-windows-hosting-tai-vinahost.md      
                 #    - Unlimited Hosting:
       - Dịch vụ VPS:
           - Hướng dẫn chung:
               - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
               - Hướng dẫn thay đổi mật khẩu VPS từ giao diện khách hàng VinaHost: huong-dan-thay-doi-password-vps.md
               - huong-dan-khoi-dong-lai-dich-vu-vps-tren-vinahost.md
-              - huong-dan-cai-he-dieu-hanh-cho-vps.md
+              - Hướng dẫn kiểm tra tài nguyên VPS tại VINAHOST: huong-dan-monitor-resource.md
+              - Hướng dẫn trỏ domain về máy chủ VPS tại VINAHOST: tro-domain-VPS.md
+              - Hướng dẫn cài lại hệ điều hành cho VPS: reinstall-os-vps.md
           - Linux VPS:
               - Cách Tạo Và Thêm SSH Key Vào Trong VPS: cach-tao-va-them-ssh-key-vao-trong-vps.md
               - Hướng Dẫn Tăng Swap Trên Linux: huong-dan-tang-swap-tren-linux.md
@@ -487,6 +494,15 @@ nav:
               - minecraft/huong-dan-upload-the-gioi-vao-server-minecraft-tai-vinahost.md
               - minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-tai-vinahost.md
               - minecraft/huong-dan-phan-quyen-cho-tai-khoan-phu-quan-ly-server-tai-vinahost.md
+      - N8N:
+          - Hướng dẫn sử dụng N8N:
+              - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
+              - Hướng dẫn tạo tài khoản N8N trên Hosting: tao-N8N-tren-hosting.md
+              - Hướng dẫn reset password N8N trên hosting: reset-pass-n8n-hosting.md
+              - Hướng dẫn kết nối telegram với N8N hosting: ket-noi-telegram-voi-n8n.md
+              - Hướng dẫn cập nhật n8n: update-n8n-hosting.md
+              - Hướng dẫn sử dụng biến n8n: su-dung-bien-hosting-n8n.md
+              - Hướng dẫn backup workflow N8N: backup-workflow-n8n.md
       - Chủ Đề Khác:
           - Chủ đề khác:
               - vinahost-waf-security/index.md
@@ -504,4 +520,4 @@ nav:
               - Một Số Lệnh Cơ Bản Kiểm Tra Server Khi Bị DDoS: mot-so-lenh-co-ban-kiem-tra-server-khi-bi-ddos.md
               - Linux Hosting - Hướng dẫn upload source code, database của website: linux-hosting-hd-upload-source-db-website.md
               - Windows Hosting - Hướng dẫn upload source code, database của website: windows-hosting-hd-upload-source-db-website.md
-              - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
+
