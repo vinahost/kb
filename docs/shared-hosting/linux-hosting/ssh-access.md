@@ -12,8 +12,6 @@ categories:
 > - Gửi email về địa chỉ [**support@vinahost.vn**](mailto:support@vinahost.vn)
 > - Hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php)
 
-linuxhosting-ssh_access-01.jpg
-zh?peP,lU+HF
 
 ## 1. Truy cập giao diện quản lý SSH key
 
