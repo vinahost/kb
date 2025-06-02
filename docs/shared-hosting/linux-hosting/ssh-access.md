@@ -66,7 +66,7 @@ Nhấn nút **Manage SSH Keys** để quản lý SSH key.
 !!! info "Thông tin"
     Bạn phải ủy quyền truy cập để sử dụng SSH key.
 
-Chọn **Manage** SSH key cần ủy quyền truy cập.
+Chọn **Manage** tại SSH key cần ủy quyền truy cập.
 
 ![](../../images/linuxhosting-ssh_access-09.jpg)
 
@@ -86,11 +86,11 @@ Chọn **Vỉew/Download** để tải xuống private key đã tạo.
 
 Để có thể sử dụng private key với [PuTTY](https://vinahost.vn/putty-la-gi/), chuyển đổi nó về định dạng mà PuTTY yêu cầu.
 
-Mở **PuTTYgen** - phần mềm được cài đặt cùng PuTTY. Chọn Load để tải nội dung private key đã tải về.
+Mở **PuTTYgen** - phần mềm được cài đặt cùng PuTTY. Chọn **Load** để tải nội dung private key đã tải về.
 
 ![](../../images/linuxhosting-ssh_access-15.jpg)
 
-Nhập mật khẩu của private key (2. Thêm hoặc nhập SSH key), bấm **OK**.
+Nhập mật khẩu của private key, bấm **OK**.
 
 ![](../../images/linuxhosting-ssh_access-16.jpg)
 
