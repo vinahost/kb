@@ -2,6 +2,7 @@
 title: "Hướng dẫn sử dụng JetBackup cPanel"
 date: "2025-01-16"
 categories:
+  - "web-hosting"
   - "shared-hosting"
   - "linux-hosting"
 ---

@@ -2,6 +2,7 @@
 title: "Hướng dẫn đăng nhập SSH vào hosting cPanel"
 date: "2025-06-02"
 categories:
+  - "web-hosting"
   - "shared-hosting"
   - "linux-hosting"
 ---
