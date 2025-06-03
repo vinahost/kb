@@ -7,7 +7,7 @@ categories:
   - "linux-hosting"
 ---
 
-> Bài viết này hướng dẫn các bạn tạo chữ ký trên Webmail cPanel của dịch vụ Email Hosting. Nếu bạn cần hỗ trợ, xin vui lòng:
+> Bài viết này hướng dẫn các bạn tạo chữ ký trên Webmail cPanel của dịch vụ Email Hosting tại VinaHost. Nếu bạn cần hỗ trợ, xin vui lòng:
 >
 > - Liên hệ qua **hotline 1900 6046 ext. 3**
 > - Gửi email về địa chỉ [**support@vinahost.vn**](mailto:support@vinahost.vn)
@@ -37,7 +37,7 @@ Chọn **Open** để mở phần giao diện chính của webmail.
 
 ## 2. Cài đặt soạn email dưới dạng HTML
 
-Bước này là yêu cầu nếu bạn muốn chữ ký có hình ảnh, định dạng màu sác, v.v. Nếu bạn chỉ cần chữ ký dạng văn bản thuần, có thể bỏ qua bước này.
+Bước này là bắt buộc nếu bạn muốn chữ ký có hình ảnh, màu sắc, v.v. Bỏ qua bước này nếu bạn chỉ cần chữ ký dạng văn bản thuần.
 
 Chọn **Cài đặt (Settings)** > **Sở thích (Preferences)** > **Đang viết thư (Composing Messages)** > đặt giá trị **Soạn thư dạng HTML (Compose HTML messages)** thành "luôn luôn (always)" > **Lưu (Save)**.
 
@@ -57,6 +57,15 @@ Nếu bạn muốn chữ ký có chứa ảnh, màu sắc, đảm bảo rằng b
 Tạo chữ ký mong muốn, tích vào **Thiết lập mặc định (Set default)** để luôn áp dụng chữ ký này cho các email mới rồi nhấn **Lưu (Save)**.
 
 ![](../../images/emailhosting-tao_chu_ky_webmail-08.jpg)
+
+
+## 4. Thử soạn email mới
+
+Sau các bước trên, bạn đã có thể soạn email mới được tự động áp dụng chữ ký vừa tạo. Đảm bảo rằng trong phần soạn email, bạn đã chọn nút chuyển đổi giữa định dạng văn bản và HTML.
+
+![](../../images/emailhosting-tao_chu_ky_webmail-09.jpg)
+
+![](../../images/emailhosting-tao_chu_ky_webmail-10.jpg)
 
 
 <hr>
