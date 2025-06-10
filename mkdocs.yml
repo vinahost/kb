@@ -317,12 +317,18 @@ nav:
       - Dịch vụ CDN:
           #   - Alibaba Cloud CDN:
           - Vinahost CDN:
-              - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
-              - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
-              - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
-              - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
-              - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
-              - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
+            - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
+            - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
+            - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
+            - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
+            - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
+            - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
+          - CDNetworks:
+            - index.md                     # Trang chính của mục CDNetworks
+            - Tăng tốc Web Động (Dynamic Web Acceleration): dynamic-web-acceleration.md
+            - Tăng tốc Nội dung Tĩnh (Content Acceleration): content-acceleration.md
+            - Media VoD (Video on Demand): media-acceleration-vod.md
+            - Truyền phát Trực tiếp (Media Live Broadcast): media-live-broadcast.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
