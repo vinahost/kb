@@ -49,10 +49,13 @@
   -webkit-mask-image: var(--md-admonition-icon--details);
 	  mask-image: var(--md-admonition-icon--details);
   }
-  
-  
-  
-  
+
+
+.md-typeset h1,
+.md-content__button {
+  display: none;
+}
+
   /* light mode */
   
   [data-md-color-scheme="light"] {
