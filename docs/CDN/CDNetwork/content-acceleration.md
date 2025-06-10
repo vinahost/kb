@@ -1,44 +1,38 @@
-## 2. Hướng dẫn cấu hình dịch vụ CDNetworks - Tăng tốc nội dung tĩnh (Content Acceleration)
+# 1. Hướng dẫn cấu hình dịch vụ Content Acceleration (CA) - Tăng tốc Nội dung Tĩnh
 
-### 2.1. Bắt đầu từ khi mua dịch vụ và Đăng nhập vào Customer Portal
+## 1.1. Đăng nhập vào Customer Portal
 
 Khi bạn mua dịch vụ của CDNetworks, hệ thống sẽ tự động tạo một tài khoản và cung cấp cho bạn thông tin đăng nhập vào **Cổng quản lý khách hàng (Customer Portal)** của chúng tôi. Đây là nơi bạn sẽ thực hiện mọi cấu hình cho các dịch vụ của mình.
 
-1.  **Truy cập đường dẫn:** Bạn sẽ nhận được đường dẫn truy cập cổng quản lý qua email. Thông thường sẽ là một đường dẫn có dạng `https://portal.cdnetworks.com` hoặc tương tự.
-2.  **Nhập thông tin đăng nhập:** Sử dụng **Username** và **Password** đã được cung cấp.
+**Truy cập đường dẫn:** Bạn sẽ nhận được đường dẫn truy cập cổng quản lý qua email. Thông thường sẽ là một đường dẫn có dạng `https://portal.cdnetworks.com` hoặc tương tự.
+**Nhập thông tin đăng nhập:** Sử dụng **Username** và **Password** đã được cung cấp.
 
-    ```
-    # Ví dụ về giao diện đăng nhập
-    # Bạn sẽ thấy trường Username và Password
-    # [Hình ảnh minh họa giao diện đăng nhập CDNetworks Portal]
-    ```
-
+![[assets/images/content-acceleration/login.jpg]]
     !!! tip "Mẹo nhỏ"
-        Hãy lưu trữ thông tin đăng nhập này ở nơi an toàn để tránh mất mát. Nếu quên mật khẩu, bạn có thể sử dụng chức năng "Forgot Password".
+        Hãy lưu trữ thông tin đăng nhập này ở nơi an toàn để tránh mất mát. Nếu quên mật khẩu, bạn có thể sử dụng chức năng "Forgot Password", link retset password sẽ được gửi về địa chỉ email.
 
-### 2.2. Tổng quan giao diện
+## 1.2. Tổng quan giao diện
 
 Sau khi đăng nhập thành công, bạn sẽ được đưa đến trang tổng quan (Dashboard) của Customer Portal. Tại đây, bạn có thể xem nhanh tình trạng dịch vụ, dữ liệu thống kê cơ bản và truy cập vào các phần quản lý dịch vụ cụ thể.
 
-* Ví dụ về Dashboard.
-
-[Hình ảnh minh họa Dashboard của CDNetworks Portal, với các menu chính như Services, Reports, Billing, v.v.]
+![](assets/images/content-acceleration/dashboard.jpg)
 
 ---
 
-### 2.3. Cấu hình dịch vụ Content Acceleration
+# 2. Cấu hình dịch vụ Content Acceleration
 
 Dịch vụ này lý tưởng cho việc phân phối nội dung tĩnh như hình ảnh, CSS, JavaScript, video, và các tệp tải xuống.
 
-Trong trường hợp này, bạn muốn tăng tốc cho **tên miền phụ (subdomain)** với **Origin là IP Host**.
+Trong trường hợp này, cần sử dụng **tên miền phụ (subdomain)** để kết nối từ CDN tới **Origin là IP Host**.
 
-1.  **Chọn dịch vụ:**
-    * Từ menu chính, điều hướng đến **Services > CDN > Create New Service**.
-    * Chọn **Content Acceleration**.
-
-    ```
-    # [Hình ảnh minh họa việc chọn Content Acceleration từ danh sách dịch vụ]
-    ```
+1.  **Truy cập dịch vụ:**
+  ``` markdown-tree 
+Home
+	Products
+		Web Performance
+			Content Acceleration
+```
+![[assets/images/content-acceleration/content-acceleration-services.jpg]]
 
 2.  **Nhập thông tin cơ bản:**
     * **Service Name:** Đặt tên dễ nhớ cho dịch vụ của bạn (ví dụ: `MySubDomain_ContentAcc`).
@@ -99,5 +93,3 @@ Sau khi cấu hình, điều quan trọng là bạn cần kiểm tra lại các 
 * **Logs:** Giúp bạn gỡ lỗi nếu có vấn đề phát sinh.
 
 Hy vọng hướng dẫn này sẽ giúp bạn dễ dàng cấu hình dịch vụ Content Acceleration của CDNetworks. Nếu có bất kỳ thắc mắc hay cần hỗ trợ thêm, đừng ngần ngại liên hệ với đội ngũ hỗ trợ của chúng tôi nhé!
-
----

@@ -325,10 +325,10 @@ nav:
               - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
           - CDNetworks:
               - CDN/CDNetwork/index.md                     # Trang chính của mục CDNetworks
-              - Tăng tốc Web Động (Dynamic Web Acceleration): CDN/CDNetwork/dynamic-web-acceleration.md
-              - Tăng tốc Nội dung Tĩnh (Content Acceleration): CDN/CDNetwork/content-acceleration.md
-              - Media VoD (Video on Demand): CDN/CDNetwork/media-acceleration-vod.md
-              - Truyền phát Trực tiếp (Media Live Broadcast): CDN/CDNetwork/media-live-broadcast.md
+              - Content Acceleration (CA) - Tăng tốc Nội dung Tĩnh: CDN/CDNetwork/content-acceleration.md
+              - Dynamic Web Acceleration (DWA) - Tăng tốc Web Động: CDN/CDNetwork/dynamic-web-acceleration.md
+              - Media Acceleration Live (Video on Demand-VoD) - Tối ưu hóa truyền tải video: CDN/CDNetwork/media-acceleration-vod.md
+              - Media Acceleration Live Broadcast (MALB) - Truyền phát video trực tiếp: CDN/CDNetwork/media-live-broadcast.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
