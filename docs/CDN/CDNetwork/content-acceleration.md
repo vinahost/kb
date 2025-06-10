@@ -32,8 +32,8 @@ Home
 		Web Performance
 			Content Acceleration
 ```
-![[assets/images/content-acceleration/content-acceleration-services.jpg]]
 
+![[assets/images/content-acceleration/content-acceleration-services.jpg]]
 2.  **Nhập thông tin cơ bản:**
     * **Service Name:** Đặt tên dễ nhớ cho dịch vụ của bạn (ví dụ: `MySubDomain_ContentAcc`).
     * **Domain:** Nhập tên miền phụ của bạn (ví dụ: `static.yourrootdomain.com`).
