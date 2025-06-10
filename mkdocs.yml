@@ -324,11 +324,11 @@ nav:
               - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
               - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
           - CDNetworks:
-              - index.md                     # Trang chính của mục CDNetworks
-              - Tăng tốc Web Động (Dynamic Web Acceleration): dynamic-web-acceleration.md
-              - Tăng tốc Nội dung Tĩnh (Content Acceleration): content-acceleration.md
-              - Media VoD (Video on Demand): media-acceleration-vod.md
-              - Truyền phát Trực tiếp (Media Live Broadcast): media-live-broadcast.md
+              - CDN/CDNetwork/index.md                     # Trang chính của mục CDNetworks
+              - Tăng tốc Web Động (Dynamic Web Acceleration): CDN/CDNetwork/dynamic-web-acceleration.md
+              - Tăng tốc Nội dung Tĩnh (Content Acceleration): CDN/CDNetwork/content-acceleration.md
+              - Media VoD (Video on Demand): CDN/CDNetwork/media-acceleration-vod.md
+              - Truyền phát Trực tiếp (Media Live Broadcast): CDN/CDNetwork/media-live-broadcast.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
