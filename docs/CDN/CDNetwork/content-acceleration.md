@@ -6,8 +6,8 @@ Khi bạn mua dịch vụ của CDNetworks, hệ thống sẽ tự động tạo
 
 **Truy cập đường dẫn:** Bạn sẽ nhận được đường dẫn truy cập cổng quản lý qua email. Thông thường sẽ là một đường dẫn có dạng `https://portal.cdnetworks.com` hoặc tương tự.
 **Nhập thông tin đăng nhập:** Sử dụng **Username** và **Password** đã được cung cấp.
+![](assets/images/content-acceleration/login.jpg)
 
-![[assets/images/content-acceleration/login.jpg]]
     !!! tip "Mẹo nhỏ"
         Hãy lưu trữ thông tin đăng nhập này ở nơi an toàn để tránh mất mát. Nếu quên mật khẩu, bạn có thể sử dụng chức năng "Forgot Password", link retset password sẽ được gửi về địa chỉ email.
 
@@ -33,7 +33,7 @@ Home
 			Content Acceleration
 ```
 
-![[assets/images/content-acceleration/content-acceleration-services.jpg]]
+![](assets/images/content-acceleration/content-acceleration-services.jpg)
 2.  **Nhập thông tin cơ bản:**
     * **Service Name:** Đặt tên dễ nhớ cho dịch vụ của bạn (ví dụ: `MySubDomain_ContentAcc`).
     * **Domain:** Nhập tên miền phụ của bạn (ví dụ: `static.yourrootdomain.com`).
