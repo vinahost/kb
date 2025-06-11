@@ -165,9 +165,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0a7a3c5588e38ee",
-  "lastOpenFiles": []
+  "active": "4b04fd2ea643c67d",
+  "lastOpenFiles": [
+    "docs/Email/Email-Marketing/Huong-Dan-Su-Dung_Email-Marketing-V2.md",
+    "docs/CDN/CDNetwork/content-acceleration.md"
+  ]
 }
