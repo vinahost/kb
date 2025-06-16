@@ -6,10 +6,6 @@ Vui lòng chọn dịch vụ bạn đang sử dụng để bắt đầu cấu h�
 
 * * *
 
-### 📌 3 Giây Vàng Quyết Định Khách Hàng Ở Lại Hay Rời Đi
-
-* * *
-
 ### 🗂️ [Content Acceleration (CA) - Tăng tốc Nội dung Tĩnh](content-acceleration.md)
 
 Phân phối hiệu quả các nội dung tĩnh như hình ảnh, CSS, JS thông qua hệ thống CDN toàn cầu gồm hơn 1.500 điểm POP, bao gồm cả các POP đặt tại Việt Nam, đảm bảo tốc độ tải nhanh và ổn định cho cả nội dung trong nước lẫn quốc tế.

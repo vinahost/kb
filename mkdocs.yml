@@ -323,12 +323,14 @@ nav:
               - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
               - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
               - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
-          - CDNetworks:
-              - CDN/CDNetwork/index.md                     # Trang chính của mục CDNetworks
-              - Content Acceleration (CA) - Tăng tốc nội dung tĩnh: CDN/CDNetwork/content-acceleration.md
-              #- Dynamic Web Acceleration (DWA) - Tăng tốc nội dung động: CDN/CDNetwork/dynamic-web-acceleration.md
-              #- Media Acceleration Live (Video on Demand-VoD) - Tối ưu hóa truyền tải video: CDN/CDNetwork/media-acceleration-vod.md
-              #- Media Acceleration Live Broadcast (MALB) - Truyền phát video trực tiếp: CDN/CDNetwork/media-live-broadcast.md
+          - CDN:
+              - CDN/index.md                     # Trang chính của mục CDN
+              - Bắt đầu: CDN/started.md
+              - Content Acceleration (CA) - Tăng tốc nội dung tĩnh: CDN/content-acceleration.md
+              - Dynamic Web Acceleration (DWA) - Tăng tốc nội dung động: CDN/dynamic-web-acceleration.md
+              - Media Acceleration Live (Video on Demand-VoD) - Tối ưu hóa truyền tải video: CDN/media-acceleration-vod.md
+              - Media Acceleration Live Broadcast (MALB) - Truyền phát video trực tiếp: CDN/media-live-broadcast.md
+
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
