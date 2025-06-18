@@ -79,12 +79,10 @@ Link hình ảnh gốc: https://design.nin.id.vn/wp-content/uploads/2023/02/bang
 Kiểm thử thời gian thông qua Postman
 
 === "Chưa cấu hình CDN"
-		![](assets/images/content-acceleration/16h-05'_2025-06-18.jpg)
-		
-=== "Lần đầu CDN chưa cache"
-		![](assets/images/content-acceleration/15h-58'_2025-06-18.jpg)
+![](assets/images/content-acceleration/16h-05'_2025-06-18.jpg)
 
-=== "Lần tiếp theo CDN đã có cache"
-		![](assets/images/content-acceleration/15h-59'_2025-06-18.jpg)
+=== "Lần đầu CDN chưa cache"	![](assets/images/content-acceleration/15h-58'_2025-06-18.jpg)
+
+=== "Lần tiếp theo CDN đã có cache"	![](assets/images/content-acceleration/15h-59'_2025-06-18.jpg)
 
 
