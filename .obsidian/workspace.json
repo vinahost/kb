@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db2c7e8bb6b689cc",
+        "id": "004b54d33d5770db",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ec75596a4127df",
+            "id": "b75c9be31fe621b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,21 +169,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5ec75596a4127df",
+  "active": "b75c9be31fe621b4",
   "lastOpenFiles": [
-    "docs/CDN/dynamic-web-acceleration.md",
-    "docs/CDN/media-acceleration-vod.md",
-    "docs/CDN/media-live-broadcast.md",
+    "docs/CDN/assets/images/content-acceleration/16h-17'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-59'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-58'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/16h-05'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/One-Click Certificate Application.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-28'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-16'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-11'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-09'_2025-06-18.jpg",
+    "docs/CDN/assets/images/content-acceleration/15h-05'_2025-06-18.jpg",
     "docs/CDN/content-acceleration.md",
+    "docs/CDN/assets/images/content-acceleration/truy-cap-Certificate-MGMT.jpg",
     "docs/CDN/started.md",
-    "docs/CDN/assets/images/login_infomation_whmcs.jpg",
-    "docs/CDN/assets/images/login_infomation_email.jpg",
     "docs/CDN/index.md",
+    "docs/CDN/media-live-broadcast.md",
+    "docs/CDN/media-acceleration-vod.md",
+    "docs/CDN/dynamic-web-acceleration.md",
     "dynamic-web-acceleration.mdbak.md",
     "docs/CDN/CDNetwork/started.md",
-    "docs/CDN/assets/images/content-acceleration/login.jpg",
-    "docs/CDN/assets/images/content-acceleration/dashboard.jpg",
-    "docs/CDN/assets/images/content-acceleration/content-acceleration-services.jpg",
     "docs/CDN/assets/images/media-live-broadcast",
     "docs/CDN/assets/images/media-acceleration-vod",
     "docs/CDN/assets/images/dynamic-web-acceleration",
@@ -191,7 +197,6 @@
     "docs/CDN/assets/images",
     "docs/CDN/assets",
     "docs/CDN/CDNetwork/index.md",
-    "docs/CDN/CDNetwork/bounce-rate.png",
     "docs/CDN/CDNetwork/3-giay-vang-quyet-dinh-khach-hang-o-lai-hay-roi-di.md.md",
     "docs/CDN/CDNetwork/content-acceleration.md",
     "docs/CDN/CDNetwork/dynamic-web-acceleration.md",
