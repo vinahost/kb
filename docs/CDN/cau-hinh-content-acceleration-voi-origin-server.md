@@ -1,4 +1,4 @@
-## **Hướng dẫn cấu hình dịch vụ Content Acceleration (CA) với Origin Server
+## Hướng dẫn cấu hình dịch vụ Content Acceleration (CA) với Origin Server
 
 Tài liệu này hướng dẫn bạn cách tối ưu hóa tốc độ tải nội dung tĩnh cho website của mình bằng dịch vụ CDNetworks Content Acceleration (CA) với Origin Server
 
@@ -50,9 +50,9 @@ https://dnschecker.org/#CNAME/static.nin.id.vn
 Lưu ý thêm, Nếu trang web của bạn đang sử dụng Shared Hosting và chỉ cho phép truy cập bằng Domain thì cần cấu hình khai báo thêm **Back-to-Origin Request Host** là domain trang web của bạn
 ![](assets/images/content-acceleration/16h-17'_2025-06-18.jpg)
 
-### Bước 6: Cấu hình CDN trên trang web và kiểm thử
+### Bước 6: Cấu hình CDN lên trang web và kiểm thử
 
-Kiểm thử thời gian thông qua Postman
+Kiểm thử thời gian thông qua Postman https://web.postman.co/
 
 === "Chưa cấu hình CDN"
 	![](assets/images/content-acceleration/16h-05'_2025-06-18.jpg)
