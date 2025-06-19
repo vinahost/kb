@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27bdd9f8d13a966f",
+        "id": "27c793a0cfc95e73",
         "type": "tabs",
         "children": [
           {
-            "id": "324e20a68a5c20a2",
+            "id": "6c3cf8fb7571fcf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cau-hinh-content-acceleration-voi-origin-server"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cau-hinh-content-acceleration-voi-origin-server"
+              "title": "Outline"
             }
           }
         ],
@@ -169,21 +164,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "324e20a68a5c20a2",
+  "active": "6c3cf8fb7571fcf4",
   "lastOpenFiles": [
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/17.jpg",
-    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/cau-hinh-object-storage.md",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/15.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/content-acceleration.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/9.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/8.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/7.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/6.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/5.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/4.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/3.jpg",
-    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/25.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/14.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/15.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/9.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/8.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/13.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/12.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/11.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/10.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/2.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/1.jpg",
+    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
     "docs/CDN/assets/images/cau-hinh-object-storage",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage - Copy",
