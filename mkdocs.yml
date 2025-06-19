@@ -327,10 +327,7 @@ nav:
               - CDN/index.md                     # Trang chính của mục CDN
               - Đăng nhập: CDN/started.md
               - Cấu hình Content Acceleration (CA) với Origin Server: CDN/cau-hinh-content-acceleration-voi-origin-server.md
-              - Cấu hình Content Acceleration (CA) với Object Storage: CDN/cau-hinh-content-acceleration-voi-object-storage.md
-              - Dynamic Web Acceleration (DWA) - Tăng tốc nội dung động: CDN/dynamic-web-acceleration.md
-              - Media Acceleration Live (Video on Demand-VoD) - Tối ưu hóa truyền tải video: CDN/media-acceleration-vod.md
-              - Media Acceleration Live Broadcast (MALB) - Truyền phát video trực tiếp: CDN/media-live-broadcast.md
+              - Cấu hình Object Storage: CDN/cau-hinh-object-storage.md
 
       - Shared Hosting:
           #    - SEO Hosting:
