@@ -325,8 +325,9 @@ nav:
               - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
           - CDN:
               - CDN/index.md                     # Trang chính của mục CDN
-              - Bắt đầu: CDN/started.md
-              - Content Acceleration (CA) - Tăng tốc nội dung tĩnh: CDN/content-acceleration.md
+              - Đăng nhập: CDN/started.md
+              - Cấu hình Content Acceleration (CA) với Origin Server: CDN/cau-hinh-content-acceleration-voi-origin-server.md
+              - Cấu hình Content Acceleration (CA) với Object Storage: CDN/cau-hinh-content-acceleration-voi-object-storage.md
               - Dynamic Web Acceleration (DWA) - Tăng tốc nội dung động: CDN/dynamic-web-acceleration.md
               - Media Acceleration Live (Video on Demand-VoD) - Tối ưu hóa truyền tải video: CDN/media-acceleration-vod.md
               - Media Acceleration Live Broadcast (MALB) - Truyền phát video trực tiếp: CDN/media-live-broadcast.md
