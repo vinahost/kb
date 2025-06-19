@@ -30,10 +30,10 @@ Tài liệu này hướng dẫn bạn cách tối ưu hóa tốc độ tải n�
 
 **Acceleration Configuration**:  
 - **Cấu hình có sẵn**:   
-	-- **Copy settings from an existing domain** tích chọn nếu muốn sao chép cấu hình đã cấu hĩnh sẵn cho domain đã có trước đó.   
-	**The Reference Domain**: Chọn cấu hình của domain cần sao chép  
+	- **Copy settings from an existing domain** tích chọn nếu muốn sao chép cấu hình đã cấu hĩnh sẵn cho domain đã có trước đó.   
+	**The Reference Domain**: Chọn cấu hình của domain cần sao chép    
 - **Cấu hình mới**:   
-	-- Customized settings** tích chọn cho tên miền mới hoặc muốn tuỳ chỉnh thêm cấu hình  
+	- Customized settings** tích chọn cho tên miền mới hoặc muốn tuỳ chỉnh thêm cấu hình  
 
 ![](assets/images/content-acceleration/Domain-Information.jpg)
 
@@ -79,12 +79,8 @@ Link hình ảnh gốc: https://design.nin.id.vn/wp-content/uploads/2023/02/bang
 Kiểm thử thời gian thông qua Postman
 
 === "Chưa cấu hình CDN"
-   ![](assets/images/content-acceleration/16h-05'_2025-06-18.jpg)
-
-=== "Lần đầu CDN chưa cache"	
-   ![](assets/images/content-acceleration/15h-58'_2025-06-18.jpg)
-
-=== "Lần tiếp theo CDN đã có cache"	
-   ![](assets/images/content-acceleration/15h-59'_2025-06-18.jpg)
-
-
+	![](assets/images/content-acceleration/16h-05'_2025-06-18.jpg)
+=== "Lần đầu CDN chưa cache"
+	![](assets/images/content-acceleration/15h-58'_2025-06-18.jpg)
+=== "Lần tiếp theo CDN đã có cache"
+	![](assets/images/content-acceleration/15h-59'_2025-06-18.jpg)
