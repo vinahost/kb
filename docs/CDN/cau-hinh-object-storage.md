@@ -32,18 +32,18 @@ Lưu và phân phối file tĩnh như: ảnh, video bài giảng, PDF, MP3...
 	![](assets/images/cau-hinh-object-storage/14.jpg)
 	![](assets/images/cau-hinh-object-storage/15.jpg)
 === "**Bước 4 (Tuỳ chọn thêm)**"  
-	📦 Chính sách giá Object Storage CDNetworks
-	  - **Tính 2 loại phí**:
-	    - **Phí lưu trữ**: Tính theo tổng dung lượng dữ liệu được lưu trữ cao nhất trong tháng.
-	    - **Phí truyền tải (Traffic Usage)**: Tính theo lượng dữ liệu **truy xuất ra ngoài**.
-	 - **Phí Traffic Usage phụ thuộc cách truy cập**:
-	    - ✅ **Truy cập qua CDN của CDNetworks** → **giá rẻ**
-	    - ❌ **Truy cập trực tiếp vào Storage** → **giá cao**
-	    - ❌ **CDN khác (ví dụ Cloudflare) truy cập Storage CDNW** → **vẫn tính giá cao**
-	 - **Khuyến nghị**:
-	    - **Luôn dùng CDN nội bộ của CDNetworks** để truy cập file lưu trong **Object Storage** nhằm tối ưu chi phí.
-	**Các bước cấu hình**
-	**Bước 1: Thêm domain mới trong dịch vụ Content Acceleration**
+	📦 Chính sách giá Object Storage CDNetworks  
+	  - **Tính 2 loại phí**:  
+	    - **Phí lưu trữ**: Tính theo tổng dung lượng dữ liệu được lưu trữ cao nhất trong tháng.  
+	    - **Phí truyền tải (Traffic Usage)**: Tính theo lượng dữ liệu **truy xuất ra ngoài**.  
+	 - **Phí Traffic Usage phụ thuộc cách truy cập**:  
+	    - ✅ **Truy cập qua CDN của CDNetworks** → **giá rẻ**  
+	    - ❌ **Truy cập trực tiếp vào Storage** → **giá cao**  
+	    - ❌ **CDN khác (ví dụ Cloudflare) truy cập Storage CDNW** → **vẫn tính giá cao**  
+	 - **Khuyến nghị**:  
+	    - **Luôn dùng CDN nội bộ của CDNetworks** để truy cập file lưu trong **Object Storage** nhằm tối ưu chi phí.  
+	**Các bước cấu hình**  
+	**Bước 1: Thêm domain mới trong dịch vụ Content Acceleration**  
 	![](assets/images/cau-hinh-object-storage/16.jpg)
 	![](assets/images/cau-hinh-object-storage/17.jpg)
 	![](assets/images/cau-hinh-object-storage/18.jpg)
