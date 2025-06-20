@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27c793a0cfc95e73",
+        "id": "00c1dc83dc324694",
         "type": "tabs",
         "children": [
           {
-            "id": "6c3cf8fb7571fcf4",
+            "id": "4bfbdfc9204e0f32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/CDN/cau-hinh-object-storage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cau-hinh-object-storage"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/CDN/cau-hinh-object-storage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of cau-hinh-object-storage"
             }
           }
         ],
@@ -164,19 +169,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c3cf8fb7571fcf4",
+  "active": "4bfbdfc9204e0f32",
   "lastOpenFiles": [
+    "docs/CDN/assets/images/cau-hinh-object-storage/29.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/28.jpg",
+    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/16.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/27.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/26.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/25.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/24.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/23.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/22.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/21.jpg",
+    "docs/CDN/assets/images/cau-hinh-object-storage/20.jpg",
     "docs/CDN/cau-hinh-object-storage.md",
-    "docs/CDN/assets/images/cau-hinh-object-storage/14.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/15.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/9.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/8.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/13.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/12.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/11.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/10.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/2.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/1.jpg",
     "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
     "docs/CDN/assets/images/cau-hinh-object-storage",
