@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/CDN/index.md",
+                "file": "docs/CDN/cau-hinh-object-storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "cau-hinh-object-storage"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CDN/index.md",
+                "file": "docs/CDN/cau-hinh-object-storage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of cau-hinh-object-storage"
             }
           }
         ],
@@ -171,8 +171,8 @@
   },
   "active": "e44f44e545d76cf7",
   "lastOpenFiles": [
-    "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/index.md",
+    "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/assets/images/cau-hinh-object-storage/29.jpg",
     "docs/CDN/assets/images/cau-hinh-object-storage/28.jpg",

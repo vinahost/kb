@@ -37,9 +37,9 @@ Lưu và phân phối file tĩnh như: ảnh, video bài giảng, PDF, MP3...
 	    - **Phí lưu trữ**: Tính theo tổng dung lượng dữ liệu được lưu trữ cao nhất trong tháng.  
 	    - **Phí truyền tải (Traffic Usage)**: Tính theo lượng dữ liệu **truy xuất ra ngoài**.  
 	 - **Phí Traffic Usage phụ thuộc cách truy cập**:  
-	    - ✅ **Truy cập qua CDN của CDNetworks** → **giá rẻ**  
-	    - ❌ **Truy cập trực tiếp vào Storage** → **giá cao**  
-	    - ❌ **CDN khác (ví dụ Cloudflare) truy cập Storage CDNW** → **vẫn tính giá cao**  
+	    - ✅ Truy cập qua CDN của CDNetworks → giá rẻ  
+	    - ❌ Truy cập trực tiếp vào Storage → giá cao  
+	    - ❌ CDN khác (ví dụ Cloudflare) truy cập Storage CDNW → vẫn tính giá cao  
 	 - **Khuyến nghị**:  
 	    - **Luôn dùng CDN nội bộ của CDNetworks** để truy cập file lưu trong **Object Storage** nhằm tối ưu chi phí.  
 	**Các bước cấu hình**  
