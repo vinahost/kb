@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00c1dc83dc324694",
+        "id": "fbb6647062e56dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "4bfbdfc9204e0f32",
+            "id": "e44f44e545d76cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/CDN/cau-hinh-object-storage.md",
+                "file": "docs/CDN/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cau-hinh-object-storage"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CDN/cau-hinh-object-storage.md",
+                "file": "docs/CDN/index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cau-hinh-object-storage"
+              "title": "Outline of index"
             }
           }
         ],
@@ -169,8 +169,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4bfbdfc9204e0f32",
+  "active": "e44f44e545d76cf7",
   "lastOpenFiles": [
+    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/index.md",
+    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/assets/images/cau-hinh-object-storage/29.jpg",
     "docs/CDN/assets/images/cau-hinh-object-storage/28.jpg",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/16.jpg",
@@ -181,9 +184,6 @@
     "docs/CDN/assets/images/cau-hinh-object-storage/23.jpg",
     "docs/CDN/assets/images/cau-hinh-object-storage/22.jpg",
     "docs/CDN/assets/images/cau-hinh-object-storage/21.jpg",
-    "docs/CDN/assets/images/cau-hinh-object-storage/20.jpg",
-    "docs/CDN/cau-hinh-object-storage.md",
-    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
     "docs/CDN/assets/images/cau-hinh-object-storage",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage - Copy",
@@ -192,7 +192,6 @@
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage",
     "docs/CDN/assets/images/New folder",
     "docs/CDN/New Text Document.txt",
-    "docs/CDN/index.md",
     "content-acceleration.md",
     "docs/CDN/content-acceleration.md",
     "docs/CDN/media-live-broadcast.md",

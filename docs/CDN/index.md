@@ -7,3 +7,5 @@ Vui lòng chọn dịch vụ bạn đang sử dụng để bắt đầu cấu h�
 * * *
 ### 🗂️ [Cấu hình Content Acceleration (CA) với Origin Server](cau-hinh-content-acceleration-voi-origin-server.md)
 * * *
+### 🗂️ [Cấu hình Object Storage](cau-hinh-object-storage.md)
+***
