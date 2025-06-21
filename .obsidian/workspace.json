@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb6647062e56dc5",
+        "id": "0d74762f9220cca9",
         "type": "tabs",
         "children": [
           {
-            "id": "e44f44e545d76cf7",
+            "id": "7dfc37c9f12a3ee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/CDN/cau-hinh-object-storage.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cau-hinh-object-storage"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CDN/cau-hinh-object-storage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cau-hinh-object-storage"
+              "title": "Outline"
             }
           }
         ],
@@ -169,11 +164,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e44f44e545d76cf7",
+  "active": "7dfc37c9f12a3ee7",
   "lastOpenFiles": [
-    "docs/CDN/index.md",
     "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
+    "docs/CDN/index.md",
     "docs/CDN/assets/images/cau-hinh-object-storage/29.jpg",
     "docs/CDN/assets/images/cau-hinh-object-storage/28.jpg",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server/16.jpg",
