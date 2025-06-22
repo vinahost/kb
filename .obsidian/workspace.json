@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb6647062e56dc5",
+        "id": "ea1ff789ec1571fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e44f44e545d76cf7",
+            "id": "f3d18e42e1824db6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cau-hinh-content-acceleration-voi-origin-server"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cau-hinh-content-acceleration-voi-origin-server"
+              "title": "Outline"
             }
           }
         ],
@@ -169,25 +164,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e44f44e545d76cf7",
+  "active": "f3d18e42e1824db6",
   "lastOpenFiles": [
-    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/index.md",
+    "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/14.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/13.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/12.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/11.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/15.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/9.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/8.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/7.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/6.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/5.jpg",
     "docs/CDN/cau-hinh-dich-vu-low-latency-streaming.md",
     "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/17.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/16.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/15.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/14.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/13.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/12.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/11.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/10.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/9.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming/8.jpg",
-    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server",
     "docs/CDN/assets/images/New folder",
     "docs/CDN/New Text Document.txt",
-    "docs/CDN/index.md",
+    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
     "docs/CDN/assets/images/cau-hinh-object-storage",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage - Copy",
@@ -204,7 +201,6 @@
     "docs/CDN/CDNetwork/started.md",
     "docs/CDN/assets/images/media-live-broadcast",
     "docs/CDN/assets/images/media-acceleration-vod",
-    "docs/CDN/assets/images/dynamic-web-acceleration",
     "docs/CDN/CDNetwork/index.md",
     "docs/CDN/CDNetwork/3-giay-vang-quyet-dinh-khach-hang-o-lai-hay-roi-di.md.md",
     "docs/CDN/CDNetwork/content-acceleration.md",

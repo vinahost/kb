@@ -327,7 +327,9 @@ nav:
               - CDN/index.md                     # Trang chính của mục CDN
               - Đăng nhập: CDN/started.md
               - Cấu hình Content Acceleration (CA) với Origin Server: CDN/cau-hinh-content-acceleration-voi-origin-server.md
-              - Cấu hình Object Storage: CDN/cau-hinh-object-storage.md
+              - Cấu hình Dynamic Web Acceleration (DWA) với Origin Server: CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md
+              - Cấu hình Object Storage (OS): CDN/cau-hinh-object-storage.md
+              - Cấu hình Low Latency Streaming (LLS): CDN/cau-hinh-dich-vu-low-latency-streaming.md
 
       - Shared Hosting:
           #    - SEO Hosting:
