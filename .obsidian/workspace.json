@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80861133c215deca",
+        "id": "ba0244b56f9d93c2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c86ed9c5756215",
+            "id": "91076e49a45cbaea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,9 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a7c86ed9c5756215",
+  "active": "91076e49a45cbaea",
   "lastOpenFiles": [
     "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
+    "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/index.md",
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/14.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/13.jpg",
@@ -183,7 +184,6 @@
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server",
     "docs/CDN/assets/images/New folder",
     "docs/CDN/New Text Document.txt",
-    "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming",
     "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
     "docs/CDN/assets/images/cau-hinh-object-storage",
