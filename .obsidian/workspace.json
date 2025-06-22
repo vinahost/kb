@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea1ff789ec1571fc",
+        "id": "80861133c215deca",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d18e42e1824db6",
+            "id": "a7c86ed9c5756215",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,10 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f3d18e42e1824db6",
+  "active": "a7c86ed9c5756215",
   "lastOpenFiles": [
-    "docs/CDN/index.md",
     "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
+    "docs/CDN/index.md",
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/14.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/13.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server/12.jpg",

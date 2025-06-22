@@ -18,8 +18,8 @@ Tăng tốc toàn diện nội dung tĩnh và động cho website `sachgiaokhoa.
 
 | Mục                  | Giá trị                                                  |
 | -------------------- | -------------------------------------------------------- |
-| **CDN Domain (DWA)** | `sachgiaokhoa.site` _(sử dụng chính root domain)_        |
-| **Origin URL**       | `https://sachgiaokhoa.site`                              |
+| **CDN Domain (DWA)** | `sachgiaokhoa.site` _(sử dụng root domain)_              |
+| **Origin IP**        | Địa chỉ IP Server                                        |
 | **CNAME record**     | `sachgiaokhoa.site` → trỏ về `DWA edge hostname` của CDN |
 
 ---
