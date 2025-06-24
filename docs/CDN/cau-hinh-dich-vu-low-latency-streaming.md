@@ -27,9 +27,7 @@ Truyền phát video **trực tiếp** với **độ trễ cực thấp** (1~3 g
 	**Tạo thêm domain mới cho luồng RTMP Push/Pull tín hiệu**
 	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/1.jpg)
 	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/2.jpg)
-	**Tạo thêm domain mới cho luồng HTTP Pull tín hiệu**
-	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/3.jpg)
-	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/4.jpg)
+	
 === "**Bước 2**"
 	**Thực hiện trỏ record DNS**
 	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/5.jpg)

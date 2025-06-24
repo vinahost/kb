@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "819e898d50ed235d",
+        "id": "c97c97ec2101a735",
         "type": "tabs",
         "children": [
           {
-            "id": "56e5e47ab8511bda",
+            "id": "eb263c461a8daff2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,10 +164,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "56e5e47ab8511bda",
+  "active": "eb263c461a8daff2",
   "lastOpenFiles": [
-    "docs/CDN/index.md",
+    "docs/CDN/cau-hinh-dich-vu-low-latency-streaming.md",
     "docs/CDN/huong-dan-cau-hinh-media-acceleration-voi-object-storage.md",
+    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/index.md",
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/9.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/17.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/16.jpg",
@@ -180,8 +182,6 @@
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/22.jpg",
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/21.jpg",
     "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
-    "docs/CDN/cau-hinh-dich-vu-low-latency-streaming.md",
-    "docs/CDN/cau-hinh-object-storage.md",
     "docs/CDN/New Text Document.txt",
     "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage",
     "docs/CDN/assets/images/New folder",
