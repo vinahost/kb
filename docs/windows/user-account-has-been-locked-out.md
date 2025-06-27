@@ -20,13 +20,13 @@ categories:
 
 !!! warning "Từ chối trách nhiệm"
 
-    Thực hiện vô hiệu hoá chính sách bảo mật có thể khiến tài khoản Administrator bị lộ mật khẩu trong tương lai. Hãy đảm bảo bạn đã [đặt mật khẩu mạnh](https://kb.vinahost.vn/huong-dan-thay-doi-password-vps/), khuyến nghị [thay đổi cổng RDP](https://kb.vinahost.vn/os/windows/thay-doi-cong-rdp/). Chúng tôi không chịu trách nhiệm nếu mật khẩu của bạn bị lộ dưới bất kỳ hình thức nào. VinaHost chỉ cung cấp hạ tầng dịch vụ, máy chủ đã được bàn giao cho khách hàng tự quản lý.
+    Thực hiện vô hiệu hoá chính sách bảo mật có thể khiến tài khoản Administrator bị lộ mật khẩu trong tương lai. Hãy đảm bảo bạn đã [đặt mật khẩu mạnh](https://kb.vinahost.vn/vps/huong-dan-thay-doi-password-vps/), khuyến nghị [thay đổi cổng RDP](https://kb.vinahost.vn/windows/thay-doi-cong-rdp/). Chúng tôi không chịu trách nhiệm nếu mật khẩu của bạn bị lộ dưới bất kỳ hình thức nào. VinaHost chỉ cung cấp hạ tầng dịch vụ, máy chủ đã được bàn giao cho khách hàng tự quản lý.
 
 ### Bước 1. Sử dụng VNC
 
 Nếu bạn đang sử dụng dịch vụ VPS tại VinaHost, bạn có thể sử dụng VNC để truy cập vào máy chủ của mình. VNC cho phép bạn điều khiển máy tính từ xa mà KHÔNG cần phải đăng nhập bằng Remote Desktop.
 
-Tham khảo hướng dẫn sử dụng VNC tại [đây](https://vinahost.vn/huong-dan-su-dung-vnc).
+Tham khảo hướng dẫn sử dụng VNC tại [đây](https://vinahost.vn/vps/huong-dan-su-dung-vnc/).
 
 ### Bước 2. Thay đổi chính sách bảo mật
 
