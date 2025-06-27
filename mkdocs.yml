@@ -369,7 +369,7 @@ nav:
               - huong-dan-cai-lai-os-vps-windows10-lite.md
               - Hướng dẫn thay đổi cổng RDP trên Windows: windows/thay-doi-cong-rdp.md
               - Hướng dẫn mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp: windows/mo-rong-dung-luong-dia-sau-khi-nang-cap.md
-              - Hướng dẫn sửa lỗi "the user account has been locked out": windows/user-account-has-been-locked-out.md
+              - Hướng dẫn sửa lỗi Remote Desktop "the user account has been locked out": windows/user-account-has-been-locked-out.md
           - MMO VPS:
               - Hướng dẫn sử dụng Plugin FoxyProxy trên Chrome và Firefox: huong-dan-su-dung-plugin-foxyproxy-tren-chrome-va-firefox.md
               - Hướng Dẫn Sử Dụng Proxy Web-interface: su-dung-proxy-web-interface.md
