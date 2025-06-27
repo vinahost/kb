@@ -1,5 +1,5 @@
 ---
-title: 'Hướng dẫn sửa lỗi "the user account has been locked khi remote vào Windows"'
+title: 'Hướng dẫn sửa lỗi Remote Desktop "the user account has been locked"'
 date: "2025-06-28"
 categories:
     - "vps"
