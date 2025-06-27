@@ -26,7 +26,7 @@ categories:
 
 Nếu bạn đang sử dụng dịch vụ VPS tại VinaHost, bạn có thể sử dụng VNC để truy cập vào máy chủ của mình. VNC cho phép bạn điều khiển máy tính từ xa mà KHÔNG cần phải đăng nhập bằng Remote Desktop.
 
-Tham khảo hướng dẫn sử dụng VNC tại [đây](https://vinahost.vn/vps/huong-dan-su-dung-vnc/).
+Tham khảo hướng dẫn sử dụng VNC tại [đây](https://kb.vinahost.vn/vps/huong-dan-su-dung-vnc/).
 
 ### Bước 2. Thay đổi chính sách bảo mật
 
