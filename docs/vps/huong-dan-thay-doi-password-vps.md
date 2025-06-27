@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn thay đổi mật khẩu VPS từ giao diện khách hàng VinaHost"
+title: "Thay đổi mật khẩu VPS từ bảng điều khiển VPS"
 date: "2025-04-05"
 categories:
     - "vps"
@@ -11,17 +11,17 @@ categories:
 
     Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, hoặc gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
 
-## Thực hiện
+## Thay đổi mật khẩu VPS từ bảng điều khiển VPS
 
-### 1. Truy cập bảng điều khiển VPS
+### Bước 1. Truy cập bảng điều khiển VPS
 
-Đăng nhập vào [**trang khách hàng VinaHost**](https://secure.vinahost.vn/ac/index.php?rp=/login) > chọn **Dịch vụ** > chọn VPS cần đổi mật khẩu. Bảng điều khiển sẽ tự động được hiển thị sau khoảng 2 giây.
+Đăng nhập vào [trang khách hàng VinaHost](https://secure.vinahost.vn/ac/index.php?rp=/login). Trong phần **Dịch vụ**, nhấp vào VPS cần đổi mật khẩu rồi cuộn xuống cuối trang. Bảng điều khiển sẽ tự động được hiển thị sau khoảng 2 giây.
 
 !!! tip "Mẹo"
 
     Nếu bảng điều khiển không hiển thị, vui lòng gửi yêu cầu hỗ trợ.
 
-### 2. Tạo mật khẩu mạnh
+### Buớc 2. Tạo mật khẩu mạnh
 
 Truy cập [**trình tạo mật khẩu mạnh Avast**](https://www.avast.com/random-password-generator), chọn độ dài mật khẩu và các ký tự mong muốn.
 
@@ -38,7 +38,7 @@ Truy cập [**trình tạo mật khẩu mạnh Avast**](https://www.avast.com/ra
     - Bạn hoàn toàn có thể sử dụng công cụ tạo mật khẩu mạnh khác.
     - Không phải mọi ký tự đặc biệt đều được cho phép kể cả khi đã bật **Password must meet complexity requirements** trong Windows.
 
-### 3. Thay đổi mật khẩu
+### Bước 3. Thay đổi mật khẩu
 
 Quay lại bảng điều khiển VPS > **Settings** > **Change Password**.
 
@@ -54,7 +54,7 @@ Nhập mật khẩu mới > nhấn nút **Change Password**.
 
 ![Bật VPS lên](../images/thay_doi_mat_khau_vps_client_site-05.jpg)
 
-VinaHost chúc bạn thực hiện thành công! 🍻
+<hr>VinaHost chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >

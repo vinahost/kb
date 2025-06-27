@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn thay đổi cổng RDP trên Windows"
+title: "Thay đổi cổng RDP trên Windows"
 date: "2025-03-04"
 categories:
     - "vps"
@@ -18,7 +18,7 @@ categories:
 
     1.  **Mở Powershell với quyền quản trị viên**
 
-        ![Mở Powershell](../../images/windows-thay_doi_cong_rdp-01.jpg)
+        ![Mở Powershell](../images/windows-thay_doi_cong_rdp-01.jpg)
 
     2. **Kiểm tra cổng RDP đang dùng**
 
@@ -67,7 +67,7 @@ categories:
 
     1. **Mở Registry Editor với quyền quản trị viên**
 
-        ![Mở Registry Editor](../../images/windows-thay_doi_cong_rdp-02.jpg)
+        ![Mở Registry Editor](../images/windows-thay_doi_cong_rdp-02.jpg)
 
     2. **Điều hướng đến khoá registry cần sửa**
 
@@ -77,22 +77,21 @@ categories:
         HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp
         ```
 
-        ![Điều hướng đến khoá registry cần sửa](../../images/windows-thay_doi_cong_rdp-03.jpg)
+        ![Điều hướng đến khoá registry cần sửa](../images/windows-thay_doi_cong_rdp-03.jpg)
 
     3. **Sửa khoá registry**
 
         Khoá registry có tên **PortNumber** quy định số cổng RDP. Nhấp đôi chuột vào khoá này, chọn **Decimal** để hiện số cổng dạng thập phân.
 
-        ![Hiện giá trị khoá registry dạng thập phân](../../images/windows-thay_doi_cong_rdp-04.jpg)
+        ![Hiện giá trị khoá registry dạng thập phân](../images/windows-thay_doi_cong_rdp-04.jpg)
 
         Nhập số cổng mong muốn vào trường **Value data**, nhấn **OK** để thay đổi.
 
-        ![Sửa giá trị khoá registry](../../images/windows-thay_doi_cong_rdp-05.jpg)
+        ![Sửa giá trị khoá registry](../images/windows-thay_doi_cong_rdp-05.jpg)
 
     4. **Khởi động lại Windows để áp dụng thay đổi**
 
-<hr>
-VinaHost chúc bạn thực hiện thành công! 🍻
+<hr>VinaHost chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >

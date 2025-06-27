@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn điều khiển VPS từ xa với VNC"
+title: "Điều khiển VPS từ xa với VNC"
 date: "2025-06-28"
 categories:
     - "vps"
@@ -8,6 +8,8 @@ categories:
 !!! info "Liên hệ"
 
     Nếu bạn cần hỗ trợ, xin vui lòng liên hệ hotline **1900 6046 nhánh 3**, hoặc gửi email đến [**support@vinahost.vn**](mailto:support@vinahost.vn), hoặc chat trực tiếp với chúng tôi tại [**đây**](https://livechat.vinahost.vn/chat.php).
+
+## Điều khiển VPS từ xa với VNC
 
 VNC đặc biệt hữu ích trong trường hợp bạn không thể đăng nhập từ xa (SSH hoặc RDP) đến máy chủ của mình vì bất kỳ lý do gì.
 
@@ -33,8 +35,7 @@ Trong bảng điều khiển VPS, chọn biểu tượng Console > nhấn **Laun
 
     Nếu cửa sổ console (VNC) không hiển thị (chỉ có màu đen) hoặc không thể kết nối đến máy chủ, vui lòng gửi yêu cầu hỗ trợ.
 
-<hr>
-VinaHost chúc bạn thực hiện thành công! 🍻
+<hr>VinaHost chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >

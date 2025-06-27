@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp"
+title: "Mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp"
 date: "2025-03-04"
 categories:
     - "vps"
@@ -30,7 +30,7 @@ Các điều kiện cần phải được đáp ứng để có thể 
 -   Phần dung lượng trống nằm liền kề bên phải của volume cần được mở rộng
 -   Volume cần được mở rộng phải được định dạng NTFS hoặc ReFS
 
-## Thực hiện
+## Mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp
 
 Sau khi nâng cấp dung lượng lưu trữ cho VPS, thực hiện các bước sau để lấy toàn bộ dung lượng trống chưa được sử dụng.
 
@@ -44,15 +44,15 @@ Sau khi nâng cấp dung lượng lưu trữ cho VPS, thực hiện các b
 
         Tìm kiếm và chạy **Computer Management** với quyền quản trị viên.
 
-        ![Computer Management](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-01.jpg)
+        ![Computer Management](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-01.jpg)
 
         Chọn **Storage > Disk Management** trong thanh điều hướng bên trái.
 
-        ![Disk Management](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-02.jpg)
+        ![Disk Management](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-02.jpg)
 
     2. **Xác định volume có thể mở rộng**
 
-        ![Unallocated space](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-03.jpg)
+        ![Unallocated space](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-03.jpg)
 
         Trong ảnh trên, chỉ có một phần dung lượng trống nằm liền kề bên phải của volume **D:**. Do đó, đây cũng là volume duy nhất có thể được mở rộng trong trường hợp này.
 
@@ -60,23 +60,23 @@ Sau khi nâng cấp dung lượng lưu trữ cho VPS, thực hiện các b
 
         Chọn volume cần mở rộng (D:), sau đó chọn **Action > All Tasks > Extend Volume...**.
 
-        ![Extend Volume](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-04.jpg)
+        ![Extend Volume](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-04.jpg)
 
         Chọn **Next** ở cửa sổ tiếp theo.
 
         Đảm bảo toàn bộ dung lượng trống nằm trong hộp **Selected**.
 
-        ![Chọn dung lượng trống để mở rộng](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-05.jpg)
+        ![Chọn dung lượng trống để mở rộng](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-05.jpg)
 
         Chọn **Finish** ở hộp thoại cuối cùng để hoàn tất việc mở rộng.
 
-        ![Finish](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-06.jpg)
+        ![Finish](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-06.jpg)
 
 === "Sử dụng Powershell"
 
     1.  **Mở Powershell với quyền quản trị viên**
 
-        ![Mở Powershell](../../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-07.jpg)
+        ![Mở Powershell](../images/windows-mo_rong_dung_luong_luu_tru_sau_khi_nang_cap-07.jpg)
 
     2. **Kiểm tra cổng RDP đang dùng**
 
@@ -93,8 +93,7 @@ Sau khi nâng cấp dung lượng lưu trữ cho VPS, thực hiện các b
         Resize-Partition -DriveLetter $drive_letter -Size $size.SizeMax
         ```
 
-<hr>
-VinaHost chúc bạn thực hiện thành công! 🍻
+<hr>VinaHost chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >
