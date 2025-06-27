@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "433322d803e21719",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97c97ec2101a735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb263c461a8daff2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22777dbc3cb4e57c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e213ce111dabfcfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4855a1f20ef5c6b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db7092468f3c3fe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3cfb731bd6cb9226",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "504995914a7b172d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d226e7f5245cd426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44323298dff970a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/CDN/CDNetwork/content-acceleration.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for content-acceleration"
+            }
+          },
+          {
+            "id": "f2ad4165cf99da22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/CDN/CDNetwork/content-acceleration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from content-acceleration"
+            }
+          },
+          {
+            "id": "f1327dc9929d08e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0a7a3c5588e38ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "eb263c461a8daff2",
+  "lastOpenFiles": [
+    "docs/CDN/cau-hinh-dich-vu-low-latency-streaming.md",
+    "docs/CDN/huong-dan-cau-hinh-media-acceleration-voi-object-storage.md",
+    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/index.md",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/9.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/17.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/16.jpg",
+    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/8.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/19.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/18.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/24.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/23.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/22.jpg",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage/21.jpg",
+    "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
+    "docs/CDN/New Text Document.txt",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-media-acceleration-voi-object-storage",
+    "docs/CDN/assets/images/New folder",
+    "docs/CDN/New folder",
+    "docs/CDN/assets/images/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server",
+    "docs/CDN/assets/images/cau-hinh-dich-vu-low-latency-streaming",
+    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-origin-server",
+    "docs/CDN/assets/images/cau-hinh-object-storage",
+    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage - Copy",
+    "docs/CDN/cau-hinh-content-acceleration-voi-object-storage.md",
+    "docs/aapanel-quan-ly-server-linux.md",
+    "docs/CDN/assets/images/cau-hinh-content-acceleration-voi-object-storage",
+    "content-acceleration.md",
+    "docs/CDN/content-acceleration.md",
+    "docs/CDN/media-live-broadcast.md",
+    "docs/CDN/dynamic-web-acceleration.md",
+    "docs/CDN/started.md",
+    "docs/CDN/media-acceleration-vod.md",
+    "dynamic-web-acceleration.mdbak.md",
+    "docs/CDN/CDNetwork/started.md",
+    "docs/CDN/CDNetwork/index.md",
+    "docs/CDN/CDNetwork/3-giay-vang-quyet-dinh-khach-hang-o-lai-hay-roi-di.md.md",
+    "docs/CDN/CDNetwork/content-acceleration.md",
+    "docs/CDN/CDNetwork/dynamic-web-acceleration.md",
+    "docs/CDN/CDNetwork/media-acceleration-vod.md",
+    "docs/CDN/CDNetwork/media-live-broadcast.md",
+    "cloud-security.md",
+    "docs/CDN/CDNetwork/content-acceleration - Copy.md",
+    "docs/Email/Email-Marketing/Huong-Dan-Su-Dung_Email-Marketing-V2.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "markdown-tree:new-tree-block-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

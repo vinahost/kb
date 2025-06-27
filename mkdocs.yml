@@ -323,6 +323,15 @@ nav:
               - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
               - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
               - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
+          - CDN:
+              - CDN/index.md                     # Trang chính của mục CDN
+              - Đăng nhập: CDN/started.md
+              - Cấu hình Content Acceleration (CA) với Origin Server: CDN/cau-hinh-content-acceleration-voi-origin-server.md
+              - Cấu hình Dynamic Web Acceleration (DWA) với Origin Server: CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md
+              - Cấu hình Media Acceleration (MA) với Object Storage: CDN/huong-dan-cau-hinh-media-acceleration-voi-object-storage.md
+              - Cấu hình Object Storage (OS): CDN/cau-hinh-object-storage.md
+              - Cấu hình Low Latency Streaming (LLS): CDN/cau-hinh-dich-vu-low-latency-streaming.md
+
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
