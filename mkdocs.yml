@@ -342,6 +342,7 @@ nav:
               - Hướng Dẫn Triển Khai Java Webapp Lên cPanel: huong-dan-trien-khai-java-webapp-cpanel.md
               - Hướng Dẫn Sử Dụng JetBackup Trên Hosting Cpanel: shared-hosting/linux-hosting/huong-dan-su-dung-jetbackup-cpanel.md
               - Hướng Dẫn Đăng Nhập SSH Vào Hosting cPanel: shared-hosting/linux-hosting/ssh-access.md
+              - Hướng dẫn thêm tên miền/tên miền phụ và cài đặt wordpress lên hosting cPanel: shared-hosting/linux-hosting/huong-dan-them-ten-mienten-mien-phu-va-cai-dat-wordpress-len-hosting-cpanel.md
                 #    - Reseller Hosting:
                 #    - WordPress Hosting:
                 #    - Databas Hosting:
@@ -351,11 +352,12 @@ nav:
       - Dịch vụ VPS:
           - Hướng dẫn chung:
               - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
-              - Hướng dẫn thay đổi mật khẩu VPS từ giao diện khách hàng VinaHost: huong-dan-thay-doi-password-vps.md
+              - Hướng dẫn thay đổi mật khẩu VPS từ bảng điều khiển VPS: vps/huong-dan-thay-doi-password-vps.md
               - huong-dan-khoi-dong-lai-dich-vu-vps-tren-vinahost.md
               - Hướng dẫn kiểm tra tài nguyên VPS tại VINAHOST: huong-dan-monitor-resource.md
               - Hướng dẫn trỏ domain về máy chủ VPS tại VINAHOST: tro-domain-VPS.md
               - Hướng dẫn cài lại hệ điều hành cho VPS: reinstall-os-vps.md
+              - Hướng dẫn điều khiển VPS từ xa với VNC: vps/huong-dan-su-dung-vnc.md
           - Linux VPS:
               - Cách Tạo Và Thêm SSH Key Vào Trong VPS: cach-tao-va-them-ssh-key-vao-trong-vps.md
               - Hướng Dẫn Tăng Swap Trên Linux: huong-dan-tang-swap-tren-linux.md
@@ -368,8 +370,9 @@ nav:
               - Hướng Dẫn Tăng Page File (Swap) Trên Windows: huong-dan-tang-page-file-swap-tren-windows.md
               - huong-dan-toi-uu-windows10-tren-moi-truong-vps.md
               - huong-dan-cai-lai-os-vps-windows10-lite.md
-              - Hướng dẫn thay đổi cổng RDP trên Windows: os/windows/thay-doi-cong-rdp.md
-              - Hướng dẫn mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp: os/windows/mo-rong-dung-luong-dia-sau-khi-nang-cap.md
+              - Hướng dẫn thay đổi cổng RDP trên Windows: windows/thay-doi-cong-rdp.md
+              - Hướng dẫn mở rộng dung lượng lưu trữ trên Windows sau khi nâng cấp: windows/mo-rong-dung-luong-dia-sau-khi-nang-cap.md
+              - Hướng dẫn sửa lỗi Remote Desktop "the user account has been locked out": windows/user-account-has-been-locked-out.md
           - MMO VPS:
               - Hướng dẫn sử dụng Plugin FoxyProxy trên Chrome và Firefox: huong-dan-su-dung-plugin-foxyproxy-tren-chrome-va-firefox.md
               - Hướng Dẫn Sử Dụng Proxy Web-interface: su-dung-proxy-web-interface.md
