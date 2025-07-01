@@ -1,4 +1,4 @@
-## 📺 Hướng dẫn cấu hình dịch vụ Low Latency Streaming (LLS)
+## 📺 Hướng dẫn cấu hình dịch vụ Low Latency Streaming (LLS) 
 
 Tài liệu này hướng dẫn bạn cách cấu hình **dịch vụ phát trực tuyến độ trễ thấp (Low Latency Streaming)**, phù hợp với các ứng dụng livestream, truyền hình OTT, hội thảo trực tuyến, dạy học trực tiếp…
 
@@ -54,3 +54,12 @@ Truyền phát video **trực tiếp** với **độ trễ cực thấp** (1~3 g
 	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/16.jpg)
 	![](assets/images/cau-hinh-dich-vu-low-latency-streaming/17.jpg)
 
+	
+## Cấu hình dịch vụ Media Acceleration Live Broadcast
+Tương tự như các bước cầu hình dịch vụ Low Latency Streaming ở trên
+Tuy nhiên dịch vụ này chỉ hỗ trợ pull qua HTTP (HLS)
+Nên luồng Push và Pull sẽ có dạng
+🧪 Ví dụ thực tế:
+| Thành phần   | Giá trị                                             
+| **Push URL** | `rtmp://push.8sporttrutiep.info/8sportlive/01`
+| **Pull URL** | `https://pull.8sporttrutiep.info/8sportlive/01/index.m3u8`
