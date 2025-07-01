@@ -1,5 +1,7 @@
 # Hướng dẫn thêm tên miền/tên miền phụ và cài đặt wordpress lên hosting cPanel
 
+Bài viết này sẽ giới thiệu về **Hướng dẫn thêm tên miền/tên miền phụ và cài đặt wordpress lên hosting cPanel**. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua Hotline 1900 6046 ext. 3, email về support@vinahost.vn hoặc chat với VinaHost qua livechat https://livechat.vinahost.vn/chat.php
+
 # I. Thêm tên miền/**tên miền phụ** vào hosting
 
 Truy cập mục **Domains**
