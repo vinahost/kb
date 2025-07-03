@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14fa9a103d0596af",
+        "id": "cc0b5f282b60185b",
         "type": "tabs",
         "children": [
           {
-            "id": "aee62558dc24f75e",
+            "id": "35a3a2a751027cfb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aee62558dc24f75e",
+  "active": "35a3a2a751027cfb",
   "lastOpenFiles": [
+    "docs/CDN/cau-hinh-referer-anti-hotlinking.md",
+    "docs/CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md",
     "docs/windows/user-account-has-been-locked-out.md",
     "docs/windows/thay-doi-cong-rdp.md",
     "docs/windows/mo-rong-dung-luong-dia-sau-khi-nang-cap.md",
@@ -186,12 +188,10 @@
     "docs/shared-hosting/linux-hosting/attachments/6764e458-5a11-48c4-b183-69241ee0bf13.png",
     "docs/shared-hosting/linux-hosting/attachments",
     "docs/CDN/index.md",
-    "docs/CDN/cau-hinh-referer-anti-hotlinking.md",
     "docs/CDN/cau-hinh-timestamp-anti-hotlinking.md",
     "docs/CDN/New Text Document.txt",
     "docs/CDN/assets/images/cau-hinh-timestamp-anti-hotlinking",
     "docs/CDN/assets/images/New folder",
-    "docs/CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md",
     "docs/CDN/assets/images/cau-hinh-referer-anti-hotlinking",
     "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
     "docs/CDN/cau-hinh-media-acceleration-live-broadcast.md",
