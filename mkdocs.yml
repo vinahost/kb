@@ -334,16 +334,17 @@ nav:
               - Cấu hình Referer Anti Hotlinking: CDN/cau-hinh-referer-anti-hotlinking.md
               - Cấu hình IP Blacklist/Whitelist Anti Hotlinking: CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md
       - FastPanel:
-              - fastpanel/huong-dan-backup-va-restore-website-tren-fastpanel.md
-              - fastpanel/huong-dan-cai-dat-fastpanel-tren-ubuntu.md
-              - fastpanel/huong-dan-cai-dat-va-cau-hinh-ftp-tren-fastpanel.md
-              - fastpanel/huong-dan-cai-dat-website-wordpress-tren-fastpanel.md
-              - fastpanel/huong-dan-cau-hinh-php-tren-fastpanel.md
-              - fastpanel/huong-dan-dang-ky-tai-khoan-tren-fastpanel.md
-              - fastpanel/huong-dan-gui-ticket-tren-fastpanel.md
-              - fastpanel/huong-dan-quet-ma-doc-tren-fastpanel.md
-              - fastpanel/huong-dan-tao-database-tren-fastpanel.md
-              - fastpanel/huong-dan-thiet-lap-https-ssl-cho-website-tren-fastpanel.md
+          - Hướng dẫn sử dụng:
+              - Hướng dẫn backup và restore website trên FastPanel: fastpanel/huong-dan-backup-va-restore-website-tren-fastpanel.md
+              - Hướng dẫn cài đặt FastPanel trên Ubuntu: fastpanel/huong-dan-cai-dat-fastpanel-tren-ubuntu.md
+              - Hướng dẫn cài đặt và cấu hình FTP trên FastPanel: fastpanel/huong-dan-cai-dat-va-cau-hinh-ftp-tren-fastpanel.md
+              - Hướng dẫn cài đặt website Wordpress trên FastPanel: fastpanel/huong-dan-cai-dat-website-wordpress-tren-fastpanel.md
+              - Hướng dẫn cấu hình PHP trên FastPanel: fastpanel/huong-dan-cau-hinh-php-tren-fastpanel.md
+              - Hướng dẫn đăng ký tài khoản trên FastPanel: fastpanel/huong-dan-dang-ky-tai-khoan-tren-fastpanel.md
+              - Hướng dẫn gửi ticket trên FastPanel: fastpanel/huong-dan-gui-ticket-tren-fastpanel.md
+              - Hướng dẫn quét mã độc trên FastPanel: fastpanel/huong-dan-quet-ma-doc-tren-fastpanel.md
+              - Hướng dẫn tạo database trên FastPanel: fastpanel/huong-dan-tao-database-tren-fastpanel.md
+              - Hướng dẫn thiết lập HTTPS-SSL cho website trên FastPanel: fastpanel/huong-dan-thiet-lap-https-ssl-cho-website-tren-fastpanel.md
       - Shared Hosting:
           #    - SEO Hosting:
           - Linux Hosting:
