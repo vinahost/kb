@@ -4,34 +4,55 @@ date: "2021-07-28"
 coverImage: "chinh-sach-hoan-tien.png"
 ---
 
-VinaHost cam kết hoàn tiền **100% trong vòng 30 ngày** tính từ ngày kích hoạt dịch vụ nếu khách hàng yêu cầu. Số tiền và hình thức hoàn tiền sẽ phụ thuộc vào trường hợp hoàn tiền cụ thể được quy định trong **chính sách hoàn tiền**.
+VinaHost cam kết hoàn tiền cho các dịch vụ áp dụng trong chính sách. Số tiền và hình thức hoàn tiền sẽ phụ thuộc vào từng trường hợp cụ thể được quy định chi tiết dưới đây.
 
-## **Quy định hoàn tiền**
+## Quy định hoàn tiền
 
-Trong vòng 30 ngày kể từ ngày kích hoạt gói dịch vụ, nếu khách hàng yêu cầu ngừng sử dụng dịch vụ và hoàn tiền, VinaHost sẽ hoàn trả bằng tiền mặt/chuyển khoản 100% giá trị đã thanh toán của gói dịch vụ mà không yêu cầu khách hàng phải cung cấp lý do.
+### Hoàn tiền 100% trong 5 ngày đầu
+
+Trong vòng **05 ngày** kể từ ngày kích hoạt dịch vụ, khách hàng có thể yêu cầu ngừng sử dụng và được hoàn trả **100% giá trị đã thanh toán** mà không cần cung cấp lý do.
 
 **Lưu ý:**
+* Chính sách này áp dụng cho các dịch vụ: **Lưu trữ website (Hosting), Email Hosting, Hosting đại lý (Reseller), và Máy chủ ảo (VPS)** tại Việt Nam.
+* Mỗi khách hàng chỉ được hoàn tiền một lần duy nhất cho mỗi loại hình dịch vụ.
+* Khách hàng chịu trách nhiệm thanh toán các phí chuyển tiền và chi phí hành chính liên quan (nếu có).
+* Sau khi yêu cầu hoàn tiền được xác nhận, dịch vụ sẽ bị tạm ngưng ngay lập tức và dữ liệu sẽ bị xóa sau 24 giờ.
 
-- _Áp dụng cho Lưu trữ website (hosting) tại Việt Nam, Email Hosting tại Việt Nam, Hosting đại lý (reseller) tại Việt Nam, Máy chủ ảo (VPS) tại Việt Nam._
-- _Khách hàng chịu trách nhiệm thanh toán phí chuyển tiền và các chi phí hành chính liên quan (nếu có)._
+### Hoàn tiền một phần sau 5 ngày
 
-Nếu yêu cầu hoàn tiền phát sinh tại thời điểm ngoài mốc 30 ngày kể từ ngày kích hoạt dịch vụ (áp dụng cho các dịch vụ Lưu trữ website - hosting, Email Hosting, Đại lý hosting - reseller, Máy chủ ảo, Thuê máy chủ riêng, Thuê chỗ đặt máy chủ) thì số dư sau khi trừ chi phí đã sử dụng theo tháng được cộng vào credit của tài khoản khách hàng tại Vinahost. Số dư này chỉ dùng để mua các sản phẩm tại Vinahost.vn (không áp dụng cho tên miền), không được phép chuyển đổi thành tiền mặt.
+Nếu yêu cầu hoàn tiền phát sinh sau mốc **05 ngày** kể từ ngày kích hoạt dịch vụ (áp dụng cho các dịch vụ Hosting, VPS, Thuê máy chủ riêng, Thuê chỗ đặt máy chủ), số dư sau khi trừ chi phí đã sử dụng theo tháng sẽ được cộng vào **tín dụng (credit)** của tài khoản khách hàng tại VinaHost.
 
-**Loại hình dịch vụ không được hoàn tiền dưới bất kỳ hình thức nào:**
+**Lưu ý:**
+* Số dư này chỉ được sử dụng để mua các dịch vụ trên vinahost.vn, không áp dụng cho tên miền và các dịch vụ có bản quyền.
+* Số dư không được phép chuyển đổi thành tiền mặt.
 
-- _Cùng một người yêu cầu (Cùng số CMND)._
-- _Cùng tên miền sử dụng trên gói dịch vụ._
-- _Cùng số điện thoại đăng ký._
+---
 
-## **Điều kiện hoàn tiền**
+## Điều kiện hoàn tiền
 
-Mỗi khách hàng chỉ được hoàn tiền một lần duy nhất đối với mỗi loại hình dịch vụ trong diện được phép hoàn tiền. Nếu khách hàng hủy và hoàn tiền lần thứ 2 cho mỗi loại hình dịch vụ thì sẽ hoàn vào tài khoản của khách hàng tại Vinahost.
+### Các trường hợp không được hoàn tiền dưới mọi hình thức:
 
-Nếu khách hàng yêu cầu hoàn tiền có một trong các thông tin sau trùng với dữ liệu khách hàng/dịch vụ đã được hoàn tiền của công ty thì yêu cầu hoàn tiền sẽ bị từ chối:
+* **Vi phạm Điều khoản sử dụng:** Khách hàng sử dụng dịch vụ cho các mục đích bất hợp pháp hoặc vi phạm các điều khoản đã cam kết.
+* **Thay đổi dịch vụ:** Khách hàng tự ý thay đổi hoặc hạ cấp gói dịch vụ.
+* **Dịch vụ và tài nguyên không áp dụng:**
+    * Tên miền
+    * Địa chỉ IP riêng, Firewall chống DDoS riêng
+    * Các dịch vụ có bản quyền (ví dụ: Email 365, Google Workspace)
+    * Các sản phẩm được mua trong chương trình khuyến mãi.
+* **Trùng lặp thông tin:** Yêu cầu hoàn tiền sẽ bị từ chối nếu có một trong các thông tin sau trùng với dữ liệu của khách hàng/dịch vụ đã được hoàn tiền trước đó:
+    * Cùng số CMND/CCCD.
+    * Cùng tên miền đã được sử dụng trên gói dịch vụ.
+    * Cùng số điện thoại đăng ký.
 
-- _Cùng một người yêu cầu (Cùng số CMND)._
-- _Cùng tên miền sử dụng trên gói dịch vụ._
-- _Cùng số điện thoại đăng ký._
+### Quy trình và thời gian hoàn tiền
+
+* **Quy trình:** Khách hàng cần gửi yêu cầu hoàn tiền đến email **billing@vinahost.vn** từ email đã đăng ký dịch vụ, cung cấp đầy đủ thông tin yêu cầu.
+* **Thời gian xử lý:**
+    * VinaHost sẽ xác minh yêu cầu trong vòng **1-3 ngày làm việc**.
+    * Thời gian hoàn tiền sẽ phụ thuộc vào phương thức thanh toán ban đầu:
+        * **Tài khoản VinaHost:** 1-3 ngày làm việc
+        * **Chuyển khoản ngân hàng:** 7-14 ngày làm việc
+        * **Thẻ tín dụng/Visa/Mastercard:** 7-90 ngày (tùy thuộc vào ngân hàng)
 
 Yêu cầu hoàn tiền bị từ chối nếu khách hàng bị ngừng cung cấp dịch vụ vì vi phạm [quy định sử dụng dịch vụ](https://vinahost.vn/quy-dinh-su-dung-dich-vu.html) của VinaHost. 
 
