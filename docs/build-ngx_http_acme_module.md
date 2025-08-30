@@ -25,7 +25,7 @@ apt update -y && apt install -y \
     make autoconf automake libtool
 ```
 
-Tải mã nguồn Nginx (yêu cầu >=1.28.0) và mô-đun `ngx_http_acme_module`:
+Tải mã nguồn Nginx (yêu cầu >=1.26.0) và mô-đun `ngx_http_acme_module`:
 
 ```bash
 # Kiểm tra phiên bản Nginx với lệnh `nginx -v`
