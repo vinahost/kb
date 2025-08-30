@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn cấu hình SSL tự động với Nginx không cần Certbot"
+title: "Cấu hình SSL tự động với Nginx không cần Certbot"
 date: "2025-08-30"
 author: "Trần Quốc Khánh"
 categories:

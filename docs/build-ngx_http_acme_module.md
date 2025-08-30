@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn cài đặt mô-đun Nginx `ngx_http_acme_module`"
+title: "Cài đặt mô-đun Nginx `ngx_http_acme_module`"
 author: "Trần Quốc Khánh"
 date: "2025-08-30"
 categories:
