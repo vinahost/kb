@@ -171,8 +171,6 @@ VinaHost đã hướng dẫn xong cách **cấu hình SSL tự động vơ
 
 Chúc bạn thực hiện thành công! 🍻
 
-Hướng dẫn liên quan: Hướng dẫn cài đặt mô-đun Nginx `ngx_http_acme_module`
-
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >
 > **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**  
