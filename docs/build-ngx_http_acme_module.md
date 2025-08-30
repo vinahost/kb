@@ -14,7 +14,7 @@ categories:
 
 ## Thực hiện
 
-### Cập nhật và tải các gói cần thiết
+Cập nhật và tải các gói cần thiết
 
 ```bash
 cd ~
