@@ -12,7 +12,7 @@ categories:
 
 - Nếu không thể đăng nhập WebMail thành công, bạn cũng không thể cấu hình Outlook được.
 - VinaHost chỉ đảm bảo hoạt động của WebMail. Việc gửi và nhận thành công trên WebMail có nghĩa là hệ thống đang hoạt động đúng.
-- Outlook hay bất kỳ phần mềm email nào khác đều là phần mềm bên thứ ba.\
+- Outlook hay bất kỳ phần mềm email nào khác đều là phần mềm bên thứ ba.  
 _VinaHost không có trách nhiệm đối với các phần mềm này. Vui lòng chủ động kiểm tra lại cấu hình Outlook theo hướng dẫn tại [đây](https://kb.vinahost.vn/Email/huong-dan-cau-hinh-email-tren-outlook/)._
 
 ## Thực hiện
@@ -67,9 +67,9 @@ Chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >
-> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**\
-> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**\
-> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**\
-> **\>> [EMAIL](https://vinahost.vn/email-hosting)**\
-> **\>> [WEBSITE](http://vinawebsite.vn/)**\
+> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**  
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**  
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**  
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**  
+> **\>> [WEBSITE](http://vinawebsite.vn/)**  
 > **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
