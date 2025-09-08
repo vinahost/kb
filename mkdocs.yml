@@ -414,6 +414,7 @@ nav:
               - Email/huong-dan-xoa-du-lieu-mail-cu-tu-dong-tren-cPanel.md
               - Hướng dẫn sử dụng Catch-All Email tại Vinahost: Email/huong-dan-su-dung-catch-all-email-tai-vinahost.md
               - Hướng Dẫn Tạo Chữ Ký Trên Webmail cPanel: Email/Email-Hosting/tao-chu-ky-webmail.md
+              - Hướng dẫn thay đổi incoming/outgoing server email tại Vinahost: Email/huong-dan-thay-doi-incomingoutgoing-server-email-tai-vinahost.md
                 #    - Email Relay:
           - Email Server:
               - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
