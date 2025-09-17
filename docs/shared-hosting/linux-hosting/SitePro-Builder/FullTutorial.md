@@ -70,7 +70,7 @@ Sau đó chọn ảnh cần chèn và nhấn **SELECT**
 
 ![](FullTutorial_media/media/image18.png)
 
-Click biểu tượng ![](FullTutorial_media/media/image19.png)
+Click biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/SitePro-Builder/FullTutorial_media/media/image19.png" style="width:0.21534in;height:0.21534in" />
 
 ![](FullTutorial_media/media/image20.png)
 
@@ -98,7 +98,7 @@ Click vào **Trang con** mới tạo để chuyển tiếp đến giao diện s�
 
 ![](FullTutorial_media/media/image26.png)
 
-Để thêm section mới, cần click vào biểu tượng ![](FullTutorial_media/media/image27.png) để thêm các section tương ứng
+Để thêm section mới, cần click vào biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/SitePro-Builder/FullTutorial_media/media/image27.png" style="width:0.22447in;height:0.22447in" /> để thêm các section tương ứng
 
 ![](FullTutorial_media/media/image28.png)
 
@@ -144,7 +144,7 @@ Như trong hình lần lượt là favicon và logo mặc định
 
 ![](FullTutorial_media/media/image39.png)
 
-Click biểu tượng ![](FullTutorial_media/media/image40.png) để mở popup thêm ảnh
+Click biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/SitePro-Builder/FullTutorial_media/media/image40.png" style="width:0.30776in;height:0.30776in" /> để mở popup thêm ảnh
 
 ![](FullTutorial_media/media/image41.png)
 

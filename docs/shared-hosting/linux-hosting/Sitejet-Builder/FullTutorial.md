@@ -11,7 +11,7 @@ Click **Edit Site**
 
 ![image2](FullTutorial_media/media/image2.png)
 
-Click biểu tượng ![image3](FullTutorial_media/media/image3.png)
+Click biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image3.png" style="width:0.19167in;height:0.19167in" />
 
 ![image4](FullTutorial_media/media/image4.png)
 
@@ -37,7 +37,7 @@ Về văn bản, để sửa văn bản có sẵn thì double-click vào đoạn
 
 ![image9](FullTutorial_media/media/image9.png)
 
-Sau khi sửa xong thì bấm nút ![image10](FullTutorial_media/media/image10.png) để lưu lại
+Sau khi sửa xong thì bấm nút <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image10.png" style="width:0.15833in;height:0.15833in" /> để lưu lại
 
 ![image11](FullTutorial_media/media/image11.png)
 
@@ -61,7 +61,7 @@ Hiện hộp thoại để chọn ảnh từ việc **UPLOAD**
 
 ![image16](FullTutorial_media/media/image16.png)
 
-Sau khi ảnh đã upload xong thì bấm biểu tượng ![image10](FullTutorial_media/media/image10.png) để lưu lại
+Sau khi ảnh đã upload xong thì bấm biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image10.png" style="width:0.15833in;height:0.15833in" /> để lưu lại
 
 ![image17](FullTutorial_media/media/image17.png)
 
@@ -75,13 +75,13 @@ Tiếp theo là ví dụ về việc chỉnh sửa menu: Double click vào menu 
 
 Tiếp theo, là hướng dẫn thêm chỉ mục trong menu và link với trang con
 
-Double click vào menu để hiện giao diện thêm chỉ mục vào menu và bấm biểu tượng ![image20](FullTutorial_media/media/image20.png) để thêm chỉ mục menu mới
+Double click vào menu để hiện giao diện thêm chỉ mục vào menu và bấm biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image20.png" style="width:0.24167in;height:0.24167in" /> để thêm chỉ mục menu mới
 
 ![image21](FullTutorial_media/media/image21.png)
 
 ![image22](FullTutorial_media/media/image22.png)
 
-Tiếp theo, click vào biểu tượng ![image23](FullTutorial_media/media/image23.png) và click **New page** để thêm trang mới
+Tiếp theo, click vào biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image23.png" style="width:0.28333in;height:0.28333in" /> và click **New page** để thêm trang mới
 
 ![image24](FullTutorial_media/media/image24.png)
 
@@ -89,7 +89,7 @@ Tiếp theo, click vào biểu tượng ![image23](FullTutorial_media/media/imag
 
 ![image25](FullTutorial_media/media/image25.png)
 
-Sau đó bấm nút ![image26](FullTutorial_media/media/image26.png) để điều hướng đến trang chỉnh sửa giao diện **Trang con**
+Sau đó bấm nút <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image26.png" style="width:0.20833in;height:0.20833in" /> để điều hướng đến trang chỉnh sửa giao diện **Trang con**
 
 ![image27](FullTutorial_media/media/image27.png)
 
@@ -99,11 +99,11 @@ Sau đó bấm nút ![image26](FullTutorial_media/media/image26.png) để đi�
 
 ![image29](FullTutorial_media/media/image29.png)
 
-Để thay đổi màu chữ của section chứa phần tử đó thì chỉ cần double click vào chỗ cần sửa, click biểu tượng ![image30](FullTutorial_media/media/image30.png) để thay đổi màu chữ.
+Để thay đổi màu chữ của section chứa phần tử đó thì chỉ cần double click vào chỗ cần sửa, click biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image30.png" style="width:0.325in;height:0.325in" /> để thay đổi màu chữ.
 
 ![image31](FullTutorial_media/media/image31.png)
 
-Để thay đổi màu nền của section chứa phần tử đó, ta click vào biểu tượng ![image32](FullTutorial_media/media/image32.png) như trong hình
+Để thay đổi màu nền của section chứa phần tử đó, ta click vào biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image32.png" style="width:0.28333in;height:0.28333in" /> như trong hình
 
 ![image33](FullTutorial_media/media/image33.png)
 
@@ -123,7 +123,7 @@ Sau khi thao tác xong thì bật phần chỉnh sửa menu (double click vào m
 
 ![image37](FullTutorial_media/media/image37.png)
 
-Sau khi tùy chỉnh xong thì bấm nút ![image38](FullTutorial_media/media/image38.png) để lưu và di chuột vào biểu tượng ![image39](FullTutorial_media/media/image39.png) bấm “**Open preview website**” để kiểm tra lại
+Sau khi tùy chỉnh xong thì bấm nút <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image38.png" style="width:0.275in;height:0.275in" /> để lưu và di chuột vào biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image39.png" style="width:0.25241in;height:0.25241in" /> bấm “**Open preview website**” để kiểm tra lại
 
 ![image40](FullTutorial_media/media/image40.png)
 
@@ -133,7 +133,7 @@ Sau khi tùy chỉnh xong thì bấm nút ![image38](FullTutorial_media/media/im
 
 ![image42](FullTutorial_media/media/image42.png)
 
-Click biểu tượng upload ![image43](FullTutorial_media/media/image43.png) để thêm ảnh tương ứng
+Click biểu tượng upload <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image43.png" style="width:0.29542in;height:0.29542in" /> để thêm ảnh tương ứng
 
 ![image44](FullTutorial_media/media/image44.png)
 
@@ -171,7 +171,7 @@ Ngoài ra, còn có các tùy chọn để tối ưu SEO ở phần **SEO Settin
 
 ![image53](FullTutorial_media/media/image53.png)
 
-Để xuất bản trang web, bấm nút **Publish** (biểu tượng ![image54](FullTutorial_media/media/image54.png))
+Để xuất bản trang web, bấm nút **Publish** (biểu tượng <img src="https://kb.vinahost.vn/shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial_media/media/image54.png" style="width:0.25833in;height:0.25833in" />)
 
 ![image55](FullTutorial_media/media/image55.png)
 
