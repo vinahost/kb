@@ -5,183 +5,183 @@ Bài viết này sẽ giới thiệu về **Hướng dẫn sử dụng Website B
 
 Click **Sitejet Builder** để tiến hành tạo website
 
-<img src="FullTutorial_media/media/image1.png" style="width:6.5in;height:2.95556in" />
+![image1](FullTutorial_media/media/image1.png)
 
 Click **Edit Site**
 
-<img src="FullTutorial_media/media/image2.png" style="width:6.5in;height:2.96597in" />
+![image2](FullTutorial_media/media/image2.png)
 
-Click biểu tượng <img src="FullTutorial_media/media/image3.png" style="width:0.19167in;height:0.19167in" />
+Click biểu tượng ![image3](FullTutorial_media/media/image3.png)
 
-<img src="FullTutorial_media/media/image4.png" style="width:6.5in;height:2.95556in" />
+![image4](FullTutorial_media/media/image4.png)
 
 Click **Change Template**
 
-<img src="FullTutorial_media/media/image5.png" style="width:6.5in;height:2.95556in" />
+![image5](FullTutorial_media/media/image5.png)
 
 Click **Confirm**
 
-<img src="FullTutorial_media/media/image6.png" style="width:6.5in;height:2.96875in" />
+![image6](FullTutorial_media/media/image6.png)
 
 Có thể chọn bất cứ template có sẵn nào ở đây cho website theo nhu cầu cá nhân
 
-<img src="FullTutorial_media/media/image7.png" style="width:6.5in;height:2.94861in" />
+![image7](FullTutorial_media/media/image7.png)
 
 Sau khi chọn đúng template theo nhu cầu thì sẽ hiện ra trang như hình, cho phép thiết kế chỉnh sửa lại
 
-<img src="FullTutorial_media/media/image8.png" style="width:6.5in;height:2.95833in" />
+![image8](FullTutorial_media/media/image8.png)
 
 Có thể chỉnh sửa các văn bản, hình ảnh, menu.
 
 Về văn bản, để sửa văn bản có sẵn thì double-click vào đoạn văn bản cần sửa.
 
-<img src="FullTutorial_media/media/image9.png" style="width:6.5in;height:2.95208in" />
+![image9](FullTutorial_media/media/image9.png)
 
-Sau khi sửa xong thì bấm nút <img src="FullTutorial_media/media/image10.png" style="width:0.15833in;height:0.15833in" /> để lưu lại
+Sau khi sửa xong thì bấm nút ![image10](FullTutorial_media/media/image10.png) để lưu lại
 
-<img src="FullTutorial_media/media/image11.png" style="width:6.5in;height:2.97222in" />
+![image11](FullTutorial_media/media/image11.png)
 
-<img src="FullTutorial_media/media/image12.png" style="width:6.5in;height:2.96875in" />
+![image12](FullTutorial_media/media/image12.png)
 
 Tương tự với việc chỉnh sửa ảnh
 
 Double click vào ảnh cần sửa
 
-<img src="FullTutorial_media/media/image13.png" style="width:6.5in;height:2.96875in" />
+![image13](FullTutorial_media/media/image13.png)
 
 Click **Background**
 
-<img src="FullTutorial_media/media/image14.png" style="width:6.5in;height:2.96875in" />
+![image14](FullTutorial_media/media/image14.png)
 
 Click **Image** và click vào **ảnh** cần sửa
 
-<img src="FullTutorial_media/media/image15.png" style="width:6.5in;height:2.95556in" />
+![image15](FullTutorial_media/media/image15.png)
 
 Hiện hộp thoại để chọn ảnh từ việc **UPLOAD**
 
-<img src="FullTutorial_media/media/image16.png" style="width:6.5in;height:2.94861in" />
+![image16](FullTutorial_media/media/image16.png)
 
-Sau khi ảnh đã upload xong thì bấm biểu tượng <img src="FullTutorial_media/media/image10.png" style="width:0.15833in;height:0.15833in" /> để lưu lại
+Sau khi ảnh đã upload xong thì bấm biểu tượng ![image10](FullTutorial_media/media/image10.png) để lưu lại
 
-<img src="FullTutorial_media/media/image17.png" style="width:6.5in;height:2.96597in" />
+![image17](FullTutorial_media/media/image17.png)
 
 Tiếp theo là ví dụ về việc chỉnh sửa menu: Double click vào menu cần sửa (hoặc right click và bấm **Edit**)
 
-<img src="FullTutorial_media/media/image18.png" style="width:6.5in;height:2.96875in" />
+![image18](FullTutorial_media/media/image18.png)
 
 Ở phần này, chúng ta có thể thay đổi thứ tự các chỉ mục trong menu, hoặc thay đổi tên chỉ mục của menu
 
-<img src="FullTutorial_media/media/image19.png" style="width:6.5in;height:2.96528in" />
+![image19](FullTutorial_media/media/image19.png)
 
 Tiếp theo, là hướng dẫn thêm chỉ mục trong menu và link với trang con
 
-Double click vào menu để hiện giao diện thêm chỉ mục vào menu và bấm biểu tượng <img src="FullTutorial_media/media/image20.png" style="width:0.24167in;height:0.24167in" /> để thêm chỉ mục menu mới
+Double click vào menu để hiện giao diện thêm chỉ mục vào menu và bấm biểu tượng ![image20](FullTutorial_media/media/image20.png) để thêm chỉ mục menu mới
 
-<img src="FullTutorial_media/media/image21.png" style="width:6.5in;height:2.96597in" />
+![image21](FullTutorial_media/media/image21.png)
 
-<img src="FullTutorial_media/media/image22.png" style="width:6.5in;height:2.96528in" />
+![image22](FullTutorial_media/media/image22.png)
 
-Tiếp theo, click vào biểu tượng <img src="FullTutorial_media/media/image23.png" style="width:0.28333in;height:0.28333in" /> và click **New page** để thêm trang mới
+Tiếp theo, click vào biểu tượng ![image23](FullTutorial_media/media/image23.png) và click **New page** để thêm trang mới
 
-<img src="FullTutorial_media/media/image24.png" style="width:6.5in;height:2.97917in" />
+![image24](FullTutorial_media/media/image24.png)
 
 Điền các thông tin tương ứng cho trang con
 
-<img src="FullTutorial_media/media/image25.png" style="width:6.5in;height:2.96875in" />
+![image25](FullTutorial_media/media/image25.png)
 
-Sau đó bấm nút <img src="FullTutorial_media/media/image26.png" style="width:0.20833in;height:0.20833in" /> để điều hướng đến trang chỉnh sửa giao diện **Trang con**
+Sau đó bấm nút ![image26](FullTutorial_media/media/image26.png) để điều hướng đến trang chỉnh sửa giao diện **Trang con**
 
-<img src="FullTutorial_media/media/image27.png" style="width:6.5in;height:2.96597in" />
+![image27](FullTutorial_media/media/image27.png)
 
-<img src="FullTutorial_media/media/image28.png" style="width:6.5in;height:2.96875in" />
+![image28](FullTutorial_media/media/image28.png)
 
 Ở trang này, ta có thể thêm section kèm với phần tử tùy theo ý muốn cá nhân
 
-<img src="FullTutorial_media/media/image29.png" style="width:6.5in;height:2.95556in" />
+![image29](FullTutorial_media/media/image29.png)
 
-Để thay đổi màu chữ của section chứa phần tử đó thì chỉ cần double click vào chỗ cần sửa, click biểu tượng <img src="FullTutorial_media/media/image30.png" style="width:0.325in;height:0.325in" /> để thay đổi màu chữ.
+Để thay đổi màu chữ của section chứa phần tử đó thì chỉ cần double click vào chỗ cần sửa, click biểu tượng ![image30](FullTutorial_media/media/image30.png) để thay đổi màu chữ.
 
-<img src="FullTutorial_media/media/image31.png" style="width:6.5in;height:2.96597in" />
+![image31](FullTutorial_media/media/image31.png)
 
-Để thay đổi màu nền của section chứa phần tử đó, ta click vào biểu tượng <img src="FullTutorial_media/media/image32.png" style="width:0.28333in;height:0.28333in" /> như trong hình
+Để thay đổi màu nền của section chứa phần tử đó, ta click vào biểu tượng ![image32](FullTutorial_media/media/image32.png) như trong hình
 
-<img src="FullTutorial_media/media/image33.png" style="width:6.5in;height:2.97569in" />
+![image33](FullTutorial_media/media/image33.png)
 
 Click **Background** 🡪 Click **Color**
 
-<img src="FullTutorial_media/media/image34.png" style="width:6.5in;height:2.9625in" />
+![image34](FullTutorial_media/media/image34.png)
 
 Chọn màu nền và click **Apply**
 
-<img src="FullTutorial_media/media/image35.png" style="width:6.5in;height:2.96597in" />
+![image35](FullTutorial_media/media/image35.png)
 
 Tương tự cho việc thay đổi phông chữ, bôi đen chọn đoạn văn bản cần thay đổi phông chữ, và thực hiện theo các bước như hình để đổi phông chữ
 
-<img src="FullTutorial_media/media/image36.png" style="width:6.5in;height:2.9625in" />
+![image36](FullTutorial_media/media/image36.png)
 
 Sau khi thao tác xong thì bật phần chỉnh sửa menu (double click vào menu) và sửa lại chỉ mục “**Trang con**” liên kết với page “**Trang con**”
 
-<img src="FullTutorial_media/media/image37.png" style="width:6.5in;height:2.97222in" />
+![image37](FullTutorial_media/media/image37.png)
 
-Sau khi tùy chỉnh xong thì bấm nút <img src="FullTutorial_media/media/image38.png" style="width:0.275in;height:0.275in" /> để lưu và di chuột vào biểu tượng <img src="FullTutorial_media/media/image39.png" style="width:0.25241in;height:0.25241in" /> bấm “**Open preview website**” để kiểm tra lại
+Sau khi tùy chỉnh xong thì bấm nút ![image38](FullTutorial_media/media/image38.png) để lưu và di chuột vào biểu tượng ![image39](FullTutorial_media/media/image39.png) bấm “**Open preview website**” để kiểm tra lại
 
-<img src="FullTutorial_media/media/image40.png" style="width:6.5in;height:2.97917in" />
+![image40](FullTutorial_media/media/image40.png)
 
-<img src="FullTutorial_media/media/image41.png" style="width:6.5in;height:2.97917in" />
+![image41](FullTutorial_media/media/image41.png)
 
 Để sửa thêm logo và favicon, cần thực hiện theo các thao tác sau: click **More 🡪 Website Settings**
 
-<img src="FullTutorial_media/media/image42.png" style="width:6.5in;height:2.96875in" />
+![image42](FullTutorial_media/media/image42.png)
 
-Click biểu tượng upload <img src="FullTutorial_media/media/image43.png" style="width:0.29542in;height:0.29542in" /> để thêm ảnh tương ứng
+Click biểu tượng upload ![image43](FullTutorial_media/media/image43.png) để thêm ảnh tương ứng
 
-<img src="FullTutorial_media/media/image44.png" style="width:6.5in;height:2.9625in" />
+![image44](FullTutorial_media/media/image44.png)
 
-<img src="FullTutorial_media/media/image45.png" style="width:6.5in;height:2.96528in" />
+![image45](FullTutorial_media/media/image45.png)
 
 Sau khi thêm xong thì lưu lại và mở trang preview trong tab ẩn danh để kiểm tra lại.
 
-<img src="FullTutorial_media/media/image46.png" style="width:6.5in;height:3.43958in" />
+![image46](FullTutorial_media/media/image46.png)
 
 Để thêm footer gồm các thông tin liên hệ cũng như biểu mẫu, có thể thực hiện thêm footer theo các bước sau đây:
 
 Click **Add section** (+)
 
-<img src="FullTutorial_media/media/image47.png" style="width:6.5in;height:2.96667in" />
+![image47](FullTutorial_media/media/image47.png)
 
 Chọn mẫu footer tương ứng
 
-<img src="FullTutorial_media/media/image48.png" style="width:6.5in;height:2.95833in" />
+![image48](FullTutorial_media/media/image48.png)
 
 Ở đây, có thể chỉnh sửa lại các thông tin liên hệ
 
-<img src="FullTutorial_media/media/image49.png" style="width:6.5in;height:2.96875in" />
+![image49](FullTutorial_media/media/image49.png)
 
 Để sửa các thông tin liên hệ ở footer cần thao tác như sau: Click **More 🡪 Website Settings 🡪 Data**
 
-<img src="FullTutorial_media/media/image50.png" style="width:6.5in;height:2.96875in" />
+![image50](FullTutorial_media/media/image50.png)
 
 Sau khi sửa xong thì dùng tổ hợp phím **Ctrl + S** để lưu lại
 
-<img src="FullTutorial_media/media/image51.png" style="width:6.5in;height:2.96875in" />
+![image51](FullTutorial_media/media/image51.png)
 
-<img src="FullTutorial_media/media/image52.png" style="width:6.5in;height:3.44306in" />
+![image52](FullTutorial_media/media/image52.png)
 
 Ngoài ra, còn có các tùy chọn để tối ưu SEO ở phần **SEO Settings** và **SEO Analysis**
 
-<img src="FullTutorial_media/media/image53.png" style="width:6.5in;height:2.95208in" />
+![image53](FullTutorial_media/media/image53.png)
 
-Để xuất bản trang web, bấm nút **Publish** (biểu tượng <img src="FullTutorial_media/media/image54.png" style="width:0.25833in;height:0.25833in" />)
+Để xuất bản trang web, bấm nút **Publish** (biểu tượng ![image54](FullTutorial_media/media/image54.png))
 
-<img src="FullTutorial_media/media/image55.png" style="width:6.5in;height:2.9625in" />
+![image55](FullTutorial_media/media/image55.png)
 
-<img src="FullTutorial_media/media/image56.png" style="width:6.5in;height:2.95in" />
+![image56](FullTutorial_media/media/image56.png)
 
-<img src="FullTutorial_media/media/image57.png" style="width:6.5in;height:2.96181in" />
+![image57](FullTutorial_media/media/image57.png)
 
 Website đã được public thành công
 
-<img src="FullTutorial_media/media/image58.png" style="width:6.5in;height:3.43958in" />
+![image58](FullTutorial_media/media/image58.png)
 
 *Lưu ý: Tên miền phải trỏ DNS bản ghi A đến IP của hosting.*
 
