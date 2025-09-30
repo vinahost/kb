@@ -365,8 +365,8 @@ nav:
       - Dịch vụ VPS:
           - Hướng dẫn chung:
               - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
-              - Hướng dẫn thay đổi mật khẩu VPS từ bảng điều khiển VPS: vps/huong-dan-thay-doi-password-vps.md
-              - huong-dan-khoi-dong-lai-dich-vu-vps-tren-vinahost.md
+              - Hướng dẫn thay đổi mật khẩu VPS từ bảng điều khiển: vps/huong-dan-thay-doi-password-vps.md
+              - Hướng dẫn khởi động lại VPS từ bảng điều khiển: vps/huong-dan-khoi-dong-lai-vps.md
               - Hướng dẫn kiểm tra tài nguyên VPS tại VINAHOST: huong-dan-monitor-resource.md
               - Hướng dẫn trỏ domain về máy chủ VPS tại VINAHOST: tro-domain-VPS.md
               - Hướng dẫn cài lại hệ điều hành cho VPS: reinstall-os-vps.md

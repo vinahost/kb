@@ -21,22 +21,33 @@ VNC đặc biệt hữu ích trong trường hợp bạn không thể đăng nh�
 
     Nếu bảng điều khiển không hiển thị, vui lòng gửi yêu cầu hỗ trợ.
 
-![](../images/vps-huong_dan_su_dung_vnc-01.jpg)
+![Chọn VPS cần thực hiện VNC](../images/vps-huong_dan_su_dung_vnc-01.jpg)
 
 ### Bước 2. Đăng nhập VNC
 
 Trong bảng điều khiển VPS, chọn biểu tượng Console > nhấn **Launch VNC** trong hộp thoại hiện ra.
 
-![](../images/vps-huong_dan_su_dung_vnc-02.jpg)
-![](../images/vps-huong_dan_su_dung_vnc-03.jpg)
-![](../images/vps-huong_dan_su_dung_vnc-04.jpg)
+![Giao diện bảng điều khiển VPS với VNC](../images/vps-huong_dan_su_dung_vnc-02.jpg)
+![Nút kết nối VNC](../images/vps-huong_dan_su_dung_vnc-03.jpg)
+![Màn hình console khi kết nối VNC](../images/vps-huong_dan_su_dung_vnc-04.jpg)
 
 !!! tip "Mẹo"
 
     Nếu cửa sổ console (VNC) không hiển thị (chỉ có màu đen) hoặc không thể kết nối đến máy chủ, vui lòng gửi yêu cầu hỗ trợ.
 
-<hr>VinaHost chúc bạn thực hiện thành công! 🍻
+Trong cửa sổ console (VNC), bạn có thể sử dụng tính năng *sao chép & dán* thay vì phải nhập thủ công. Rất hữu ích khi nhập các chuỗi ký tự dài.
+
+![Dán và sao chép trong VNC](../images/huong-dan-su-dung-vnc.gif)
+
+---
+
+VinaHost chúc bạn thực hiện thành công! 🍻
 
 > **THAM KHẢO CÁC DỊCH VỤ TẠI [VINAHOST](https://vinahost.vn/)**
 >
-> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**<br> > **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**<br> > **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**<br> > **\>> [EMAIL](https://vinahost.vn/email-hosting)**<br> > **\>> [WEBSITE](http://vinawebsite.vn/)**<br> > **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
+> **\>> [SERVER](https://vinahost.vn/thue-may-chu-rieng/) – [COLOCATION](https://vinahost.vn/colocation.html) – [CDN](https://vinahost.vn/dich-vu-cdn-chuyen-nghiep)**  
+> **\>> [CLOUD](https://vinahost.vn/cloud-server-gia-re/) – [VPS](https://vinahost.vn/vps-ssd-chuyen-nghiep/)**  
+> **\>> [HOSTING](https://vinahost.vn/wordpress-hosting)**  
+> **\>> [EMAIL](https://vinahost.vn/email-hosting)**  
+> **\>> [WEBSITE](http://vinawebsite.vn/)**  
+> **\>> [TÊN MIỀN](https://vinahost.vn/ten-mien-gia-re/)**
