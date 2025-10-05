@@ -524,14 +524,17 @@ nav:
               - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
               - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
               - huong-dan-chuyen-doi-chung-chi-SSL-sang-PFX.md
-      - Minecraft:
-          - Hướng dẫn sử dụng Minecraft:
-              - minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-tao-va-restore-backup-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-thay-doi-phien-ban-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-upload-the-gioi-vao-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-tai-vinahost.md
-              - minecraft/huong-dan-phan-quyen-cho-tai-khoan-phu-quan-ly-server-tai-vinahost.md
+      - Game Server:
+          - Panel:
+              - game/huong-dan-phan-quyen-quan-ly-server-cho-tai-khoan-phu-sub-user.md
+              - game/huong-dan-tao-va-restore-backup-cho-server-game-tai-vinahost.md
+          - Minecraft:
+              - game/minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-thay-doi-phien-ban-cho-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-upload-the-gioi-world-vao-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-minecraft-tai-vinahost.md
+          - Palworld:
+              - game/palworld/huong-dan-custom-cau-hinh-palworld-chi-tiet-tai-vinahost.md
       - N8N:
           - Hướng dẫn sử dụng N8N:
               - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
