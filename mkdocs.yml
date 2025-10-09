@@ -354,6 +354,8 @@ nav:
               - Hướng Dẫn Sử Dụng JetBackup Trên Hosting Cpanel: shared-hosting/linux-hosting/huong-dan-su-dung-jetbackup-cpanel.md
               - Hướng Dẫn Đăng Nhập SSH Vào Hosting cPanel: shared-hosting/linux-hosting/ssh-access.md
               - Hướng dẫn thêm tên miền/tên miền phụ và cài đặt wordpress lên hosting cPanel: shared-hosting/linux-hosting/huong-dan-them-ten-mienten-mien-phu-va-cai-dat-wordpress-len-hosting-cpanel.md
+              - Hướng dẫn sử dụng Sitejet Builder trên cPanel: shared-hosting/linux-hosting/Sitejet-Builder/FullTutorial.md
+              - Hướng dẫn sử dụng Sitepro Builder trên DirectAdmin: shared-hosting/linux-hosting/SitePro-Builder/FullTutorial.md
                 #    - Reseller Hosting:
                 #    - WordPress Hosting:
                 #    - Databas Hosting:
@@ -363,8 +365,8 @@ nav:
       - Dịch vụ VPS:
           - Hướng dẫn chung:
               - Hướng Dẫn Cách Tự Sao Lưu Và Khôi Phục VPS: backup-restore-vps-vinahost.md
-              - Hướng dẫn thay đổi mật khẩu VPS từ bảng điều khiển VPS: vps/huong-dan-thay-doi-password-vps.md
-              - huong-dan-khoi-dong-lai-dich-vu-vps-tren-vinahost.md
+              - Hướng dẫn thay đổi mật khẩu VPS từ bảng điều khiển: vps/huong-dan-thay-doi-password-vps.md
+              - Hướng dẫn khởi động lại VPS từ bảng điều khiển: vps/huong-dan-khoi-dong-lai-vps.md
               - Hướng dẫn kiểm tra tài nguyên VPS tại VINAHOST: huong-dan-monitor-resource.md
               - Hướng dẫn trỏ domain về máy chủ VPS tại VINAHOST: tro-domain-VPS.md
               - Hướng dẫn cài lại hệ điều hành cho VPS: reinstall-os-vps.md
@@ -394,18 +396,27 @@ nav:
               - Hướng Dẫn Thêm Ổ Cứng Mới Trên Proxmox Để Backup: them-o-cung-moi-tren-proxmox-de-backup.md
       - Dịch vụ Email:
           - Email Hosting:
-              - Email Hosting - Hướng dẫn gỡ lỗi không gửi/nhận được email: Email/Email-Hosting/huong-dan-go-loi-khong-gui-nhan-duoc-email.md
-              - Email Hosting - Hướng dẫn cấu hình Outlook (new): Email/Email-Hosting/cau-hinh-outlook-new.md
+              - Hướng dẫn gỡ lỗi không gửi/nhận được email: Email/Email-Hosting/huong-dan-go-loi-khong-gui-nhan-duoc-email.md
+              - Hướng dẫn cấu hình Outlook (new): Email/Email-Hosting/cau-hinh-outlook-new.md
               - Hướng Dẫn Cài đặt Email Trên Máy Mac: huong-dan-cai-dat-email-tren-may-mac.md
               - Hướng Dẫn Export Mailing List cPanel: huong-dan-export-mailing-list-cpanel.md
               - Hướng Dẫn Setup Mail Trên Outlook Thông Qua Control Panel: setup-mail-tren-outlook-thong-qua-control-panel.md
               - Hướng Dẫn Tự Động Xóa Các Thư Chuyển Tiếp Trong cPanel: tu-dong-xoa-cac-thu-chuyen-tiep-trong-cpanel.md
+              - Hướng dẫn cấu hình bộ lọc nội dung mail trên cPanel: Email/Email-Hosting/huong-dan-cau-hinh-bo-loc-noi-dung-mail.md
+              - Hướng dẫn cấu hình trả lời tự động Autoresponders trên cPanel: Email/Email-Hosting/huong-dan-cau-hinh-tra-loi-tu-dong-autoresponders.md
+              - Hướng dẫn đổi giao diện webmail và chỉnh ngôn ngữ sang tiếng Việt trên cPanel: Email/Email-Hosting/huong-dan-doi-giao-dien-webmail-va-chinh-ngon-ngu-sang-tieng-viet.md
+              - Hướng dẫn tạo Avatar cho email trên cPanel: Email/Email-Hosting/huong-dan-tao-avatar-cho-email.md
+              - Hướng dẫn tạo chữ ký email có chèn logo công ty trên cPanel: Email/Email-Hosting/huong-dan-tao-chu-ky-email-co-chen-logo-cong-ty.md
+              - Hướng dẫn Thiết lập bộ lọc spam cá nhân: Email/Email-Hosting/Email-Hosting/Hướng dẫn Thiết lập bộ lọc spam cá nhân.md
+              - Hướng dẫn sử dụng tính năng Danh bạ trên webmail: Hướng dẫn sử dụng tính năng Danh bạ trên webmail.md
+              - Hướng đẫn sử dụng lịch tren roundcube: Email/Email-Hosting/hướng đẫn sử dụng lịch tren roundcube.md
               - Email/huong-dan-nhan-thong-tin-dang-nhap-cpanel-va-tao-tai-khoan-email-tai-vinahost.md
               - Email/huong-dan-cau-hinh-email-tren-outlook.md
               - Loi-roundcube-ket-noi-database.md
               - Email/huong-dan-xoa-du-lieu-mail-cu-tu-dong-tren-cPanel.md
               - Hướng dẫn sử dụng Catch-All Email tại Vinahost: Email/huong-dan-su-dung-catch-all-email-tai-vinahost.md
               - Hướng Dẫn Tạo Chữ Ký Trên Webmail cPanel: Email/Email-Hosting/tao-chu-ky-webmail.md
+              - Hướng dẫn thay đổi incoming/outgoing server email tại Vinahost: Email/huong-dan-thay-doi-incomingoutgoing-server-email-tai-vinahost.md
                 #    - Email Relay:
           - Email Server:
               - Import Người Dùng Vào Zimbra Thông Qua Giao Diện Zimbra Và File XML: import-nguoi-dung-vao-zimbra.md
@@ -513,14 +524,17 @@ nav:
               - Hướng Dẫn Đăng Ký SSL Tại VinaHost: huong-dan-dang-ky-ssl-tai-vinahost.md
               - Hướng dẫn renew SSL Certificate thông qua VinaHost Client area: huong-dan-gia-han-ssl-certificate-tai-vinahost.md
               - huong-dan-chuyen-doi-chung-chi-SSL-sang-PFX.md
-      - Minecraft:
-          - Hướng dẫn sử dụng Minecraft:
-              - minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-tao-va-restore-backup-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-thay-doi-phien-ban-cho-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-upload-the-gioi-vao-server-minecraft-tai-vinahost.md
-              - minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-tai-vinahost.md
-              - minecraft/huong-dan-phan-quyen-cho-tai-khoan-phu-quan-ly-server-tai-vinahost.md
+      - Game Server:
+          - Panel:
+              - game/huong-dan-phan-quyen-quan-ly-server-cho-tai-khoan-phu-sub-user.md
+              - game/huong-dan-tao-va-restore-backup-cho-server-game-tai-vinahost.md
+          - Minecraft:
+              - game/minecraft/huong-dan-tai-va-cai-dat-mod-plugin-cho-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-thay-doi-phien-ban-cho-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-upload-the-gioi-world-vao-server-minecraft-tai-vinahost.md
+              - game/minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-minecraft-tai-vinahost.md
+          - Palworld:
+              - game/palworld/huong-dan-custom-cau-hinh-palworld-chi-tiet-tai-vinahost.md
       - N8N:
           - Hướng dẫn sử dụng N8N:
               - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
@@ -537,6 +551,8 @@ nav:
               - huong-dan-su-dung-dich-vu-waf-co-ban.md
               - huong-dan-kich-hoat-tinh-nang-xac-thuc-2-lop-tren-tai-khoan-vinahost.md
               - huong-dan-su-dung-dich-vu-voss.md
+              - nginx-native-support-acme.md
+              - build-ngx_http_acme_module.md
               - Cai-dat-tomcat-tren-Centos.md
               - Cai-dat-tomcat-tren-Ubuntu.md
               - Cai-dat-tomcat-tren-Windows.md
