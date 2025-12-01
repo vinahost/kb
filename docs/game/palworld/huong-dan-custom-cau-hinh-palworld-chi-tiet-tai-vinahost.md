@@ -2,13 +2,15 @@
 
 Bài viết này sẽ giới thiệu về **Hướng dẫn Custom cấu hình Palworld chi tiết tại VinaHost** và lợi ích của nó. Nếu bạn cần hỗ trợ, xin vui lòng liên hệ VinaHost qua **Hotline 1900 6046 ext. 3**, email về [support@vinahost.vn](mailto:support@vinahost.vn) hoặc chat với VinaHost qua livechat <https://livechat.vinahost.vn/chat.php>
 
-Sau khi kích hoạt thành công dịch vụ VPS Palworld tại VinaHost bạn sẽ nhận được mail sau: ![](attachments/cda22ad1-1051-4296-8627-638468111a4b.png " =362x331")
+Sau khi kích hoạt thành công dịch vụ VPS Palworld tại VinaHost bạn sẽ nhận được mail sau: 
+
+![](attachments/cda22ad1-1051-4296-8627-638468111a4b.png)
 
 ## 1. Truy cập vào Panel Quản lý
 
 Chọn Server vừa được tạo
 
- ![](attachments/9fa2ad64-3892-41d3-812e-dad6f38ce641.png " =602x135")
+ ![](attachments/9fa2ad64-3892-41d3-812e-dad6f38ce641.png)
 
 Sau khi tạo thành công server sẽ tự động Start.
 
@@ -18,11 +20,12 @@ Sau khi tạo thành công server sẽ tự động Start.
 
 **Lưu ý: Cần Stop Server trước khi cấu hình và Lưu lại cấu hình mặc định trường hợp gặp lỗi.**
 
- ![](attachments/b631530f-e4a7-446d-a580-037a27aa6a8a.png " =602x299")
+ ![](attachments/b631530f-e4a7-446d-a580-037a27aa6a8a.png)
 
 ## 2. Truy cập File cấu hình
 
- ![](attachments/70d74b7c-1e08-4a2e-bc51-850b612ba2fd.png " =602x302")
+<img width="1463" height="384" alt="image" src="https://github.com/user-attachments/assets/12ff7276-0317-4630-9633-3290892d1656" />
+
 
 ## 3. Chi tiết các tham số và ý nghĩa
 
