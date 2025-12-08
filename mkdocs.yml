@@ -333,6 +333,7 @@ nav:
               - Cấu hình Low Latency Streaming (LLS): CDN/cau-hinh-dich-vu-low-latency-streaming.md
               - Cấu hình Referer Anti Hotlinking: CDN/cau-hinh-referer-anti-hotlinking.md
               - Cấu hình IP Blacklist/Whitelist Anti Hotlinking: CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md
+              - Xóa cache CDN bằng API: CDN/xoa-cache-cdn-bang-api.md
       - FastPanel:
           - Hướng dẫn sử dụng:
               - Hướng dẫn backup và restore website trên FastPanel: fastpanel/huong-dan-backup-va-restore-website-tren-fastpanel.md

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc0b5f282b60185b",
+        "id": "4fc6594cf32f00c2",
         "type": "tabs",
         "children": [
           {
-            "id": "35a3a2a751027cfb",
+            "id": "4cd753b693344002",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,9 +165,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "35a3a2a751027cfb",
+  "active": "4cd753b693344002",
   "lastOpenFiles": [
+    "docs/CDN/index.md",
+    "docs/CDN/xoa-cache-cdn-bang-api.md",
+    "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
+    "docs/CDN/huong-dan-cau-hinh-media-acceleration-voi-object-storage.md",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_chrome_2025-12-08_15-20-29_1208px-793px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_MobaXterm_2025-12-08_15-18-51_1251px-911px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_mstsc_2025-12-01_09-57-20_1491px-921px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_chrome_2025-12-08_14-37-14_1920px-919px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_chrome_2025-12-08_14-35-43_1920px-919px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api/Screenshot_chrome_2025-12-08_14-30-01_1920px-919px.png",
+    "docs/CDN/assets/images/xoa-cache-cdn-bang-api",
+    "docs/CDN/New Text Document.txt",
+    "docs/CDN/cau-hinh-timestamp-anti-hotlinking.md",
     "docs/CDN/cau-hinh-referer-anti-hotlinking.md",
+    "docs/CDN/cau-hinh-object-storage.md",
+    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md",
     "docs/windows/user-account-has-been-locked-out.md",
     "docs/windows/thay-doi-cong-rdp.md",
@@ -180,37 +196,21 @@
     "docs/shared-hosting/linux-hosting/attachments/caa5bf5a-330c-4a7e-bf4d-0ed412f0efee.png",
     "docs/shared-hosting/linux-hosting/attachments/c940f9fa-5d98-42ff-a3e8-afeba49131b5.png",
     "docs/shared-hosting/linux-hosting/attachments/c6719e78-ffa7-489a-8d44-70bc8b0844d7.png",
-    "docs/shared-hosting/linux-hosting/attachments/bf58bdce-0d7f-44e3-8da6-cd536d4132a2.png",
-    "docs/shared-hosting/linux-hosting/attachments/bacee6e6-e44a-4df3-bf8b-f74f9a334330.png",
-    "docs/shared-hosting/linux-hosting/attachments/87609d2a-cdbd-40bd-9fa6-2cad8c0fbf98.png",
-    "docs/shared-hosting/linux-hosting/attachments/8392d1e5-06d4-4570-b6d0-816575a0fc49.png",
-    "docs/shared-hosting/linux-hosting/attachments/806e33cb-965d-4619-b38b-704361db7d3b.png",
-    "docs/shared-hosting/linux-hosting/attachments/6764e458-5a11-48c4-b183-69241ee0bf13.png",
     "docs/shared-hosting/linux-hosting/attachments",
-    "docs/CDN/index.md",
-    "docs/CDN/cau-hinh-timestamp-anti-hotlinking.md",
-    "docs/CDN/New Text Document.txt",
     "docs/CDN/assets/images/cau-hinh-timestamp-anti-hotlinking",
     "docs/CDN/assets/images/New folder",
     "docs/CDN/assets/images/cau-hinh-referer-anti-hotlinking",
-    "docs/CDN/huong-dan-cau-hinh-dynamic-web-acceleration-dwa-voi-origin-server.md",
     "docs/CDN/cau-hinh-media-acceleration-live-broadcast.md",
-    "docs/CDN/huong-dan-cau-hinh-media-acceleration-voi-object-storage.md",
     "docs/CDN/assets/images/cau-hinh-ip-blacklist-whitelist-anti-hotlinking",
     "docs/CDN/assets/images/huong-dan-cau-hinh-ip-blacklist-whitelist-anti-hotlinking",
-    "docs/CDN/assets/images/New Text Document.txt",
     "docs/CDN/cau-hinh-dich-vu-low-latency-streaming.md",
     "Untitled.md",
-    "docs/CDN/cau-hinh-object-storage.md",
-    "docs/CDN/cau-hinh-content-acceleration-voi-origin-server.md",
     "docs/CDN/cau-hinh-content-acceleration-voi-object-storage.md",
     "docs/aapanel-quan-ly-server-linux.md",
     "content-acceleration.md",
     "docs/CDN/content-acceleration.md",
     "docs/CDN/media-live-broadcast.md",
     "docs/CDN/dynamic-web-acceleration.md",
-    "docs/CDN/started.md",
-    "docs/CDN/media-acceleration-vod.md",
-    "dynamic-web-acceleration.mdbak.md"
+    "docs/CDN/started.md"
   ]
 }

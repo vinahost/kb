@@ -14,7 +14,8 @@ Vui lòng chọn dịch vụ bạn đang sử dụng để bắt đầu cấu h�
 #### 📄 [Cấu hình Object Storage](cau-hinh-object-storage.md)
 ***
 #### 📄 [Cấu hình dịch vụ Low Latency Streaming (LLS)](cau-hinh-dich-vu-low-latency-streaming.md)
-
 ***
 #### 📄 [Cấu hình Referer Anti Hotlinking](cau-hinh-referer-anti-hotlinking.md)
-#### 📄 [Cấu hình IP Blacklist/Whitelist Anti Hotlinking](cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md)
+***
+#### 📄 [Xoá cache CDN bằng API](xoa-cache-cdn-bang-api.md)
+
