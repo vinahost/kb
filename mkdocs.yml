@@ -535,6 +535,9 @@ nav:
               - game/minecraft/huong-dan-cai-dat-modpack-tu-dong-cho-server-minecraft-tai-vinahost.md
           - Palworld:
               - game/palworld/huong-dan-custom-cau-hinh-palworld-chi-tiet-tai-vinahost.md
+          - ARK:
+              - game/ark/huong-dan-cai-dat-mod-cho-server-ark.md
+              - game/ark/huong-dan-thay-doi-map-cho-server-ark.md
       - N8N:
           - Hướng dẫn sử dụng N8N:
               - Hướng dẫn setup N8N: huong-dan-tao-tai-khoan-va-login-n8n.md
