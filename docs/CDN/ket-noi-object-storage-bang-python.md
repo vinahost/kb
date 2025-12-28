@@ -111,13 +111,11 @@ s3_client.download_file(
 )
 ```
 
-
 ---
 
 ### 6.4. Upload file bằng put_object
 
 ```
-# Mở tệp ở chế độ "rb" (read binary - đọc hệ nhị phân)
 with open("local-file.txt", "rb") as f:
     s3_client.put_object(
         Bucket="ten-bucket",  # Tên của Bucket trên Storage
@@ -141,9 +139,7 @@ if "Contents" in response:
         # In ra "Key" (đường dẫn/tên tệp) của đối tượng đó
         print(obj["Key"])
 ```
-
 ---
-
 ### 6.6. Xóa object
 
 ```
@@ -154,7 +150,6 @@ s3_client.delete_object(
 ```
 
 ---
-
 ## 7. Lưu ý
 
 - Object Storage sử dụng giao thức S3
