@@ -17,5 +17,11 @@ Vui lòng chọn dịch vụ bạn đang sử dụng để bắt đầu cấu h�
 ***
 #### 📄 [Cấu hình Referer Anti Hotlinking](cau-hinh-referer-anti-hotlinking.md)
 ***
+#### 📄 [Cấu hình IP Blacklist/Whitelist Anti Hotlinking](cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md)
+***
 #### 📄 [Xoá cache CDN bằng API](xoa-cache-cdn-bang-api.md)
+***
+#### 📄 [CÀI ĐẶT VÀ KẾT NỐI S3 CLIENT (S3 BROWSER) ĐẾN OBJECT STORAGE](cau-hinh-ket-noi-s3-client-voi-object-storage)
+***
+#### 📄 [KẾT NỐI OBJECT STORAGE BẰNG PYTHON](ket-noi-object-storage-bang-python.md)
 

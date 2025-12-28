@@ -316,13 +316,13 @@ nav:
               - Hướng dẫn sử dụng dịch vụ Public Cloud Vinahost: huong_dan_su_dung_public_cloud.md
       - Dịch vụ CDN:
           #   - Alibaba Cloud CDN:
-          - Vinahost CDN:
-              - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
-              - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
-              - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
-              - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
-              - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
-              - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
+          #- Vinahost CDN:
+          #    - Hướng Dẫn Sử Dụng Và Cấu Hình Dịch Vụ CDN: su-dung-va-cau-hinh-dich-vu-cdn.md
+          #    - Hướng dẫn sử dụng Cache Control trên CDN Vinahost: huong-dan-su-dung-cache-control-tren-cdn-vinahost.md
+          #    - Hướng dẫn tạo domain trên dịch vụ CDN tại Vinahost: tao-domain-tren-cdn-vinahost.md
+          #    - Hướng dẫn cấu hình cache dịch vụ CDN tại Vinahost: cau-hinh-cache-tren-cdn.md
+          #    - Hướng dẫn xóa Cache CDN tại Vinahost: xoa-cache-CDN.md
+          #    - Hướng dẫn cấu hình CDN livestream Broadcast: huong-dan-tao-CDN-livestream.md
           - CDN:
               - CDN/index.md                     # Trang chính của mục CDN
               - Đăng nhập: CDN/started.md
@@ -334,6 +334,8 @@ nav:
               - Cấu hình Referer Anti Hotlinking: CDN/cau-hinh-referer-anti-hotlinking.md
               - Cấu hình IP Blacklist/Whitelist Anti Hotlinking: CDN/cau-hinh-ip-blacklist-whitelist-anti-hotlinking.md
               - Xóa cache CDN bằng API: CDN/xoa-cache-cdn-bang-api.md
+              - Cài đặt và kết nối S3 CLIENT (S3 BROWSER) đến Object Storage: CDN/cau-hinh-ket-noi-s3-client-voi-object-storage.md
+              - Kết nối Object Storage bằng Python: CDN/ket-noi-object-storage-bang-python.md
       - FastPanel:
           - Hướng dẫn sử dụng:
               - Hướng dẫn backup và restore website trên FastPanel: fastpanel/huong-dan-backup-va-restore-website-tren-fastpanel.md
