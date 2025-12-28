@@ -114,7 +114,6 @@ s3_client.download_file(
 ---
 
 ### 6.4. Upload file bằng put_object
-
 ```
 with open("local-file.txt", "rb") as f:
     s3_client.put_object(
@@ -122,12 +121,10 @@ with open("local-file.txt", "rb") as f:
         Key="local-file.txt", # Tên tệp (hoặc đường dẫn) sẽ lưu trên Storage
         Body=f                # Nội dung dữ liệu (đối tượng file vừa mở)
     )
-
 ```
 ---
 
 ### 6.5. Liệt kê object trong bucket
-
 ```
 # Gọi API list_objects_v2 để lấy danh sách đối tượng trong bucket "ten-bucket"
 response = s3_client.list_objects_v2(Bucket="ten-bucket")
