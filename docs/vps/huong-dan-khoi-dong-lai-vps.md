@@ -11,15 +11,15 @@ categories:
 
 ## Bạn cần *restart (soft reboot)* hay *hard reboot*?
 
-Trong nhiều trường hợp, "restart" và "reboot" đều có nghĩa là ***khởi động lại*** VPS, nhưng thực ra chúng khác nhau. Điều này đặc biệt hữu ích trong trường hợp bạn vừa nâng cấp tài nguyên cho VPS (RAM, CPU, dung lượng lưu trữ).
+Trong nhiều trường hợp, "restart" và "reboot" đều có nghĩa là ***khởi động lại***, nhưng thực ra chúng khác nhau. Điều này đặc biệt hữu ích trong trường hợp bạn vừa nâng cấp tài nguyên cho VPS (RAM, CPU, dung lượng lưu trữ).
 
 - **Restart (soft reboot)**: chỉ khởi động lại hệ điều hành bên trong VPS (như khi bạn click vào nút Restart trong Windows). Do đó, VPS không nhận cấu hình tài nguyên mới.
-- **Reboot**: gồm 'soft reboot' (tức *restart* như trên) và 'hard reboot'. 'Hard reboot' dùng để chỉ việc ngắt điện rồi bật lại. Tương tự như khi bạn bấm nút nguồn để tắt hẳn máy. Trường hợp này, hệ thống sẽ áp dụng cấu hình tài nguyên mới khi bạn bật máy lại.
+- **Reboot**: gồm 'soft reboot' (tức *restart* như trên) và 'hard reboot'. ***Hard reboot*** dùng để chỉ việc ngắt điện rồi bật lại. Tương tự như khi bạn bấm nút nguồn để tắt hẳn máy. Trong trường hợp này, hệ thống sẽ áp dụng cấu hình tài nguyên mới khi bạn bật lại máy.
 
 Vậy:
 
-- Bạn restart VPS sau khi thực hiện 1 số thay đổi như update Windows, cài đặt ứng dụng, thay đổi thiết đặt hệ thống, v.v.
-- Bạn hard reboot VPS sau khi nâng cấp tài nguyên VPS hoặc hệ điều hành đang bị treo.
+- Bạn *restart* VPS sau khi thực hiện 1 số thay đổi như update Windows, cài đặt ứng dụng, thay đổi thiết đặt hệ thống, v.v.
+- Bạn *hard reboot* VPS sau khi nâng cấp tài nguyên VPS hoặc hệ điều hành đang bị treo.
 
 ## Thực hiện
 
@@ -39,7 +39,7 @@ Trong bảng điều khiển VPS, chọn nút **Restart** nếu bạn chỉ cầ
 
 ![Restart VPS](../images/khoi-dong-lai-vps-02.png)
 
-Nếu bạn muốn reboot, chọn nút **Poweroff** :material-power:{ title="poweroff" } để tắt hẳn, sau đó nhấn nút **Start** :material-play:{ title="start" } để bật lại.
+Nếu bạn muốn hard reboot, chọn nút **Poweroff** :material-power:{ title="poweroff" } để tắt hẳn, sau đó nhấn nút **Start** :material-play:{ title="start" } để bật lại.
 
 ![Poweroff VPS](../images/khoi-dong-lai-vps-03.png)
 
