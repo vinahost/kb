@@ -19,7 +19,7 @@ validation:
     unrecognized_links: info
 theme:
   name: material
-  custom_dir: _overrides
+#   custom_dir: _overrides
   favicon: favicon/favicon.ico
   font: false
   language: custom
@@ -86,9 +86,9 @@ theme:
     - django
     - python
     - ruby
-copyright: >
-  <a href="#__consent">Change cookie settings</a> <br> 
-  Copyright &copy; 2024 <a href="https://vinahost.vn/">Vinahost</a>, by the <a href="https://vinahost.vn/lien-he/">Vinahost Team</a>.
+# copyright: >
+#   <a href="#__consent">Change cookie settings</a> <br> 
+#   Copyright &copy; 2024 <a href="https://vinahost.vn/">Vinahost</a>, by the <a href="https://vinahost.vn/lien-he/">Vinahost Team</a>.
 # extra:
 #   analytics:
 #     provider: google
