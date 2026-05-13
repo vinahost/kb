@@ -117,17 +117,17 @@ copyright: >
 #   status:
 #     beta: This feature is in beta
 # https://squidfunk.github.io/mkdocs-material/customization/?h=#additional-css
-extra_css:
-  - _extra/css/extra.css
-  - _extra/css/macro-styles.css
-  - _extra/css/templates-widget.css
-  - _extra/css/workflow-demo.css
-# https://squidfunk.github.io/mkdocs-material/customization/?h=#additional-javascript
-extra_javascript:
-  - _extra/javascript/extra.js
-watch:
-  - _glossary
-  - _snippets
+# extra_css:
+#   - _extra/css/extra.css
+#   - _extra/css/macro-styles.css
+#   - _extra/css/templates-widget.css
+#   - _extra/css/workflow-demo.css
+# # https://squidfunk.github.io/mkdocs-material/customization/?h=#additional-javascript
+# extra_javascript:
+#   - _extra/javascript/extra.js
+# watch:
+#   - _glossary
+#   - _snippets
 markdown_extensions:
   # used for https://squidfunk.github.io/mkdocs-material/reference/tooltips/
   - abbr
