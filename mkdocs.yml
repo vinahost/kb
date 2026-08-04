@@ -19,7 +19,7 @@ validation:
     unrecognized_links: info
 theme:
   name: material
-#   custom_dir: _overrides
+  custom_dir: _overrides
   favicon: favicon/favicon.ico
   font: false
   language: custom
